@@ -1,0 +1,20 @@
+<div class="sticky-top sticky-top-offset">
+    <h4 class="font-weight-bold spanborder"><span>Recent Publications</span></h4>  
+    <ol class="list-featured">				
+        {% for paper in site.papers limit:5 %}                
+            <li class="mb-4">
+            <span>
+                <h6 class="font-weight-bold">
+                    <a href="{{ paper[1].url }}" class="text-dark" target="_blank">{{ paper[1].title }}</a>
+                </h6>
+                <span class="d-block text-muted">
+                    By {{ paper[1].authors }}
+                </span>
+            </span>
+            </li>                
+        {% endfor %}   
+                <span class="d-block text-muted" style="text-align:right">
+			<a href="/publications.html">View all &#8594<a/>
+                </span>
+    </ol>
+</div> 

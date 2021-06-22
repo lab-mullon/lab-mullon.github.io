@@ -1,0 +1,27 @@
+<div class="mb-5 d-flex justify-content-between main-loop-card">
+<div class="pr-3">
+	<h2 class="mb-1 h4 font-weight-bold">
+	<a class="text-dark" href="{{site.baseurl}}{{new.url}}">{{ new.title }}</a>
+	</h2>
+	<p class="excerpt">
+	   {{ new.excerpt  | strip_html | strip_newlines | truncate: 186}}
+	</p>
+	<!-- <small class="d-block text-muted">
+		In <span class="catlist">
+		{% for category in new.categories %}
+		<a class="text-capitalize text-muted smoothscroll" href="{{site.baseurl}}/categories.html#{{ category | downcase }}">{{ category }}</a><span class="sep">, </span>
+		{% endfor %}
+		</span>
+	</small> -->
+	<small class="text-muted">
+		{{ new.date | date: '%b %d, %Y' }}
+	</small>
+</div>
+{% if new.image %}
+	<div class="col-md-3 pr-0 text-right">
+	<a href="{{site.baseurl}}{{new.url}}">
+	<img class="w-100" src="/assets/images/{{ new.image }}" alt="{{ new.title }}">
+	</a>
+	</div>
+{% endif %}
+</div>
