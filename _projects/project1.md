@@ -1,9 +1,11 @@
 ---
 layout: post
-title:  "Coevolution of dispersal with social behavior"
-image:  inheritance_examples.png
-author: "Charles Mullon"
+title:  "Effects of population ecology on outcomes of sexual conflict"
+image: reddeer.png
+author: "Ewan Flintham"
 ---
 
-By determining gene flow among groups in a population, dispersal plays a major role in many ecological and evolutionary processes. As gene flow shapes kin structure, dispersal is particularly relevant to the evolution of social behaviours such as cooperation. Simultaneously, dispersal evolution depends on kin structure and how such structure is influenced by social behaviour. Dispersal and social behaviour therefore co-evolve in non-trivial ways. Using a mathematical model, we show here that this coevolution readily leads to the emergence of two social morphs: a sessile, cooperating morph; and a dispersive, selfish morph. This social polymorphism arises due to a positive linkage between the loci responsible for dispersal and social behaviour, leading to cooperating individuals preferentially interacting with relatives and selfish individuals with non-relatives. We find that this linkage is favoured under a large spectrum of conditions, suggesting associations between dispersal and other social traits should be common in nature. This prediction is supported by findings in multiple organisms ranging from protozoa to primates, with potentially significant ecological and genetic implications.  
+Males and females occupy distinct reproductive roles and therefore frequently show strong divergence in their fitness interests. This antagonism, known as sexual conflict, is thought to be a common feature of many sexually reproducing species and a pervasive force for evolutionary change, driving the evolution of sex differences and mating behaviours. We are working on theoretical population genetic and evolutionary game theory models to study the outcomes of sexual conflicts in the presence of different population ecologies, such as variation in mating systems and patterns of limited dispersal, and we are especially focused on the consequences of conflict for demography and the distribution of genetic variation. For example, we have recently modelled the evolution of sexually antagonistic alleles (genes that improve the fitness when expressed in one sex but deleterious when expressed in the other) under different modes of dispersal. We found that if the sexes disperse at different rates, antagonistic alleles favouring the less philopatric sex are more likely to fix as that sex experiences weaker kin competition, therefore showing that social ecology can direct patterns of sexually antagonistic genetic variation. 
 
+
+In the image, high fitness red deer stags have been shown to produce on average lower fitness daughters, indicating the presence of sexually antagonistic genes in this species (*Foerster et al, 2007, Nature*). Image by [Diana Parkhouse](https://unsplash.com/@ditakesphotos).
