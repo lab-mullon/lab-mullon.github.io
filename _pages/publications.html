@@ -1,31 +1,31 @@
-<!DOCTYPE html PUBLIC "-//W3C//DTD HTML 4.01//EN" "http://www.w3.org/TR/html4/strict.dtd">
-<html>
-<head>
-  <meta http-equiv="Content-Type" content="text/html; charset=utf-8">
-  <meta http-equiv="Content-Style-Type" content="text/css">
-  <title></title>
-  <meta name="Generator" content="Cocoa HTML Writer">
-  <meta name="CocoaVersion" content="2022.5">
-  <style type="text/css">
-    p.p1 {margin: 0.0px 0.0px 0.0px 0.0px; font: 12.0px Times; color: #000000; -webkit-text-stroke: #000000}
-    li.li1 {margin: 0.0px 0.0px 0.0px 0.0px; font: 12.0px Times; color: #000000; -webkit-text-stroke: #000000}
-    li.li3 {margin: 0.0px 0.0px 21.0px 0.0px; font: 12.0px Times; color: #000000; -webkit-text-stroke: #000000}
-    span.s1 {font-kerning: none}
-    span.s2 {-webkit-text-stroke: 0px #000000}
-    span.s3 {font: 9.0px Times; color: #0000e9; -webkit-text-stroke: 0px #000000}
-    span.s4 {text-decoration: underline ; font-kerning: none; -webkit-text-stroke: 0px #0000e9}
-    span.s5 {font: 9.0px Times; font-kerning: none}
-    ol.ol1 {list-style-type: decimal}
-  </style>
-</head>
-<body>
-<p class="p1"><span class="s1">--- title: "Publications" layout: default permalink: "/publications.html" ---</span></p>
-<h3 style="margin: 0.0px 0.0px 14.0px 0.0px; font: 14.0px Times; color: #000000; -webkit-text-stroke: #000000"><span class="s1"><b>{{page.title}}</b></span></h3>
-<ol class="ol1">
-  <li class="li1"><span class="s2"></span><span class="s1">{% for paper in site.papers %}</span></li>
-  <li class="li3"><span class="s3"><b></b><a href="file:///Users/vsud/lab-mullon.github.io/_pages/%7B%7B%20paper%5B1%5D.url%20%7D%7D"><span class="s4"><b>{{ paper[1].title }}</b></span></a></span><span class="s5"><b> <br>
-</b></span><span class="s1">{{ paper[1].authors }} <i>{{ paper[1].journal }}</i>, {{ paper[1].year }}.<span class="Apple-converted-space"> </span></span></li>
-  <li class="li1"><span class="s2"></span><span class="s1">{% endfor %}<span class="Apple-converted-space"> </span></span></li>
-</ol>
-</body>
-</html>
+---
+title: "Publications"
+layout: default
+permalink: "/publications.html"
+---
+
+<div class="container">
+<h3 class="font-weight-bold spanborder"><span>{{page.title}}</span></h3>
+
+<div class="sticky-top sticky-top-offset">
+
+    <ol class="list-featured">				
+        {% for paper in site.papers %}                
+            <li class="mb-4">
+            <span>
+                <h6 class="font-weight-bold">
+                    <a href="{{ paper[1].url }}" class="text-dark" target="_blank" >{{ paper[1].title }}</a>
+                </h6>
+                <span class="d-block text-muted">
+                    {{ paper[1].authors }}
+                </span>
+                <span class="d-block text-muted">
+                    <i>{{ paper[1].journal }}</i>, {{ paper[1].year }}.
+                </span>
+            </span>
+            </li>                
+        {% endfor %}   
+    </ol>
+</div> 
+
+</div>
