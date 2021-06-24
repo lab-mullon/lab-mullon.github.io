@@ -9,3 +9,7 @@ Males and females occupy distinct reproductive roles and therefore frequently sh
 
 
 In the image, high fitness red deer stags have been shown to produce on average lower fitness daughters, indicating the presence of sexually antagonistic genes in this species (*Foerster et al, 2007, Nature*). Image by [Diana Parkhouse](https://unsplash.com/@ditakesphotos).
+
+### Publications
+
+* Flintham, EO., Savolainen, V., Mullon, C. **Dispersal alters the nature and scope of sexually antagonistic variation**. *[The American Naturalist](https://www.journals.uchicago.edu/doi/abs/10.1086/713739?journalCode=an)*. 2021.
