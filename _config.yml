@@ -94,7 +94,19 @@ authors:
       researchgate:   
       orcid: 
 
-
+    marie:
+      name:           Marie Kolsh
+      title:          Master student
+      site:           
+      avatar:         no.jpg
+      bio:            ""
+      email:          marie.kolsh@unil.ch 
+      twitter:        
+      github:         
+      googlescholar:  
+      researchgate:   
+      orcid: 
+      
 papers:
     charles2021b:
       year: 2021
