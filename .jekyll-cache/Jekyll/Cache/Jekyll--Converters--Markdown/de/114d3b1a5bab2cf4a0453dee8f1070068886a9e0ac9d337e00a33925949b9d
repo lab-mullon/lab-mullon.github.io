@@ -1,0 +1,37 @@
+I".<p> Within all species, individuals vary in physiology, morphology and behaviour. Understanding this diversity is a major goal for evolutionary ecology, but also for more applied biological sciences such as conservation or medicine. Striking examples of intraspecific variation can be found in the stable coexistence of individuals with extremely differentiated phenotypes, such as the males and females of many species, and different types of resource, dispersal or mating morphs. In spite of sharing a largely common environment and gene pool, these different morphs can exhibit differences that span almost all aspects of the phenotype, from gene expression to behaviour and life-history. The study of such polymorphisms allows insights into fundamental characteristics of the ecological and genetic bases of variation, with implications for speciation and biodiversity.
+</p>
+
+<p>In our lab, we design and analyse mathematical models to better understand the ecological and genetic bases of polymorphism in complex traits. Our models blend different branches of theoretical evolutionary biology, including quantitative and population genetics, kin selection, and game theory. Rather than focusing on one specific organism, our approach is primarily conceptual, with the aim of generating general and testable predictions about the ecological conditions that favour differences between individuals, and about the genetic basis of such differences. Specific projects include investigating the emergence of polymorphism within spatially structured ecological communities, and the coevolution of polymorphic traits with their genetic architecture under non-random mating. These projects, which lie at the intersection of ecology and evolutionary biology, explore the interplay between genes, the phenotypes they code for, and how these mediate ecological interactions within- and between-species.
+</p>
+
+<p>Here are the summaries of a few of our recent projects</p>
+
+<h5 class="font-weight-bold spanborder" id="projects"><span>Projects</span></h5>
+
+<div class="sticky-top sticky-top-offset">
+
+	{% for project in site.projects %}
+        <div class="mb-3 d-flex align-items-center">                
+                {% if project.image %}
+                <div class="col-md-4">
+                <a href=".{{project.url}}">
+                 <img class="w-100" src="/assets/images/{{ project.image }}" alt="{{ project.title }}" />
+                </a>
+                </div>
+                {% endif %}                
+                <div>
+                    <h2 class="mb-2 h6 font-weight-bold">
+                    <a class="text-dark" href=".{{project.url}}">{{ project.title }}</a>
+                    </h2>
+                    <small class="d-block text-muted">
+                        By <span class="catlist"> {{ project.author }} </span>                   
+                    </small>
+                    <!-- <small class="text-muted">
+                        {{ second_post.date | date: '%b %d, %Y' }}
+                    </small> -->
+                </div>
+            </div>
+        {% endfor %}   	  
+
+</div>
+:ET

@@ -1,0 +1,60 @@
+I"ý	<div class="container">
+<h3 class="font-weight-bold spanborder"><span>{{page.title}}</span></h3>
+
+    <div class="row gap-y listrecent listrecent listauthor">
+    {% for author in site.authors %}
+        <div class="col-lg-6 mb-4">
+            <div class="p-4 border rounded">
+            <div class="row">
+            <div class="col-md-3 mb-4 mb-md-0"><img alt="{{ author[1].name }}" src="/assets/images/{{ author[1].avatar }}" class="rounded-circle" height="80" width="80" /></div>
+            <div class="col-md-9">
+            <h4 class="text-dark mb-0"> {{ author[1].name }} </h4>
+	    <small class="d-inline-block mt-1 mb-3 font-weight-normal" style="color:#006400">{{ author[1].title }}</small>
+            <div class="excerpt" style="text-align:justify">{{ author[1].bio }}</div>
+            <div class="icon-block mt-3 d-flex justify-content-between">  
+            <div>
+
+	    {% if author[1].email %}
+            <a target="_blank" href="mailto:{{ author[1].email }}"><i class="fa fa-envelope text-muted" aria-hidden="true"></i></a>  &nbsp;
+            {% endif %}
+
+	    {% if author[1].site %}
+            <a target="_blank" href="{{ author[1].site }}"><i class="fa fa-globe text-muted" aria-hidden="true"></i></a> &nbsp;
+            {% endif %}
+
+	    {% if author[1].twitter %}
+            <a target="_blank" href="{{ author[1].twitter }}"><i class="fa fa-twitter text-muted" aria-hidden="true"></i></a>  &nbsp;
+            {% endif %}
+
+	    {% if author[1].github %}
+            <a target="_blank" href="{{ author[1].github }}"><i class="fa fa-github text-muted" aria-hidden="true"></i></a> &nbsp;
+            {% endif %}
+
+	    {% if author[1].googlescholar %}
+            <a target="_blank" href="{{ author[1].googlescholar }}"><i class="ai ai-google-scholar text-muted" aria-hidden="true"></i></a> &nbsp;
+            {% endif %}
+
+	    {% if author[1].researchgate %}
+            <a target="_blank" href="{{ author[1].researchgate }}"><i class="ai ai-researchgate text-muted" aria-hidden="true"></i></a> &nbsp;
+            {% endif %}
+
+	    {% if author[1].orcid %}
+            <a target="_blank" href="{{ author[1].orcid }}"><i class="ai ai-orcid text-muted" aria-hidden="true"></i></a> &nbsp;
+            {% endif %}
+            </div>
+            </div>
+            </div>
+            </div>
+            </div>
+        </div>
+    {% endfor %}
+    </div>
+    
+    
+<!-- <h3 class="font-weight-bold spanborder"><span>Alumni</span></h3>    
+    
+    
+<h3 class="font-weight-bold spanborder"><span>Colaborators</span></h3>    -->
+    
+</div>
+:ET
