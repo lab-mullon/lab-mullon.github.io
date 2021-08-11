@@ -106,13 +106,28 @@ authors:
       googlescholar:  
       researchgate:   
       orcid: 
+ 
+alumni:  
+    manuel:
+      name:           Manuel Grubb
+      title:          Master student
+      site:           
+      avatar:         no.jpg
+      bio:            "Manuel developed the project <i>The effect of ecological inheritance on the evolution of resource consumption</i> under the supervision of Iris Prigent."
+      email:           
+      twitter:        
+      github:         
+      googlescholar:  
+      researchgate:   
+      orcid: 
+
       
 papers:
     charles2021b:
       year: 2021
       authors: <b>Mullon, C.</b>, Wakano, JY., Ohtsuki, H.
       title: Coevolutionary dynamics of genetic traits and their long-term extended effects under non-random interactions
-      journal: Jsournal of Theoretical Biology
+      journal: Journal of Theoretical Biology
       url: https://www.sciencedirect.com/science/article/pii/S0022519321001727
     charles2021a:
       year: 2021 
@@ -124,7 +139,7 @@ papers:
       year: 2021
       authors: Weyna A., Romiguier J., <b>Mullon, C.</b>
       title: Hybridization enables the fixation of selfish queen genotypes in eusocial colonies
-      journal: BioRxiv (preprint)
+      journal: Accepted for publication in Evolution Letters
       url: https://www.biorxiv.org/content/biorxiv/early/2021/02/02/2021.01.12.426359.full.pdf
     charles2020e:
       year: 2020 
@@ -134,10 +149,11 @@ papers:
       url: https://hal.archives-ouvertes.fr/hal-02950549/document
     charles2020c:
       year: 2020 
-      authors: Roux, C., <b>Mullon, C.</b>, Neuenschwander, S., Pannell, J R. 
+      authors: Roux, C.*, <b>Mullon, C.*</b>, Neuenschwander, S., Pannell, J R. 
       title: Sex allocation, inbreeding, and measures of population differentiation in hermaphroditic metapopulations
       journal: BioRxiv (preprint)
       url: https://www.biorxiv.org/content/10.1101/2020.05.08.080929v1.abstract
+      preprint: "yes"
     charles2019:
       year: 2019
       authors: <b>Mullon, C.</b> & Lehmann, L. 

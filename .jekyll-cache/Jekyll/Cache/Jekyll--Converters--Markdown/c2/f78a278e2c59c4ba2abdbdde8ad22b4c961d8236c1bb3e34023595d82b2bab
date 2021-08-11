@@ -1,10 +1,4 @@
----
-title: "Publications"
-layout: default
-permalink: "/publications.html"
----
-
-<div class="container">
+I"õ<div class="container">
 <h3 class="font-weight-bold spanborder"><span>{{page.title}}</span></h3>
 
 <div class="sticky-top sticky-top-offset">
@@ -15,7 +9,7 @@ permalink: "/publications.html"
             <li class="mb-4">
             <span>
                 <h6 class="font-weight-bold">
-                    <a href="{{ paper[1].url }}" class="text-dark" target="_blank" >{{ paper[1].title }}</a>
+                    <a href="{{ paper[1].url }}" class="text-dark" target="_blank">{{ paper[1].title }}</a>
                 </h6>
                 <span class="d-block text-muted">
                     {{ paper[1].authors }}
@@ -38,7 +32,7 @@ permalink: "/publications.html"
             <li class="mb-4">
             <span>
                 <h6 class="font-weight-bold">
-                    <a href="{{ paper[1].url }}" class="text-dark" target="_blank" >{{ paper[1].title }}</a>
+                    <a href="{{ paper[1].url }}" class="text-dark" target="_blank">{{ paper[1].title }}</a>
                 </h6>
                 <span class="d-block text-muted">
                     {{ paper[1].authors }}
@@ -58,3 +52,4 @@ permalink: "/publications.html"
 
 </div> 
 </div>
+:ET
