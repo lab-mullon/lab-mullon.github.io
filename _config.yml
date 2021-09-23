@@ -123,6 +123,12 @@ alumni:
 
       
 papers:
+    charles2021:
+      year: 2021
+      authors: Weyna A., Romiguier J., <b>Mullon, C.</b>
+      title: Hybridization enables the fixation of selfish queen genotypes in eusocial colonies
+      journal: Evolution Letters
+      url: https://onlinelibrary.wiley.com/doi/10.1002/evl3.253
     charles2021b:
       year: 2021
       authors: <b>Mullon, C.</b>, Wakano, JY., Ohtsuki, H.
@@ -135,12 +141,6 @@ papers:
       title: Dispersal alters the nature and scope of sexually antagonistic variation
       journal: The American Naturalist 
       url: https://www.journals.uchicago.edu/doi/abs/10.1086/713739?journalCode=an
-    charles2021:
-      year: 2021
-      authors: Weyna A., Romiguier J., <b>Mullon, C.</b>
-      title: Hybridization enables the fixation of selfish queen genotypes in eusocial colonies
-      journal: Accepted for publication in Evolution Letters
-      url: https://www.biorxiv.org/content/biorxiv/early/2021/02/02/2021.01.12.426359.full.pdf
     charles2020e:
       year: 2020 
       authors: <b>Mullon, C.</b>

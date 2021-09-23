@@ -1,7 +1,7 @@
 ---
 layout: post
 title:  "The impact of ecological inheritance on the emergence of polymorphism in structured populations"
-image: gray.png
+image: irisproject.png
 author: "Iris Prigent"
 permalink: /iris
 ---
