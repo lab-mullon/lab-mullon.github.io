@@ -1,5 +1,4 @@
-I"
-4<div class="container">
+I"7<div class="container">
    
 <div class="row remove-site-content-margin">
     
@@ -142,7 +141,7 @@
                 </p>
                 <a href="/research.html" class="btn btn-dark">Read more</a>
             </div>
-            <div class="col-md-6 d-none d-md-block pr-0" style="background-size:cover;background-image:url(/assets/images/group_picture.jpeg);">	
+            <div class="col-md-6 d-none d-md-block pr-0" style="background-size:cover;background-image:url(/assets/images/retreat.jpg);">	
             </div>
         </div>
     </div>
@@ -156,6 +155,35 @@
         <h4 class="font-weight-bold spanborder"><span>Latest News</span></h4>
     
 	
+
+            <div class="mb-5 d-flex justify-content-between main-loop-card">
+<div class="pr-3">
+	<h2 class="mb-1 h4 font-weight-bold">
+	<a class="text-dark" href="/retreat/">First group retreat</a>
+	</h2>
+	<p class="excerpt">
+	   Our first lab retreat happened from October 10th to 12th in a chalet in the swiss alps. It was a great opportunity to spend time together, either playing 6 qui prend, hiking in Portes...
+	</p>
+	<!-- <small class="d-block text-muted">
+		In <span class="catlist">
+		
+		</span>
+	</small> -->
+	<small class="text-muted">
+		Oct 20, 2021
+	</small>
+</div>
+
+	<div class="col-md-3 pr-0 text-right">
+	<a href="/retreat/">
+	<img class="w-100" src="/assets/images/retreat.jpg" alt="First group retreat" />
+	</a>
+	</div>
+
+</div>
+
+        
+        
 
             <div class="mb-5 d-flex justify-content-between main-loop-card">
 <div class="pr-3">
