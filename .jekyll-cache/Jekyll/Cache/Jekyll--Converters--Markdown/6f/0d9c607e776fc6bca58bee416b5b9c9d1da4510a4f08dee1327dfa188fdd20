@@ -1,9 +1,25 @@
-I"ì3<div class="container">
+I"ï6<div class="container">
 <h3 class="font-weight-bold spanborder"><span>Publications</span></h3>
 
 <div class="sticky-top sticky-top-offset">
 
     <ol class="list-featured">				
+          
+                                      
+            <li class="mb-4">
+            <span>
+                <h6 class="font-weight-bold">
+                    <a href="https://www.biorxiv.org/content/10.1101/2021.11.01.466436v1" class="text-dark" target="_blank">Evolution of warfare by resource raiding favors polymorphism in belligerence and bravery</a>
+                </h6>
+                <span class="d-block text-muted">
+                    <b>C. Mullon</b>, L. Lehmann
+                </span>
+                <span class="d-block text-muted">
+                    <i>Accepted in Philosophical Transactions of the Royal Society B</i>, 2021.
+                </span>
+            </span>
+            </li>   
+                     
           
                                       
             <li class="mb-4">
@@ -269,6 +285,8 @@
 <h3 class="font-weight-bold spanborder"><span>Submitted preprints</span></h3>
 
     <ol class="list-featured">				
+        
+                     
         
                      
         
