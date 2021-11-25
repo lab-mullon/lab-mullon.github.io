@@ -1,17 +1,11 @@
----
-title: "Theoretical Evolutionary Ecology Lab"
-layout: default
-description: "Homepage for Theoretical Evolutionary Ecology Lab at the University of Lausanne"
----
-
-<div class="container">
+I"o<div class="container">
    
 <div class="row remove-site-content-margin">
     
     <div class="col-md-6">
     <div class="card border-0 mb-4 box-shadow">   
     <a href="/research.html">
-    <div class="topfirstimage" style="background-image: url(/assets/images/logo_TEE_465_275_png.png); height: 300px;background-size:cover;background-repeat: no-repeat;background-position: center center;"></div>     
+    <div class="topfirstimage" style="background-image: url(/assets/images/front.jpg); height: 200px;    background-size: cover;    background-repeat: no-repeat;"></div>     
     </a>
     <div class="card-body px-0 pb-0 d-flex flex-column align-items-start">
     <h2 class="h4 font-weight-bold">
@@ -29,7 +23,7 @@ description: "Homepage for Theoretical Evolutionary Ecology Lab at the Universit
                 {% if project.image %}
                 <div class="col-md-4" style="max-width:150px">
                 <a href=".{{project.url}}">
-                 <img class="w-100" src="/assets/images/{{ project.image }}" alt="{{ project.title }}">
+                 <img class="w-100" src="/assets/images/{{ project.image }}" alt="{{ project.title }}" />
                 </a>
                 </div>
                 {% endif %}                
@@ -47,14 +41,14 @@ description: "Homepage for Theoretical Evolutionary Ecology Lab at the Universit
             </div>
         {% endfor %}   
       <span class="d-block text-muted" style="text-align:right">
-			<a href="/research.html#projects">View all projects &#8594<a/>
-      </span>
-    </div>
+			<a href="/research.html#projects">View all projects &amp;#8594<a />
+      &lt;/span&gt;
+    &lt;/div&gt;
     
-</div>
+&lt;/div&gt;
     
-<div class="jumbotron jumbotron-fluid jumbotron-home pt-0 pb-0 mt-3 mb-2rem position-relative">
-    <div class="pl-4 pr-0 h-100 tofront" style="background-color:#add8e6">
+<div class="jumbotron jumbotron-fluid jumbotron-home pt-0 pb-0 mt-3 mb-2rem bg-lightblue position-relative">
+    <div class="pl-4 pr-0 h-100 tofront" style="background-color:powderblue">
         <div class="row justify-content-between">
             <div class="col-md-6 pt-6 pb-6 pr-lg-4 align-self-center">
                 <!--- <h1 class="mb-3">Join us!</h1> --->
@@ -83,7 +77,7 @@ description: "Homepage for Theoretical Evolutionary Ecology Lab at the Universit
         {% endfor %}
         
         <div class="mt-5">
-            {% if paginator.total_pages > 1 %}
+            {% if paginator.total_pages &gt; 1 %}
             <ul class="pagination"> 
               {% if paginator.previous_page %}
                 <li class="page-item"><a class="page-link" href="{{ paginator.previous_page_path | prepend: site.baseurl | replace: '//', '/' }}">&laquo; Prev</a></li>
@@ -120,4 +114,6 @@ description: "Homepage for Theoretical Evolutionary Ecology Lab at the Universit
 
 
 
-</div>
+&lt;/div&gt;
+</a></span></div></div></div>
+:ET

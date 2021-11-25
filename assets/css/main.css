@@ -18,7 +18,7 @@
   --white: #fff;
   --gray: #6c757d;
   --gray-dark: #343a40;
-  --light-blue: #e8f3ec;
+  --light-blue: #add8e6;
   --primary: #03a87c;
   --secondary: #7832e2;
   --success: #03a87c;
@@ -3990,7 +3990,8 @@ input[type="button"].btn-block {
 .jumbotron {
   padding: 2rem 1rem;
   margin-bottom: 2rem;
-  background-color: #e9ecef;
+  background-color: #add8e6;
+  fill: #add8e6;
   border-radius: 0.3rem; }
   @media (min-width: 576px) {
     .jumbotron {
