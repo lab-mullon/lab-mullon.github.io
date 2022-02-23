@@ -271,6 +271,10 @@ collections:
     output: true
     title: List of Projects
     directory: ./_projects
+  courses:
+    output: true
+    title: List of Courses
+    directory: ./_courses
 
 pagination: 10
 
