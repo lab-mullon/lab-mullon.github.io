@@ -93,33 +93,7 @@ authors:
       googlescholar:  https://scholar.google.com/citations?user=IRxOMq4AAAAJ
       researchgate:   
       orcid:         
-
-    loraine:
-      name:           Loraine Hablützel
-      title:          Master student
-      site:           
-      avatar:         loraine.jpeg
-      bio:            "Loraine initially took a more classical approach to biology by majoring in Plant and Animal Sciences during my bachelors at Uni Basel. Now enrolled in the Master program BEC at UniL, she is interested in exploring the more theoretical aspects of studying ecology. Her Master project is on local adaptation and the effects of different life history strategies. The project involves simulations in Nemo and potentially setting up a mathematical model. It is supervised by Max."
-      email:          loraine.hablutzel@unil.ch 
-      twitter:        
-      github:         
-      googlescholar:  
-      researchgate:   
-      orcid: 
-
-    marie:
-      name:           Marie Kolsh
-      title:          Master student
-      site:           
-      avatar:         no.jpg
-      bio:            "Marie took a double degree in biology and mathematics for 2 years at the Sorbonne University and the biological station of Roscoff, France. She then did her 3rd year of undergraduate studies at the University of Montreal, before taking the BEC Master's degree with a specialization in Computational Ecology and Evolution at the University of Lausanne. Highly interested in cultural dynamics and learning in animals, she is studying the social learning of vervet monkeys for her master project. More specifically, she studies the effect of social structure and dispersion on the culture of vervet monkeys, simulated with Python. Her project is under the supervision of Charles Mullon and Erica van de Waal."
-      email:          marie.kolsh@unil.ch 
-      twitter:        
-      github:         
-      googlescholar:  
-      researchgate:   
-      orcid: 
-    
+   
     marco:
       name:           Marco Fele
       title:          Master student
@@ -146,7 +120,32 @@ alumni:
       googlescholar:  
       researchgate:   
       orcid: 
+      
+    loraine:
+      name:           Loraine Hablützel
+      title:          Master student
+      site:           
+      avatar:         loraine.jpeg
+      bio:            "Loraine initially took a more classical approach to biology by majoring in Plant and Animal Sciences during my bachelors at Uni Basel. Now enrolled in the Master program BEC at UniL, she is interested in exploring the more theoretical aspects of studying ecology. Her Master project is on local adaptation and the effects of different life history strategies. The project involves simulations in Nemo and potentially setting up a mathematical model. It is supervised by Max."
+      email:          loraine.hablutzel@unil.ch 
+      twitter:        
+      github:         
+      googlescholar:  
+      researchgate:   
+      orcid: 
 
+    marie:
+      name:           Marie Kolsh
+      title:          Master student
+      site:           
+      avatar:         no.jpg
+      bio:            "Marie took a double degree in biology and mathematics for 2 years at the Sorbonne University and the biological station of Roscoff, France. She then did her 3rd year of undergraduate studies at the University of Montreal, before taking the BEC Master's degree with a specialization in Computational Ecology and Evolution at the University of Lausanne. Highly interested in cultural dynamics and learning in animals, she is studying the social learning of vervet monkeys for her master project. More specifically, she studies the effect of social structure and dispersion on the culture of vervet monkeys, simulated with Python. Her project is under the supervision of Charles Mullon and Erica van de Waal."
+      email:          marie.kolsh@unil.ch 
+      twitter:        
+      github:         
+      googlescholar:  
+      researchgate:   
+      orcid: 
       
 papers:
     charles2021c:
