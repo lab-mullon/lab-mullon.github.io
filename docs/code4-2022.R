@@ -12,6 +12,7 @@ f0    = 2.1   # Baseline fitness
 GAMMA = 0.001 # Density regulation 
 sigma = 0     # Probability of undergoing sexual reproduction
 
+
 fitness = function(xi){
   ### Fitness effects as a function of the number of deleterious mutations (xi)
   num = sum(xi)
