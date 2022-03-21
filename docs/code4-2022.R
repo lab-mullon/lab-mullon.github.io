@@ -3,14 +3,14 @@
 rm(list=ls()) # Clear all stored variables.
 
 ### Summary of parameters
-TF    = 500   #Final time of observation
+TF    = 1000   #Final time of observation
 Npop  = 500   # Initial population size
 Lloci = 50    # Number of loci (max number of deleterious mutations)
 u     = 0.01  # Mutation rate
-s     = 0.01  # Deleterious fitness effect
+s     = 0.02  # Deleterious fitness effect
 f0    = 2.1   # Baseline fitness
 GAMMA = 0.001 # Density regulation 
-sigma = 0     # Probability of undergoing sexual reproduction
+sigma = 1     # Probability of undergoing sexual reproduction
 
 
 fitness = function(xi){
