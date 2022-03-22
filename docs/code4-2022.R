@@ -6,7 +6,7 @@ rm(list=ls()) # Clear all stored variables.
 TF    = 1000   #Final time of observation
 Npop  = 500   # Initial population size
 Lloci = 50    # Number of loci (max number of deleterious mutations)
-u     = 0.01  # Mutation rate
+u     = 0.005  # Mutation rate
 s     = 0.02  # Deleterious fitness effect
 f0    = 2.1   # Baseline fitness
 GAMMA = 0.001 # Density regulation 
@@ -62,7 +62,7 @@ for (time in seq(1,TF)) {
     if(Noff) { # If the number of offspring is greater than 0
       
       if (rbinom(1, 1, sigma)){ # Individuals are produced sexually
-        other.xi = sample(pop.xi, size = Noff, prob = fitnesses) # Sample mate
+        other.xi = sample(pop.xi, size = Noff, replace = T) # Sample mate
         
         for (off in seq(1, Noff) ){ # Create the genome of offspring
           popOff.xi = append(popOff.xi, list(mutate(recombine(xi, other.xi[[off]]))))
