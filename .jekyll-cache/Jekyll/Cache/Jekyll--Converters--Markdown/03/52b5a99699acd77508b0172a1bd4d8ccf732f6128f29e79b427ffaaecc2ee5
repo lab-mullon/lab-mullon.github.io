@@ -1,4 +1,4 @@
-I"Ê<<div class="container">
+I"©?<div class="container">
    
 <div class="row remove-site-content-margin">
     
@@ -155,6 +155,35 @@
         <h4 class="font-weight-bold spanborder"><span>Latest News</span></h4>
     
 	
+
+            <div class="mb-5 d-flex justify-content-between main-loop-card">
+<div class="pr-3">
+	<h2 class="mb-1 h4 font-weight-bold">
+	<a class="text-dark" href="/participation-in-MMEE/">Participation in MMEE 2022</a>
+	</h2>
+	<p class="excerpt">
+	   Thomas, Max, Ewan, Iris and Vitor are going to attend Mathematical Models in Ecology and Evolution, MMEE 2022.
+	</p>
+	<!-- <small class="d-block text-muted">
+		In <span class="catlist">
+		
+		</span>
+	</small> -->
+	<small class="text-muted">
+		Jul 15, 2022
+	</small>
+</div>
+
+	<div class="col-md-3 pr-0 text-right">
+	<a href="/participation-in-MMEE/">
+	<img class="w-100" src="/assets/images/event_MMEE.png" alt="Participation in MMEE 2022" />
+	</a>
+	</div>
+
+</div>
+
+        
+        
 
             <div class="mb-5 d-flex justify-content-between main-loop-card">
 <div class="pr-3">
