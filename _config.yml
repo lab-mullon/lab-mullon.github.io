@@ -148,12 +148,12 @@ alumni:
       orcid: 
       
 papers:
-    charles2021c:
-      year: 2021
+    charles2022a:
+      year: 2022
       authors: <b>C. Mullon</b>, L. Lehmann
       title: Evolution of warfare by resource raiding favors polymorphism in belligerence and bravery
-      journal: 'Accepted in Philosophical Transactions of the Royal Society B'
-      url: https://www.biorxiv.org/content/10.1101/2021.11.01.466436v1
+      journal: Philosophical Transactions of the Royal Society B
+      url: https://doi.org/10.1098/rstb.2021.0136
     charles2021:
       year: 2021
       authors: Weyna A., Romiguier J., <b>Mullon, C.</b>
