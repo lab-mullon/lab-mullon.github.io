@@ -276,7 +276,7 @@ collections:
     title: List of Courses
     directory: ./_courses
 
-pagination: 10
+pagination: 5
 
 # Syntax
 markdown: kramdown
