@@ -277,7 +277,7 @@ collections:
     directory: ./_courses
 
 pagination: 5
-paginate_path: "/home/page:num/"
+paginate_path: "./page:num/"
 
 # Syntax
 markdown: kramdown
