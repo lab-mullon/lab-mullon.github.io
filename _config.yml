@@ -27,19 +27,6 @@ authors:
       googlescholar:  https://scholar.google.ch/citations?user=3m8FuuMAAAAJ
       researchgate:   https://www.researchgate.net/profile/Charles-Mullon
       orcid:          https://orcid.org/0000-0002-9875-4227
- 
-    max:
-      name:           Max Schmid
-      title:          Post-doc
-      site:           
-      avatar:         max.jpg
-      bio:            "Max obtained his Master’s degree in environmental sciences at ETH Zurich, followed by a PhD in evolutionary biology with Frédéric Guillaume at the University of Zurich. In his PhD, Max used individual-based simulations and mathematical models to study local adaptation, evolution during range dynamics, and evolutionary rescue from environmental change. After two subsequent post-doc projects with Felix Gugerli (WSL) and Christoph Zollikofer (UZH), Max joined the lab as a post-doc in autumn 2020. He will study the evolution of the genetic architecture of social traits in spatially-structured populations."
-      email:          max.schmid@unil.ch
-      twitter:        https://twitter.com/max_schmid_
-      github:         
-      googlescholar:  https://scholar.google.ch/citations?user=GLNBMysAAAAJ&oi=ao
-      researchgate:   https://www.researchgate.net/profile/Max-Schmid-2
-      orcid:          https://orcid.org/0000-0001-7197-4775
   
     thomas:
       name:           Thomas Lesaffre
@@ -67,7 +54,6 @@ authors:
       researchgate:   
       orcid:          
  
- 
     vitor:
       name:           Vitor Sudbrack
       title:          PhD student
@@ -94,6 +80,22 @@ authors:
       researchgate:   
       orcid:         
    
+
+alumni:  
+
+    max:
+      name:           Max Schmid
+      title:          Post-doc
+      site:           
+      avatar:         max.jpg
+      bio:            "Max obtained his Master’s degree in environmental sciences at ETH Zurich, followed by a PhD in evolutionary biology with Frédéric Guillaume at the University of Zurich. In his PhD, Max used individual-based simulations and mathematical models to study local adaptation, evolution during range dynamics, and evolutionary rescue from environmental change. After two subsequent post-doc projects with Felix Gugerli (WSL) and Christoph Zollikofer (UZH), Max joined the lab as a post-doc in autumn 2020. He will study the evolution of the genetic architecture of social traits in spatially-structured populations."
+      email:          max.schmid@unil.ch
+      twitter:        https://twitter.com/max_schmid_
+      github:         
+      googlescholar:  https://scholar.google.ch/citations?user=GLNBMysAAAAJ&oi=ao
+      researchgate:   https://www.researchgate.net/profile/Max-Schmid-2
+      orcid:          https://orcid.org/0000-0001-7197-4775
+
     marco:
       name:           Marco Fele
       title:          Master student
@@ -106,8 +108,7 @@ authors:
       googlescholar:  
       researchgate:   
       orcid: 
- 
-alumni:  
+
     manuel:
       name:           Manuel Grubb
       title:          Master student
