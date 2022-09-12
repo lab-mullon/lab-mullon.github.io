@@ -5,7 +5,7 @@ logo: 'assets/images/front.jpg'
 favicon: 'assets/images/favicon.ico'
 
 include: ["_pages"]
-permalink: /:title/
+#permalink: /:title/
 
 # Plugins
 plugins: 
