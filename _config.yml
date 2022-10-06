@@ -149,6 +149,13 @@ alumni:
       orcid: 
       
 papers:
+    charles2022b:
+      year: 2022
+      authors: <b>Schmid, M.</b>, Rueffler, C., Lehmann, L. <b>Mullon, C.</b>
+      title: 'Foraging for locally and spatially varying resources: Where exploitation competition, local adaptation and kin selection meet'
+      journal: BioRxiv (preprint)
+      url: https://www.biorxiv.org/content/10.1101/2022.10.03.510600v1
+      preprint: "yes"
     charles2022a:
       year: 2022
       authors: <b>C. Mullon</b>, L. Lehmann
