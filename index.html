@@ -3,7 +3,7 @@ title: "Theoretical Evolutionary Ecology Lab"
 layout: default
 description: "Homepage for Theoretical Evolutionary Ecology Lab at the University of Lausanne"
 pagination: 
-  enabled: true
+  enabled: false
 ---
 
 <div class="container">
@@ -78,7 +78,7 @@ pagination:
         
         <h4 class="font-weight-bold spanborder"><span>Latest News</span></h4>
     
-        {% for new in paginator.posts %}
+        {% for new in site.posts %}
 
             {% include main-loop-card.html %}
         
