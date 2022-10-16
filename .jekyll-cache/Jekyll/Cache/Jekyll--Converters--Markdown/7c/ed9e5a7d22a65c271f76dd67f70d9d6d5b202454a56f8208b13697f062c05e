@@ -1,12 +1,4 @@
----
-title: "Theoretical Evolutionary Ecology Lab"
-layout: default
-description: "Homepage for Theoretical Evolutionary Ecology Lab at the University of Lausanne"
-pagination: 
-  enabled: true
----
-
-<div class="container">
+I"õ<div class="container">
    
 <div class="row remove-site-content-margin">
     
@@ -31,7 +23,7 @@ pagination:
                 {% if project.image %}
                 <div class="col-md-4" style="max-width:150px">
                 <a href=".{{project.url}}">
-                 <img class="w-100" src="/assets/images/{{ project.image }}" alt="{{ project.title }}">
+                 <img class="w-100" src="/assets/images/{{ project.image }}" alt="{{ project.title }}" />
                 </a>
                 </div>
                 {% endif %}                
@@ -49,11 +41,11 @@ pagination:
             </div>
         {% endfor %}   
       <span class="d-block text-muted" style="text-align:right">
-			<a href="/research.html#projects">View all projects &#8594<a/>
-      </span>
-    </div>
+			<a href="/research.html#projects">View all projects &amp;#8594<a />
+      &lt;/span&gt;
+    &lt;/div&gt;
     
-</div>
+&lt;/div&gt;
     
 <div class="jumbotron jumbotron-fluid jumbotron-home pt-0 pb-0 mt-3 mb-2rem position-relative">
     <div class="pl-4 pr-0 h-100 tofront" style="background-color:#add8e6">
@@ -86,13 +78,13 @@ pagination:
         
         <!-- Pagination links -->
         <div style="position: relative;  display: flex; justify-content: center;
-" class="mt-5" >
-            {% if paginator.total_pages >= 1 %}
+" class="mt-5">
+            {% if paginator.total_pages &gt;= 1 %}
             <ul class="pagination"> 
               {% if paginator.previous_page %}
                 <li class="page-item"><a class="page-link" href="{{ paginator.previous_page_path | prepend: site.baseurl | replace: '//', '/' }}">&laquo; Prev</a></li>
               {% else %}
-                <li class="page-item disabled"><span class="prev page-link">&#10006</span></li>
+                <li class="page-item disabled"><span class="prev page-link">&amp;#10006</span></li>
               {% endif %}
 
               {% for page in (1..paginator.total_pages) %}
@@ -108,7 +100,7 @@ pagination:
               {% if paginator.next_page %}
                 <li class="page-item"><a class="page-link" href="{{ paginator.next_page_path | prepend: site.baseurl | replace: '//', '/' }}">Next &raquo;</a></li>
               {% else %}
-                <li class="page-item disabled"><span class="next page-link">&#10006</span></li>
+                <li class="page-item disabled"><span class="next page-link">&amp;#10006</span></li>
               {% endif %}
             </ul>
             {% endif %}     
@@ -124,4 +116,6 @@ pagination:
 
 
 
-</div>
+&lt;/div&gt;
+</a></span></div></div></div>
+:ET

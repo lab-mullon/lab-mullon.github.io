@@ -11,7 +11,7 @@ include: ["_pages"]
 plugins: 
   - jekyll-feed
   - jekyll-sitemap
-  - jekyll-paginate
+  - jekyll-paginate-v2
   - jekyll-seo-tag
   
 authors:
@@ -283,8 +283,12 @@ collections:
     title: List of Courses
     directory: ./_courses
 
-pagination: 5
-paginate_path: "./page:num/"
+pagination:
+  enabled: true
+  per_page: 3
+  category: 'posts'
+  sort_reverse: true
+
 
 # Syntax
 markdown: kramdown

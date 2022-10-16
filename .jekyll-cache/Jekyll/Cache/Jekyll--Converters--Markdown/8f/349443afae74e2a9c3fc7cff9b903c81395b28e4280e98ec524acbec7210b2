@@ -1,0 +1,352 @@
+I"ñ7<div class="container">
+   
+<div class="row remove-site-content-margin">
+    
+    <div class="col-md-6">
+    <div class="card border-0 mb-4 box-shadow">   
+    <a href="/research.html">
+    <div class="topfirstimage" style="background-image: url(/assets/images/front.jpg); height: 300px;background-size:cover;background-repeat: no-repeat;background-position: center center;"></div>     
+    </a>
+    <div class="card-body px-0 pb-0 d-flex flex-column align-items-start">
+    <h2 class="h4 font-weight-bold">
+    <a class="text-dark" href="/research.html">Theoretical Evolutionary Ecology Lab</a>
+    </h2>
+    <p class="excerpt" style="text-align:justify"> Welcome to the website of the Theoretical Evolutionary Ecology lab of the <a href="https://www.unil.ch/dee/en/home.html">Department of Ecology and Evolution</a> at the University of Lausanne. Find here all information about the lab projects and its members.</p>
+    </div>
+    </div>
+    </div>
+    
+    <div class="col-md-6">
+        <!-- projects -->
+	
+        <div class="mb-3 d-flex align-items-center">                
+                
+                <div class="col-md-4" style="max-width:150px">
+                <a href="./max">
+                 <img class="w-100" src="/assets/images/distribution_resources.jpg" alt="Competition for locally and spatially varying resources under limited dispersal: Where kin, divergent and disruptive selection meet" />
+                </a>
+                </div>
+                                
+                <div>
+                    <h2 class="mb-2 h6 font-weight-bold">
+                    <a class="text-dark" href="./max">Competition for locally and spatially varying resources under limited dispersal: Where kin, divergent and disruptive selection meet</a>
+                    </h2>
+                    <small class="d-block text-muted">
+                        By <span class="catlist"> Max Schmid, Laurent Lehmann, Claus Rueffler, Charles Mullon </span>                   
+                    </small>
+                    <!-- <small class="text-muted">
+                        
+                    </small> -->
+                </div>
+            </div>
+        
+        <div class="mb-3 d-flex align-items-center">                
+                
+                <div class="col-md-4" style="max-width:150px">
+                <a href="./ewan">
+                 <img class="w-100" src="/assets/images/reddeer.png" alt="Effects of population ecology on outcomes of sexual conflict" />
+                </a>
+                </div>
+                                
+                <div>
+                    <h2 class="mb-2 h6 font-weight-bold">
+                    <a class="text-dark" href="./ewan">Effects of population ecology on outcomes of sexual conflict</a>
+                    </h2>
+                    <small class="d-block text-muted">
+                        By <span class="catlist"> Ewan Flintham </span>                   
+                    </small>
+                    <!-- <small class="text-muted">
+                        
+                    </small> -->
+                </div>
+            </div>
+        
+        <div class="mb-3 d-flex align-items-center">                
+                
+                <div class="col-md-4" style="max-width:150px">
+                <a href="./iris">
+                 <img class="w-100" src="/assets/images/irisproject.png" alt="The impact of ecological inheritance on the emergence of polymorphism in structured populations" />
+                </a>
+                </div>
+                                
+                <div>
+                    <h2 class="mb-2 h6 font-weight-bold">
+                    <a class="text-dark" href="./iris">The impact of ecological inheritance on the emergence of polymorphism in structured populations</a>
+                    </h2>
+                    <small class="d-block text-muted">
+                        By <span class="catlist"> Iris Prigent </span>                   
+                    </small>
+                    <!-- <small class="text-muted">
+                        
+                    </small> -->
+                </div>
+            </div>
+        
+        <div class="mb-3 d-flex align-items-center">                
+                
+                <div class="col-md-4" style="max-width:150px">
+                <a href="./vitor">
+                 <img class="w-100" src="/assets/images/frequency_trajectories.png" alt="Effects of population structure on segregation of competitive and social alleles" />
+                </a>
+                </div>
+                                
+                <div>
+                    <h2 class="mb-2 h6 font-weight-bold">
+                    <a class="text-dark" href="./vitor">Effects of population structure on segregation of competitive and social alleles</a>
+                    </h2>
+                    <small class="d-block text-muted">
+                        By <span class="catlist"> Vitor Sudbrack </span>                   
+                    </small>
+                    <!-- <small class="text-muted">
+                        
+                    </small> -->
+                </div>
+            </div>
+        
+        <div class="mb-3 d-flex align-items-center">                
+                
+                <div class="col-md-4" style="max-width:150px">
+                <a href="./charles">
+                 <img class="w-100" src="/assets/images/inheritance_examples.png" alt="Coevolutionary dynamics of genetic traits and their long-term extended effects under non-random interactions" />
+                </a>
+                </div>
+                                
+                <div>
+                    <h2 class="mb-2 h6 font-weight-bold">
+                    <a class="text-dark" href="./charles">Coevolutionary dynamics of genetic traits and their long-term extended effects under non-random interactions</a>
+                    </h2>
+                    <small class="d-block text-muted">
+                        By <span class="catlist"> Charles Mullon, Joe Y. Wakano, Hisashi Ohtsuki </span>                   
+                    </small>
+                    <!-- <small class="text-muted">
+                        
+                    </small> -->
+                </div>
+            </div>
+           
+      <span class="d-block text-muted" style="text-align:right">
+			<a href="/research.html#projects">View all projects &amp;#8594<a />
+      &lt;/span&gt;
+    &lt;/div&gt;
+    
+&lt;/div&gt;
+    
+<div class="jumbotron jumbotron-fluid jumbotron-home pt-0 pb-0 mt-3 mb-2rem position-relative">
+    <div class="pl-4 pr-0 h-100 tofront" style="background-color:#add8e6">
+        <div class="row justify-content-between">
+            <div class="col-md-6 pt-6 pb-6 pr-lg-4 align-self-center">
+                <!--- <h1 class="mb-3">Join us!</h1> --->
+                <p class="mb-3 lead">
+		Our lab is broadly interested in the evolutionary origin and maintenance of biological diversity in complex traits and populations. We develop and analyse mathematical models to generate general and testable predictions about the ecological conditions that favour differences between individuals and about the genetic basis of such differences.
+                </p>
+                <a href="/research.html" class="btn btn-dark">Read more</a>
+            </div>
+            <div class="col-md-6 d-none d-md-block pr-0" style="background-size:cover;background-image:url(/assets/images/retreat.jpg);">	
+            </div>
+        </div>
+    </div>
+</div> 
+
+  
+<div class="row mt-3">
+   
+    <div class="col-md-8 main-loop">
+        
+        <h4 class="font-weight-bold spanborder"><span>Latest News</span></h4>
+    
+        
+
+            <div class="mb-5 d-flex justify-content-between main-loop-card">
+<div class="pr-3">
+	<h2 class="mb-1 h4 font-weight-bold">
+	<a class="text-dark" href="/2022/09/12/retreat.html">Lab retreat 2022: Aare river</a>
+	</h2>
+	<p class="excerpt">
+	   This weekend we had our Lab retreat 2022, a moment to celebrate our friendship! It was also a special moment to say goodbye to Max and Marco. Max finished his post-doc in our lab and ...
+	</p>
+	<!-- <small class="d-block text-muted">
+		In <span class="catlist">
+		
+		</span>
+	</small> -->
+	<small class="text-muted">
+		Sep 12, 2022
+	</small>
+</div>
+
+	<div class="col-md-3 pr-0 text-right">
+	<a href="/2022/09/12/retreat.html">
+	<img class="w-100" src="/assets/images/boat_group_selfie.jpeg" alt="Lab retreat 2022: Aare river" />
+	</a>
+	</div>
+
+</div>
+
+        
+        
+
+            <div class="mb-5 d-flex justify-content-between main-loop-card">
+<div class="pr-3">
+	<h2 class="mb-1 h4 font-weight-bold">
+	<a class="text-dark" href="/2022/08/19/ewan-viva.html">Ewan passed his PhD viva</a>
+	</h2>
+	<p class="excerpt">
+	   Ewan successfully passed his PhD viva at Imperial College London. Well-deserved, congratulations Dr. Flintham!
+	</p>
+	<!-- <small class="d-block text-muted">
+		In <span class="catlist">
+		
+		</span>
+	</small> -->
+	<small class="text-muted">
+		Aug 19, 2022
+	</small>
+</div>
+
+	<div class="col-md-3 pr-0 text-right">
+	<a href="/2022/08/19/ewan-viva.html">
+	<img class="w-100" src="/assets/images/ewan.png" alt="Ewan passed his PhD viva" />
+	</a>
+	</div>
+
+</div>
+
+        
+        
+
+            <div class="mb-5 d-flex justify-content-between main-loop-card">
+<div class="pr-3">
+	<h2 class="mb-1 h4 font-weight-bold">
+	<a class="text-dark" href="/2022/07/15/participation-in-MMEE.html">Participation in MMEE 2022</a>
+	</h2>
+	<p class="excerpt">
+	   Thomas, Max, Ewan, Iris and Vitor are going to attend Mathematical Models in Ecology and Evolution, MMEE 2022.
+	</p>
+	<!-- <small class="d-block text-muted">
+		In <span class="catlist">
+		
+		</span>
+	</small> -->
+	<small class="text-muted">
+		Jul 15, 2022
+	</small>
+</div>
+
+	<div class="col-md-3 pr-0 text-right">
+	<a href="/2022/07/15/participation-in-MMEE.html">
+	<img class="w-100" src="/assets/images/event_MMEE.png" alt="Participation in MMEE 2022" />
+	</a>
+	</div>
+
+</div>
+
+        
+        
+        
+        <!-- Pagination links -->
+        <div style="position: relative;  display: flex; justify-content: center;
+" class="mt-5">
+            
+            <ul class="pagination"> 
+              
+                <li class="page-item disabled"><span class="prev page-link">&amp;#10006</span></li>
+              
+
+              
+                
+                <li class="page-item disabled"><span class="webjeda page-link">1</span></li>
+                
+              
+                
+                <li class="page-item"><a class="page-link" href="/page2">2</a></li>
+                
+              
+                
+                <li class="page-item"><a class="page-link" href="/page3">3</a></li>
+                
+              
+
+              
+                <li class="page-item"><a class="page-link" href="/page2/">Next &raquo;</a></li>
+              
+            </ul>
+                 
+        </div>
+        
+    </div>
+    
+    <div class="col-md-4">
+        <div class="sticky-top sticky-top-offset">
+    <h4 class="font-weight-bold spanborder"><span>Recent Publications</span></h4>  
+    <ol class="list-featured">				
+                        
+            <li class="mb-4">
+            <span>
+                <h6 class="font-weight-bold">
+                    <a href="https://www.biorxiv.org/content/10.1101/2022.10.03.510600v1" class="text-dark" target="_blank">Foraging for locally and spatially varying resources: Where exploitation competition, local adaptation and kin selection meet</a>
+                </h6>
+                <span class="d-block text-muted">
+                    By <b>Schmid, M.</b>, Rueffler, C., Lehmann, L. <b>Mullon, C.</b>
+                </span>
+            </span>
+            </li>                
+                        
+            <li class="mb-4">
+            <span>
+                <h6 class="font-weight-bold">
+                    <a href="https://doi.org/10.1098/rstb.2021.0136" class="text-dark" target="_blank">Evolution of warfare by resource raiding favors polymorphism in belligerence and bravery</a>
+                </h6>
+                <span class="d-block text-muted">
+                    By <b>C. Mullon</b>, L. Lehmann
+                </span>
+            </span>
+            </li>                
+                        
+            <li class="mb-4">
+            <span>
+                <h6 class="font-weight-bold">
+                    <a href="https://onlinelibrary.wiley.com/doi/10.1002/evl3.253" class="text-dark" target="_blank">Hybridization enables the fixation of selfish queen genotypes in eusocial colonies</a>
+                </h6>
+                <span class="d-block text-muted">
+                    By Weyna A., Romiguier J., <b>Mullon, C.</b>
+                </span>
+            </span>
+            </li>                
+                        
+            <li class="mb-4">
+            <span>
+                <h6 class="font-weight-bold">
+                    <a href="https://www.sciencedirect.com/science/article/pii/S0022519321001727" class="text-dark" target="_blank">Coevolutionary dynamics of genetic traits and their long-term extended effects under non-random interactions</a>
+                </h6>
+                <span class="d-block text-muted">
+                    By <b>Mullon, C.</b>, Wakano, JY., Ohtsuki, H.
+                </span>
+            </span>
+            </li>                
+                        
+            <li class="mb-4">
+            <span>
+                <h6 class="font-weight-bold">
+                    <a href="https://www.journals.uchicago.edu/doi/abs/10.1086/713739?journalCode=an" class="text-dark" target="_blank">Dispersal alters the nature and scope of sexually antagonistic variation</a>
+                </h6>
+                <span class="d-block text-muted">
+                    By <b>Flintham, EO.</b>, Savolainen, V., <b>Mullon, C.</b>
+                </span>
+            </span>
+            </li>                
+           
+                <span class="d-block text-muted" style="text-align:right">
+			<a href="/publications.html">View all publications &amp;#8594<a />
+                &lt;/span&gt;
+    &lt;/ol&gt;
+&lt;/div&gt; 
+    
+    &lt;/div&gt;
+    
+&lt;/div&gt;
+
+
+
+&lt;/div&gt;
+</a></span></ol></div></div></div></a></span></div></div></div>
+:ET
