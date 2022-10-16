@@ -1,10 +1,4 @@
----
-layout: page
-title:  "Theoretical Ecology and Evolutionary Biology - 2022"
-permalink: /TEEB
----
-
-<div class="jumbotron jumbotron-fluid mb-3 pl-0 pt-0 pb-0 bg-white position-relative">
+I"�<div class="jumbotron jumbotron-fluid mb-3 pl-0 pt-0 pb-0 bg-white position-relative">
     <div class="h-100 tofront">
         <div class="row justify-content-between">
             <div class="col-md-6 pr-0 pr-md-4 pt-4 pb-4 align-self-center">
@@ -20,23 +14,20 @@ permalink: /TEEB
                 </div>
             </div>
             <div class="col-md-6 pr-0 align-self-center">
-                <img class="rounded" src="/assets/images/topic-group-picture.jpeg" alt="Topic group">
+                <img class="rounded" src="/assets/images/topic-group-picture.jpeg" alt="Topic group" />
             </div>
         </div>
     </div>
 </div>
 
+<p><strong>Session 1</strong>: 14/10/22 | Vítor Sudbrack  | <a href="/docs/teeb1-2022.pdf">Zhao and Charlesworth, 2016</a> | <a href="/docs/teeb1-notes-2022.pdf">Notes</a></p>
 
-**Session 1**: 14/10/22 \| Vítor Sudbrack  \| [Zhao and Charlesworth, 2016](/docs/teeb1-2022.pdf) \| [Notes](/docs/teeb1-notes-2022.pdf) 
+<p><strong>Session 2</strong>: 28/10/22 | Ehouarn Le Faou | Paper: TBA</p>
 
-**Session 2**: 28/10/22 \| Ehouarn Le Faou \| Paper: TBA
+<p><strong>Session 3</strong>: 11/11/22 | Thomas Lesaffre |  Paper: TBA</p>
 
-**Session 3**: 11/11/22 \| Thomas Lesaffre \|  Paper: TBA 
+<p><strong>Session 4</strong>: 25/11/22 | Afra Salazar |  Paper: TBA</p>
 
-**Session 4**: 25/11/22 \| Afra Salazar \|  Paper: TBA 
+<p><strong>Session 5</strong>: 09/12/22 | Iris Prigent |  Paper: TBA</p>
 
-**Session 5**: 09/12/22 \| Iris Prigent \|  Paper: TBA
-
-
-
-
+:ET
