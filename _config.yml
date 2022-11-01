@@ -41,6 +41,19 @@ authors:
       researchgate:   https://www.researchgate.net/profile/Thomas-Lesaffre
       orcid:          hhttps://orcid.org/0000-0002-0815-259X
  
+     ewan:
+      name:           Ewan Flintham
+      title:          Post-doc
+      site:           
+      avatar:         ewan.png
+      bio:            "Ewan completed an undergraduate degree in Biology at the University of Oxford and a master's in Computational Biology at Imperial College London. He is currently a PhD student at Imperial supervised by Vincent Savolainen, Matteo Fumagalli and Charles Mullon. He uses mathematical models to study the evolutionary genetics of sex-specific selection and sexual conflict. In particular, he is interested in the role of population ecology in influencing the evolution of sex differences, and the repercussions of this for patterns of genetic variation in natural populations."
+      email:          e.flintham17@imperial.ac.uk
+      twitter:        https://twitter.com/EwanFlintham
+      github:         
+      googlescholar:  https://scholar.google.com/citations?user=IRxOMq4AAAAJ
+      researchgate:   
+      orcid:         
+   
     iris:
       name:           Iris Prigent
       title:          PhD student
@@ -67,29 +80,17 @@ authors:
       researchgate:   https://www.researchgate.net/profile/Vitor-Sudbrack
       orcid:          https://orcid.org/0000-0002-4815-2092
 
-    ewan:
-      name:           Ewan Flintham
-      title:          PhD student
-      site:           
-      avatar:         ewan.png
-      bio:            "Ewan completed an undergraduate degree in Biology at the University of Oxford and a master's in Computational Biology at Imperial College London. He is currently a PhD student at Imperial supervised by Vincent Savolainen, Matteo Fumagalli and Charles Mullon. He uses mathematical models to study the evolutionary genetics of sex-specific selection and sexual conflict. In particular, he is interested in the role of population ecology in influencing the evolution of sex differences, and the repercussions of this for patterns of genetic variation in natural populations."
-      email:          e.flintham17@imperial.ac.uk
-      twitter:        https://twitter.com/EwanFlintham
-      github:         
-      googlescholar:  https://scholar.google.com/citations?user=IRxOMq4AAAAJ
-      researchgate:   
-      orcid:         
-   
+
 
 alumni:  
 
     max:
       name:           Max Schmid
       title:          Post-doc
-      site:           
+      site:           https://uni-tuebingen.de/fakultaeten/mathematisch-naturwissenschaftliche-fakultaet/fachbereiche/biologie/institute/evolution-und-oekologie/lehrbereiche/vegetationsoekologie/mitarbeiterinnen/dr-max-schmid/
       avatar:         max.jpg
-      bio:            "Max obtained his Master’s degree in environmental sciences at ETH Zurich, followed by a PhD in evolutionary biology with Frédéric Guillaume at the University of Zurich. In his PhD, Max used individual-based simulations and mathematical models to study local adaptation, evolution during range dynamics, and evolutionary rescue from environmental change. After two subsequent post-doc projects with Felix Gugerli (WSL) and Christoph Zollikofer (UZH), Max joined the lab as a post-doc in autumn 2020. He will study the evolution of the genetic architecture of social traits in spatially-structured populations."
-      email:          max.schmid@unil.ch
+      bio:            "After a successful post-doc at our lab, Max is an Assistant Professor at the University of Tübingen, Germany."
+      email:          max.schmid@uni-tuebingen.de
       twitter:        https://twitter.com/max_schmid_
       github:         
       googlescholar:  https://scholar.google.ch/citations?user=GLNBMysAAAAJ&oi=ao
@@ -101,8 +102,8 @@ alumni:
       title:          Master student
       site:           
       avatar:         marco.jpg
-      bio:            "Marco graduated in Environmental Sciences from the University of Trieste (Italy). He then moved to Groningen to take the Master's <i>Ecology and Evolution</i>. Passionate for modeling, he is specializing in <i>Modeling in life sciences</i> during his Master's. His current project addresses the role of individual specialization in ants' collective decisions. He investigates whether leadership favors colony performance in the decision-making process with individual-based simulations. By conducting the project as an exchange student, he aims to improve his research skills as well as discover Lausanne as a vibrant student city, full of opportunities."
-      email:          marco.fele@unil.ch 
+      bio:            "After his successful Master project on ant collective decision making, Marco is currently a PhD student at Swansea University, United Kingdom."
+      email:          
       twitter:        
       github:         
       googlescholar:  
@@ -125,10 +126,10 @@ alumni:
     loraine:
       name:           Loraine Hablützel
       title:          Master student
-      site:           
+      site:           https://banklab.github.io/people/
       avatar:         loraine.jpeg
-      bio:            "Loraine initially took a more classical approach to biology by majoring in Plant and Animal Sciences during my bachelors at Uni Basel. Now enrolled in the Master program BEC at UniL, she is interested in exploring the more theoretical aspects of studying ecology. Her Master project is on local adaptation and the effects of different life history strategies. The project involves simulations in Nemo and potentially setting up a mathematical model. It is supervised by Max."
-      email:          loraine.hablutzel@unil.ch 
+      bio:            "After her successful Master project supervised by Max, she is now a PhD student at the University of Bern. "
+      email:          loraine.habluetzel@unibe.ch
       twitter:        
       github:         
       googlescholar:  
@@ -140,8 +141,8 @@ alumni:
       title:          Master student
       site:           
       avatar:         no.jpg
-      bio:            "Marie took a double degree in biology and mathematics for 2 years at the Sorbonne University and the biological station of Roscoff, France. She then did her 3rd year of undergraduate studies at the University of Montreal, before taking the BEC Master's degree with a specialization in Computational Ecology and Evolution at the University of Lausanne. Highly interested in cultural dynamics and learning in animals, she is studying the social learning of vervet monkeys for her master project. More specifically, she studies the effect of social structure and dispersion on the culture of vervet monkeys, simulated with Python. Her project is under the supervision of Charles Mullon and Erica van de Waal."
-      email:          marie.kolsh@unil.ch 
+      bio:            "Marie studied the effects of social structure and dispersion on the culture of vervet monkeys, supervised of Charles Mullon and Erica van de Waal."
+      email:           
       twitter:        
       github:         
       googlescholar:  
