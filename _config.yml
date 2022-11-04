@@ -80,6 +80,18 @@ authors:
       researchgate:   https://www.researchgate.net/profile/Vitor-Sudbrack
       orcid:          https://orcid.org/0000-0002-4815-2092
 
+    franz:
+      name:           Franz Chai
+      title:          Master student
+      site:           
+      avatar:         franz.jpeg
+      bio:            "Franz develops the project <i>The effect of encounter rate on sexual discrimination</i> under the supervision of Ewan."
+      email:          franz.chai@unil.ch
+      twitter:        
+      github:         
+      googlescholar:  
+      researchgate:   
+      orcid:          
 
 
 alumni:  
@@ -115,7 +127,7 @@ alumni:
       title:          Master student
       site:           
       avatar:         no.jpg
-      bio:            "Manuel developed the project <i>The effect of ecological inheritance on the evolution of resource consumption</i> under the supervision of Iris Prigent."
+      bio:            "Manuel developed the project <i>The effect of ecological inheritance on the evolution of resource consumption</i> under the supervision of Iris."
       email:           
       twitter:        
       github:         
