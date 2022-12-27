@@ -162,7 +162,14 @@ alumni:
       orcid: 
       
 papers:
-    charles2022b:
+    iris2022:
+      year: 2022
+      authors: <b>Prigent, I.</b>, <b>Mullon, C.</b>
+      title: 'The moulding of intra-specific diversity by selection under ecological inheritance'
+      journal: BioRxiv (preprint)
+      url: https://www.biorxiv.org/content/10.1101/2022.12.26.521924v1
+      preprint: "yes"
+    max2022:
       year: 2022
       authors: <b>Schmid, M.</b>, Rueffler, C., Lehmann, L. <b>Mullon, C.</b>
       title: 'Foraging for locally and spatially varying resources: Where exploitation competition, local adaptation and kin selection meet'
