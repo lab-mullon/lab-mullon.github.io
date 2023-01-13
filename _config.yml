@@ -166,8 +166,8 @@ papers:
       year: 2023
       authors: <b>Flintham, EO.</b>, Savolainen, V., <b>Mullon, C.</b>
       title: 'Male harm offsets the demographic benefits of good genes'
-      journal: PNAS (in press)
-      url: https://lab-mullon.github.io/ewan
+      journal: 'PNAS (in press)'
+      url: /ewan
     iris2022:
       year: 2022
       authors: <b>Prigent, I.</b>, <b>Mullon, C.</b>
