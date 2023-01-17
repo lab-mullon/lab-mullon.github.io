@@ -162,6 +162,13 @@ alumni:
       orcid: 
       
 papers:
+    charles2023a:
+      year: 2023
+      authors: Avila, P., <b>Mullon, C.</b>
+      title: 'Evolutionary Game Theory and the Adaptive Dynamics Approach: Adaptation where Individuals Interact'
+      journal: 'Philosophical Transactions of the Royal Society B'
+      url: https://ecoevorxiv.org/repository/view/4928/
+      appendix: appendix1-2023.pdf
     ewan2023:
       year: 2023
       authors: <b>Flintham, EO.</b>, Savolainen, V., <b>Mullon, C.</b>
