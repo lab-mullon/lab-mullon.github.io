@@ -1,6 +1,6 @@
 ---
 layout: post
-title:  "Mode \& tempo of genetic adaptation under limited dispersal"
+title:  "Mode and tempo of genetic adaptation under limited dispersal"
 image: frequency_trajectories.png
 author: "Vitor Sudbrack"
 permalink: /vitor
