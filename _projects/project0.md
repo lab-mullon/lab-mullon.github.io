@@ -1,8 +1,8 @@
 ---
 layout: post
 title:  "Competition for locally and spatially varying resources under limited dispersal: Where kin, divergent and disruptive selection meet"
-image: distribution_resources.jpg
-author: "Max Schmid, Laurent Lehmann, Claus Rueffler, Charles Mullon"
+image: max_proj.png
+author: "Max Schmid"
 permalink: /max
 ---
 
