@@ -1,6 +1,6 @@
 ---
 layout: post
-title:  "Participation in PopGroup 2023"
+title:  "PopGroup 2023"
 image: event_PopGroup23.png
 ---
 

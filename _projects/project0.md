@@ -1,6 +1,6 @@
 ---
 layout: post
-title:  "Competition for locally and spatially varying resources under limited dispersal: Where kin, divergent and disruptive selection meet"
+title:  "Competition for locally and spatially varying resources under limited dispersal"
 image: max_proj.png
 author: "Max Schmid"
 permalink: /max

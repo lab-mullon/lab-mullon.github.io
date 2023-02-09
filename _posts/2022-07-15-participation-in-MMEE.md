@@ -1,6 +1,6 @@
 ---
 layout: post
-title:  "Participation in MMEE 2022"
+title:  "MMEE 2022"
 image: event_MMEE.png
 ---
 

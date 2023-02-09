@@ -47,8 +47,13 @@ permalink: "/publications.html"
                     {{ paper[1].authors }}
                 </span>
                 <span class="d-block text-muted">
-                    <i>{{ paper[1].journal }}</i>, {{ paper[1].year }}. {% if paper[1].appendix %}<a href="/docs/{{ paper[1].appendix }}" class="text-dark" target="_blank" >Appendix</a>.{% endif %} 
+                    <i>{{ paper[1].journal }}</i>, {{ paper[1].year }}. {% if paper[1].appendix %}<a href="/docs/{{ paper[1].appendix }}" class="text-dark" target="_blank" >Appendix</a>.{% endif %}                     
                 </span>
+                {% if paper[1].recommendation == "yes" %}
+                <span style="margin-left:10px;" class="d-block text-muted" >
+                    A recommentation of: {{ paper[1].recommentation.author }} ({{ paper[1].recommentation.year }}). <a href="{{ paper[1].recommentation.url }}" class="text-dark" target="_blank" >{{ paper[1].recommentation.title }}</a>.
+                </span>
+                {% endif %} 
             </span>
             </li>   
         {% endif %}             

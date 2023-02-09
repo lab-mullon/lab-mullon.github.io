@@ -1,6 +1,6 @@
 ---
 layout: post
-title:  "Charles' lecture is available on Youtube"
+title:  "TheBioNet seminar is available on Youtube"
 image: lecture_youtube.jpg
 ---
 

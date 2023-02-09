@@ -1,6 +1,6 @@
 ---
 layout: post
-title:  "Participation in SMB2021 and Virtual Evolution 2021"
+title:  "SMB2021 and Virtual Evolution 2021"
 image: events_June21.png
 ---
 

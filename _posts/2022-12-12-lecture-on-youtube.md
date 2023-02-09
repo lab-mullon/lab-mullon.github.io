@@ -1,6 +1,6 @@
 ---
 layout: post
-title:  "Charles' lecture is available on Youtube"
+title:  "SEEM seminar is available on Youtube"
 image: lecture_montpellier.jpg
 ---
 
