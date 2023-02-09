@@ -162,6 +162,17 @@ alumni:
       orcid: 
       
 papers:
+    charles2023b:
+      year: 2023
+      authors: <b>Mullon, C.</b>
+      title: Environmental and fitness landscapes matter for the genetic basis of local adaptation
+      journal: Peer Community in Evolutionary Biology
+      url: https://evolbiol.peercommunityin.org/articles/rec?id=590
+      recommendation: "yes"
+      recommentationauthor: Laroche and Lenormand
+      recommentationyear: 2022
+      recommentationtitle: "The genetic architecture of local adaptation in a cline"
+      recommentationurl: https://doi.org/10.1101/2022.06.30.498280
     charles2023a:
       year: 2023
       authors: Avila, P., <b>Mullon, C.</b>
@@ -220,10 +231,10 @@ papers:
       journal: Peer Community in Evolutionary Biology
       url: https://evolbiol.peercommunityin.org/articles/rec?id=224
       recommendation: "yes"
-      recommentation.author: Maisonneuve, <i>et al</i> 
-      recommentation.year: 2020
-      recommentation.title: "Evolution and genetic architecture of disassortative mating at a locus under heterozygote advantage"
-      recommentation.url: https://doi.org/10.1101/616409
+      recommentationauthor: Maisonneuve, <i>et al</i> 
+      recommentationyear: 2020
+      recommentationtitle: "Evolution and genetic architecture of disassortative mating at a locus under heterozygote advantage"
+      recommentationurl: https://doi.org/10.1101/616409
     charles2020c:
       year: 2020 
       authors: Roux, C.*, <b>Mullon, C.*</b>, Neuenschwander, S., Pannell, J R. 
