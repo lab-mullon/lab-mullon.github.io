@@ -85,7 +85,7 @@ authors:
       title:          Master student
       site:           
       avatar:         franz.jpeg
-      bio:            "Franz develops the project <i>The effect of encounter rate on sexual discrimination</i> under the supervision of Ewan."
+      bio:            "Franz is working on the project <i>The effect of encounter rate on sexual discrimination</i> under the supervision of Ewan."
       email:          franz.chai@unil.ch
       twitter:        
       github:         
@@ -101,7 +101,7 @@ alumni:
       title:          Post-doc
       site:           https://uni-tuebingen.de/fakultaeten/mathematisch-naturwissenschaftliche-fakultaet/fachbereiche/biologie/institute/evolution-und-oekologie/lehrbereiche/vegetationsoekologie/mitarbeiterinnen/dr-max-schmid/
       avatar:         max.jpg
-      bio:            "After a post-doc at our lab, Max is an Assistant Professor at the University of Tübingen, Germany."
+      bio:            "After a post-doc in our lab, Max is now an Assistant Professor at the University of Tübingen, Germany."
       email:          max.schmid@uni-tuebingen.de
       twitter:        https://twitter.com/max_schmid_
       github:         
@@ -140,7 +140,7 @@ alumni:
       title:          Master student
       site:           https://banklab.github.io/people/
       avatar:         loraine.jpeg
-      bio:            "After her Master project supervised by Max, she is now a PhD student at the University of Bern. "
+      bio:            "After her Master project supervised by Max, Loraine is now a PhD student at the University of Bern. "
       email:          loraine.habluetzel@unibe.ch
       twitter:        
       github:         
@@ -153,7 +153,7 @@ alumni:
       title:          Master student
       site:           
       avatar:         marie.png
-      bio:            "Marie studied the effects of social structure and dispersion on the culture of vervet monkeys, supervised of Charles Mullon and Erica van de Waal."
+      bio:            "Marie studied the effects of social structure and dispersion on the culture of vervet monkeys, supervised by Charles Mullon and Erica van de Waal."
       email:           
       twitter:        
       github:         
@@ -231,7 +231,7 @@ papers:
       journal: Peer Community in Evolutionary Biology
       url: https://evolbiol.peercommunityin.org/articles/rec?id=224
       recommendation: "yes"
-      recommendationauthor: Maisonneuve, <i>et al</i> 
+      recommendationauthor: Maisonneuve, <i>et al.</i> 
       recommendationyear: 2020
       recommendationtitle: "Evolution and genetic architecture of disassortative mating at a locus under heterozygote advantage"
       recommendationurl: https://doi.org/10.1101/616409

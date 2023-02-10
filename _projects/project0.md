@@ -1,6 +1,6 @@
 ---
 layout: post
-title:  "Competition for locally and spatially varying resources under limited dispersal"
+title:  "Competition for locally and spatially varying resources"
 image: max_proj.png
 author: "Max Schmid"
 permalink: /max
