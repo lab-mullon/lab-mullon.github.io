@@ -1,7 +1,7 @@
 ---
 layout: post
-title:  "The impact of ecological inheritance on the emergence of polymorphism in structured populations"
-image: irisproject.png
+title:  "Evolutionary dynamics of traits with long-term extended effects"
+image: irisproject_v2.png
 author: "Iris Prigent"
 permalink: /iris
 ---
