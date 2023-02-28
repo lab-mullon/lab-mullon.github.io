@@ -1,14 +1,14 @@
 ---
 layout: post
-title:  "Evolutionary dynamics of traits with long-term extended effects"
+title:  "Evolutionary dynamics of traits with long-term ecological effects"
 image: irisproject_v2.png
 author: "Iris Prigent"
 permalink: /iris
 ---
 
-Ecological inheritance can be described as the process by which individuals modify their environment and transmit it to the next generations. As organisms highly depend on their environment for reproduction and survival, individuals that transmit better environments to their offspring are more likely to succeed. Therefore, the structure of the populations (i.e., how likely it is for offspring to live in the same environment as their parents) and the type of interactions impacting the ecology will determine which morphs are favoured by natural selection. In this project, I use an adaptive dynamics approach in order to find if, under different conditions and with different types of interactions, co-existence between different life-history strategies is possible. I compare these theoretical results to individual based simulations.
+Organisms continuously modify their environment, often impacting the fitness of future conspecifics due to ecological inheritance. To understand the implications of such inheritance for phenotypic diversity, I investigate the coevolution of multiple traits in a group-structured population when these traits affect the group environment, which is then bequeathed to future generations. I am particularly interested when such coevolution favours polymorphism as well as the resulting associations among traits. 
 
-In my current work, I show that when dispersal and consumption of a  are co-evolving, two morphs can co-exist: one mobile that consumes more resource (with a high impact on its environnement) and another that is sessile and limits its impact on its environment with a low consumption.
+I find for instance that two traits become associated when one trait affects the environment while the other influences the likelihood that future kin experience this environment. To illustrate this, I have focused on the coevolution of (a) the attack rate on a local renewable resource, which deteriorates environmental conditions, with (b) dispersal between groups, which reduces the likelihood that kin suffers from such deterioration. I find this often leads to the emergence of two highly-differentiated morphs: one that readily disperses and depletes local resources; and another that maintains these resources and tends to remain philopatric. More broadly, my research suggests that ecological inheritance can contribute to phenotypic diversity and lead to complex polymorphism. 
 
 ### Publications
 
