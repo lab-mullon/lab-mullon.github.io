@@ -10,6 +10,6 @@ Charles, Thomas, Ewan, Iris and Vitor attended the [Biology23](https://biology23
 
 Ewan and Vitor presented a short talk each. Iris presented a poster. Our previous Master student, Loraine, also presented a poster about her research project inn our group. 
 
-![Ewan in Biology23](/assets/images/ewan_biology23.jpeg)
+![Ewan in Biology23](/assets/images/ewan_Biology23.jpeg)
 
 
