@@ -1,6 +1,6 @@
 ---
 layout: post
-title:  "Biology 2023"
+title:  "Ewan's paper in the media"
 image: ewan_pnas_publication.png
 ---
 
