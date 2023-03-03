@@ -162,6 +162,19 @@ alumni:
       orcid: 
       
 papers:
+    ewan2023:
+      year: 2023
+      authors: <b>Flintham, EO.</b>, Savolainen, V., <b>Mullon, C.</b>
+      title: 'Male harm offsets the demographic benefits of good genes'
+      journal: 'PNAS'
+      url: https://www.pnas.org/doi/10.1073/pnas.2211668120
+    charles2023a:
+      year: 2023
+      authors: Avila, P., <b>Mullon, C.</b>
+      title: 'Evolutionary Game Theory and the Adaptive Dynamics Approach: Adaptation where Individuals Interact'
+      journal: 'Philosophical Transactions of the Royal Society B'
+      url: https://ecoevorxiv.org/repository/view/4928/
+      appendix: appendix1-2023.pdf
     charles2023b:
       year: 2023
       authors: <b>Mullon, C.</b>
@@ -173,19 +186,6 @@ papers:
       recommendationyear: 2022
       recommendationtitle: "The genetic architecture of local adaptation in a cline"
       recommendationurl: https://doi.org/10.1101/2022.06.30.498280
-    charles2023a:
-      year: 2023
-      authors: Avila, P., <b>Mullon, C.</b>
-      title: 'Evolutionary Game Theory and the Adaptive Dynamics Approach: Adaptation where Individuals Interact'
-      journal: 'Philosophical Transactions of the Royal Society B'
-      url: https://ecoevorxiv.org/repository/view/4928/
-      appendix: appendix1-2023.pdf
-    ewan2023:
-      year: 2023
-      authors: <b>Flintham, EO.</b>, Savolainen, V., <b>Mullon, C.</b>
-      title: 'Male harm offsets the demographic benefits of good genes'
-      journal: 'PNAS (in press)'
-      url: /ewan
     iris2022:
       year: 2022
       authors: <b>Prigent, I.</b>, <b>Mullon, C.</b>
