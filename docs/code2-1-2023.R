@@ -21,13 +21,13 @@ AP=function(n, nt, p, alpha, b, u, sig)
     
     Fec= (A-1)*b*alpha*( 1- exp(-(1-P)) ) + (2-A)*b*( 1- exp(-P) ) ### ???
     
-    Par=P # Store the population in the previous timestep in a vector 'P'
+    Par=P # Store the population in the previous timestep in a vector 'Par'
     
     for(i in 1:n) # For each individual...
     {
       if( runif(1) > p || A[i] > 1 ) # If it dies
       {
-        off = sample(seq(1,n,1), size=1, prob=Fec/sum(Fec)) # Sample a parent in the population with a probability proportional to fecundity
+        off = sample(1:n, size=1, prob=Fec) # Sample a parent in the population with a probability proportional to fecundity
         
         A[i] = 1 # Set age of the new individual to 1.
         

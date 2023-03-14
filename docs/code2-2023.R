@@ -17,16 +17,17 @@ RE=function(n, nt, gamma, c, b0, sig, u)
   for(t in 1:nt) # For each time step...
   {
     fec=b0*pop/sum(b0*pop) # Compute the relative fecundity of individuals in the population and store it in the 'fec' vector. 
+    par=pop # Save the parental population in the 'par' vector
     
     for(i in 1:n) # For each individual in the population
     {
       if( runif(1) > c*(1 - pop[i]^gamma) ) # ???
       {
-        par = sample(x=c(1:n), size=1, prob= fec ) # ???
+        p = sample(x=c(1:n), size=1, prob= fec ) # ???
         
         if(runif(1) < u) # If the individual mutates
         {
-          off = pop[par] + sig*rnorm(n=1, mean=0, sd=1) # sample its new value in a Gaussian N(0,sig) around the parental value
+          off = par[p] + sig*rnorm(n=1, mean=0, sd=1) # sample its new value in a Gaussian N(0,sig) around the parental value
           
           # Keep reproductive effort values within bounds:
           
@@ -42,7 +43,7 @@ RE=function(n, nt, gamma, c, b0, sig, u)
         }
         else
         {
-          off = pop[par] # If the individual does not mutate, it simply inherits the parental value.
+          off = par[p] # If the individual does not mutate, it simply inherits the parental value.
         }
         
         pop[i] = off # Incorporate the new individual in the population.
@@ -67,4 +68,3 @@ RE=function(n, nt, gamma, c, b0, sig, u)
 
 # The results of the simulation are stored in the object 'sim'
 sim=RE(n= , nt= , gamma= , c= , b0= , sig= , u= )
-
