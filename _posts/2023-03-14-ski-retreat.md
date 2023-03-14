@@ -1,6 +1,6 @@
 ---
 layout: post
-title:  "Lab retreat 2022: Aare river"
+title:  "Lab retreat 2023: Skiing trip"
 image: ski-retreat-cover.jpeg
 ---
 
