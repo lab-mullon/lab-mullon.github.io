@@ -168,6 +168,11 @@ papers:
       title: 'Male harm offsets the demographic benefits of good genes'
       journal: 'PNAS'
       url: https://www.pnas.org/doi/10.1073/pnas.2211668120
+      recommended: "yes"
+      recommendedauthor: Svensson, E.I. 
+      recommendedyear: 2023
+      recommendedtitle: "Why high-condition males might be bad news for females and populations"
+      recommendedurl: https://www.pnas.org/doi/10.1073/pnas.2301989120
     charles2023a:
       year: 2023
       authors: Avila, P., <b>Mullon, C.</b>
@@ -302,7 +307,7 @@ papers:
       title: The robustness of the weak selection approximation for the evolution of altruism against strong selection
       journal: Journal of Evolutionary Biology
       url: http://onlinelibrary.wiley.com/doi/10.1111/jeb.12462/full
-    charles2014:
+    charles2014b:
       year: 2014
       authors: <b>Mullon, C.</b>, Reuter, M., Lehmann, L. 
       title: The evolution and consequences of sex-specific reproductive variance

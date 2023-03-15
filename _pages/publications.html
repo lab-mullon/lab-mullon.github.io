@@ -54,6 +54,11 @@ permalink: "/publications.html"
                     A recommendation of: {{ paper[1].recommendationauthor }} ({{ paper[1].recommendationyear }}). <a href="{{ paper[1].recommendationurl }}" class="text-dark" target="_blank" >{{ paper[1].recommendationtitle }}</a>.
                 </span>
                 {% endif %} 
+                {% if paper[1].recommended == "yes" %}
+                <span class="d-block text-muted" >
+                    See recommendation by: {{ paper[1].recommendedauthor }} ({{ paper[1].recommendedyear }}). <a href="{{ paper[1].recommendedurl }}" class="text-dark" target="_blank" >{{ paper[1].recommendedtitle }}</a>.
+                </span>
+                {% endif %} 
             </span>
             </li>   
         {% endif %}             
