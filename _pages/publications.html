@@ -12,7 +12,7 @@ permalink: "/publications.html"
     <h3 class="font-weight-bold spanborder"><span>Submitted preprints</span></h3>
 
     <ol class="list-featured">				
-        {% for paper in site.papers %}
+        {% for paper in site.data.papers %}
         {% if paper[1].preprint == "yes" %}                
             <li class="mb-4">
             <span>
@@ -36,7 +36,7 @@ permalink: "/publications.html"
 <h3 class="font-weight-bold spanborder"><span>Publications</span></h3>
 
     <ol class="list-featured">				
-        {% for paper in site.papers %}  
+        {% for paper in site.data.papers %}  
         {% if paper[1].preprint != "yes" %}                              
             <li class="mb-4">
             <span>
