@@ -80,21 +80,19 @@ authors:
       researchgate:   https://www.researchgate.net/profile/Vitor-Sudbrack
       orcid:          https://orcid.org/0000-0002-4815-2092
 
+alumni:  
     franz:
       name:           Franz Chai
       title:          Master student
       site:           
       avatar:         franz.jpeg
-      bio:            "Franz is working on the project <i>The effect of encounter rate on sexual discrimination</i> under the supervision of Ewan."
+      bio:            "Franz worked on the project <i>The effect of encounter rate on sexual discrimination</i> under the supervision of Ewan."
       email:          franz.chai@unil.ch
       twitter:        
       github:         
       googlescholar:  
       researchgate:   
       orcid:          
-
-
-alumni:  
 
     max:
       name:           Max Schmid
