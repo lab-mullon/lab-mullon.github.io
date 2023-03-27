@@ -162,6 +162,13 @@ alumni:
       orcid: 
       
 papers:
+    thomas2023:
+      year: 2022
+      authors: <b>Lesaffre, T.</b>, Pannell, J.R., <b>Mullon, C.</b>
+      title: 'On the origins of Y and W chromosomes as an outcome of sex allocation evolution'
+      journal: BioRxiv (preprint)
+      url: https://www.biorxiv.org/content/10.1101/2023.03.24.534076v1
+      preprint: "yes"
     ewan2023:
       year: 2023
       authors: <b>Flintham, EO.</b>, Savolainen, V., <b>Mullon, C.</b>
@@ -190,7 +197,7 @@ papers:
       recommendationauthor: Laroche and Lenormand
       recommendationyear: 2022
       recommendationtitle: "The genetic architecture of local adaptation in a cline"
-      recommendationurl: https://doi.org/10.1101/2022.06.30.498280
+      recommendationurl: https://peercommunityjournal.org/articles/10.24072/pcjournal.245/
     iris2022:
       year: 2022
       authors: <b>Prigent, I.</b>, <b>Mullon, C.</b>
