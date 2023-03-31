@@ -1,8 +1,8 @@
 <div class="col-lg-6 mb-2">
     <div class="p-3 border rounded">
-        <div class="row" style="min-height:160px">
+        <div class="row" style="min-height:{{ include.alt }}">
             <div class="col-md-3 mb-3 mb-md-0">
-                <img alt="{{ session.person }}" src="/assets/images/{{ session.photo }}" class="rounded-circle" height="85" width="85">
+                <img alt="{{ session.person }}" src="/assets/images/people/{{ session.photo }}" class="rounded-circle" height="85" width="85">
             </div>
             <div class="col-md-9">
                 <h4 class="text-dark mb-0" style="margin-top:0px;margin-bottom:0px;"> {{ session.person }} </h4>

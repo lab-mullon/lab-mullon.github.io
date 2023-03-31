@@ -27,7 +27,7 @@ Each new session is announced by e-mail. To join our mailing list, please contac
 <div class="row gap-y listrecent listrecent listauthor">
     {% for session in site.data.teeb_sessions %}
         {% if session.next %}
-            {% include session-template.html %}
+            {% include session-template.html alt="90px" %}
         {% endif %}
     {% endfor %}
 </div>
@@ -72,7 +72,7 @@ What are the features by which individuals are characterised (e.g. are sexes com
 <div class="row gap-y listrecent listrecent listauthor">
     {% for session in site.data.teeb_sessions reversed %}
         {% unless session.next %}
-            {% include session-template.html %}
+            {% include session-template.html alt="160px" %}
         {% endunless %}
     {% endfor %}
 </div>
