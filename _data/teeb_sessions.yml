@@ -1,0 +1,84 @@
+-
+  date: 14/10/2022
+  person: Vítor Sudbrack
+  photo: vitor.jpg
+  paper_title: "Resolving the conflit between associative overdominance and background selection" 
+  paper_author: Zhao and Charlesworth
+  paper_year: 2016
+  paper_file: teeb1-2022.pdf
+  extra_title: Notes
+  extra_file: teeb1-notes-2022.pdf
+
+-
+  date: 28/10/2022
+  person: Ehouarn Le Faou
+  photo: no.jpg
+  paper_title: "Mating system and speciation I: accumulation of genetic incompatibilities in allopatry" 
+  paper_author: Marie-Orleach, Brochmann and Glémin
+  paper_year: 2022
+  paper_file: teeb2-2022.pdf
+
+-
+  date: 11/11/2022
+  person: Thomas Lesaffre
+  photo: thomas.jpg
+  paper_title: "Mutation rate evolution in partially selfing and partially asexual organisms" 
+  paper_author: Gervais and Roze
+  paper_year: 2017
+  paper_file: teeb3-2022.pdf
+
+-
+  date: 25/11/2022
+  person: Afra Salazar
+  photo: no.jpg
+  paper_title: "Cooperation and conflict in the evolution of individuality: multilevel selection of the organism" 
+  paper_author: Michod
+  paper_year: 1997
+  paper_file: teeb4-2022.pdf
+
+-
+  date: 09/12/2022
+  person: Iris Prigent
+  photo: iris.jpg
+  paper_title: "Multidimensional (co)evolutionary stability" 
+  paper_author: Débarre, Nuismer and Doebeli
+  paper_year: 2014
+  paper_file: teeb5-2022.pdf
+
+-
+  date:  03/02/2023
+  person: Ewan Flintham
+  photo: ewan.png
+  paper_title: "Regions of stable equilibria for models of differential selection in the two sexes under random mating" 
+  paper_author: Kidwell <i>et al.</i>
+  paper_year: 1976
+  paper_file: teeb1-2023.pdf
+
+-
+  date:  03/03/2023
+  person: Ludovic Maisonneuve
+  photo: no.jpg
+  paper_title: "Evolution of learning strategies in temporally and spatially variable environments: a review of theory" 
+  paper_author: Aoki and Feldman
+  paper_year: 2013
+  paper_file: teeb2-2023.pdf
+
+-
+  date:  17/03/2023
+  person: Mai Thu Nguyen
+  photo: no.jpg
+  paper_title: "Why be an hermaphrodite?" 
+  paper_author: Charnov <i>et al.</i>
+  paper_year: 1976
+  paper_file: teeb3-2023.pdf
+  extra_title: "Maurice and Fleming, 1995"
+  extra_file: teeb4-2023.pdf
+
+-
+  date:  31/03/2023
+  person: Afra Salazar
+  photo: no.jpg
+  paper_title: "Life-history evolution and the origin of multicellularity" 
+  paper_author: Michod <i>et al.</i>
+  paper_year: 2006
+  paper_file: teeb5-2023.pdf
