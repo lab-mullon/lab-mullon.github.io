@@ -70,7 +70,7 @@ What are the features by which individuals are characterised (e.g. are sexes com
 <h3 class="font-weight-bold spanborder"><span>Past sessions</span></h3>
 
 <div class="row gap-y listrecent listrecent listauthor">
-    {% for session in site.data.teeb_sessions %}
+    {% for session in site.data.teeb_sessions reversed %}
         {% unless session.next %}
             {% include session-template.html %}
         {% endunless %}

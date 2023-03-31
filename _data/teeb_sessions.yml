@@ -71,8 +71,10 @@
   paper_author: Charnov <i>et al.</i>
   paper_year: 1976
   paper_file: teeb3-2023.pdf
-  extra_title: "Maurice and Fleming, 1995"
-  extra_file: teeb4-2023.pdf
+  paper2_title: "The effect of pollen limitation on plant reproductive systems and the maintenance of sexual polymorphisms"
+  paper2_author: Maurice and Fleming
+  paper2_year: 1995
+  paper2_file: teeb4-2023.pdf
 
 -
   date:  31/03/2023
