@@ -1,0 +1,20 @@
+<div class="col-lg-6 mb-2">
+    <div class="p-4 border rounded">
+        <div class="row">
+            <div class="col-md-3 mb-3 mb-md-0">
+                <img alt="{{ session.person }}" src="/assets/images/{{ session.photo }}" class="rounded-circle" height="85" width="85">
+            </div>
+            <div class="col-md-9">
+                <h4 class="text-dark mb-0" style="margin-top:0px;margin-bottom:0px;"> {{ session.person }} </h4>
+                <small class="d-inline-block mt-1 mb-1 font-weight-normal" style="color:#006400;margin-bottom:0px;">{{ session.date }}</small>
+                <div class="excerpt" style="text-align:left;margin-top:0px;margin-bottom:0px;">
+                    {% if session.paper_author %}
+                    <a target="_blank" href="/docs/TEEB/{{ session.paper_file }}"><i class="fa fa-file-text" aria-hidden="true"></i> <b>{{ session.paper_author }}, {{ session.paper_year }}</b></a>: {{ session.paper_title }}. 
+                    {% else %}
+                    <i class="fa fa-file-text" aria-hidden="true"></i> TBA  
+                    {% endif %} 
+                </div>
+            </div>
+        </div>
+    </div>
+</div>
