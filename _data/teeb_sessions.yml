@@ -106,17 +106,16 @@
 -
   date: 26/05/2023
   next: yes
+  person: Vítor Sudbrack
+  photo: vitor.jpg
+-
+  date: 09/06/2023
+  next: yes
   person: Cédric Perret
   photo: cedric.jpg
 
 -
-  date: 09/06/2023
-  next: yes
-  person: Vítor Sudbrack
-  photo: vitor.jpg
-
--
   date: 23/06/2023
   next: yes
-  person: TBA
+  person: Arthur
   photo: no.jpg
