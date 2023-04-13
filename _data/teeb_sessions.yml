@@ -99,20 +99,20 @@
   next: yes
   person: Ehouarn Le Faou
   photo: ehouarn.jpeg
-  paper_title: "Germline bottlenecks and the evolutionary maintenance of mitochondrial genomes" 
-  paper_author: Bergstrom and Pritchard
-  paper_year: 1998
-  paper_file: teeb7-2023.pdf
+  #paper_title: "Germline bottlenecks and the evolutionary maintenance of mitochondrial genomes" 
+  #paper_author: Bergstrom and Pritchard
+  #paper_year: 1998
+  #paper_file: teeb7-2023.pdf
 
 -
   date: 12/05/2023
   next: yes
   person: Laurent Lehmann
   photo: laurent.jpeg
-  paper_title: "Where Hamilton meets Kant: evolution of preferences in assortative interactions with complete and incomplete information and plasticity" 
-  paper_author: Lehmann and Alger
-  paper_year: 2023
-  paper_file: teeb8-2023.pdf
+  #paper_title: "Where Hamilton meets Kant: evolution of preferences in assortative interactions with complete and incomplete information and plasticity" 
+  #paper_author: Lehmann and Alger
+  #paper_year: 2023
+  #paper_file: teeb8-2023.pdf
 
 -
   date: 26/05/2023
