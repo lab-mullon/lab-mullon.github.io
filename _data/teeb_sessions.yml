@@ -104,7 +104,6 @@
 
 -
   date: 12/05/2023
-  next: yes
   person: Laurent Lehmann
   photo: laurent.jpeg
   paper_title: "Where Hamilton meets Kant: evolution of preferences in assortative interactions with complete and incomplete information and plasticity" 
@@ -117,6 +116,11 @@
   next: yes
   person: Vítor Sudbrack
   photo: vitor.jpg
+  paper_title: "The population dynamics of transposable elements" 
+  paper_author: Charlesworth and Charlesworth
+  paper_year: 1983
+  paper_file: teeb9-2023.pdf
+
 -
   date: 09/06/2023
   next: yes
