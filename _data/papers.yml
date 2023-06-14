@@ -21,7 +21,7 @@ charles2023a:
   authors: Avila, P., <b>Mullon, C.</b>
   title: 'Evolutionary Game Theory and the Adaptive Dynamics Approach: Adaptation where Individuals Interact'
   journal: 'Philosophical Transactions of the Royal Society B'
-  url: https://ecoevorxiv.org/repository/view/4928/
+  url: https://doi.org/10.1098/rstb.2021.0502
   appendix: appendix1-2023.pdf
 charles2023b:
   year: 2023
@@ -39,7 +39,7 @@ iris2022:
   authors: <b>Prigent, I.</b>, <b>Mullon, C.</b>
   title: 'The moulding of intra-specific diversity by selection under ecological inheritance'
   journal: BioRxiv (preprint)
-  url: https://www.biorxiv.org/content/10.1101/2022.12.26.521924v1
+  url: https://www.biorxiv.org/content/10.1101/2022.12.26.521924v2
   preprint: "yes"
 max2022:
   year: 2022
