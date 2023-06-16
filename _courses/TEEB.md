@@ -9,7 +9,7 @@ permalink: /TEEB
         <div class="row justify-content-between">
             <div class="col-md-6 pr-0 pr-md-4 pt-4 pb-4 align-self-center">
                 <div class="page-content" style="text-align:justify">
-                    The topic group takes place every other Thursday from 16:00 to 17:30 in room 1929, on the first floor of the Biophore. During our sessions, we discuss a theoretical question by either going through a paper or listening to someone talk about their own work (or a mixture of the two). Each session is hosted by a different member of the topic group. The host is free to choose the topic of the day, the only requirement being that it must be theory in ecology and evolutionary biology. Our schedule is given below along with guidelines on how to host a session. Discussed papers are uploaded on this page a week before the session, it is important to read them before coming. 
+                    The topic group takes place every other Friday from 10:30 to 12:00 in room 1929, on the first floor of the Biophore. During our sessions, we discuss a theoretical question by either going through a paper or listening to someone talk about their own work (or a mixture of the two). Each session is hosted by a different member of the topic group. The host is free to choose the topic of the day, the only requirement being that it must be theory in ecology and evolutionary biology. Our schedule is given below along with guidelines on how to host a session. Discussed papers are uploaded on this page a week before the session, it is important to read them before coming. 
                 </div>
             </div>
             <div class="col-md-6 pr-0 align-self-center">
