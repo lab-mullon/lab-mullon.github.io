@@ -32,7 +32,7 @@ Each new session is announced by e-mail. To join our mailing list, please contac
     {% endfor %}
 </div>
 
-We are currently on a summer break, but we will be back soon with more exciting discussions. Stay tuned for updates!
+<i class="fa-duotone fa-island-tropical fa-sm"></i> We are currently on a summer break, but we will be back soon with more exciting discussions. Stay tuned for updates!
 
 <h3 class="font-weight-bold spanborder"><span>Guidelines for hosting a topic group session</span></h3>
 
