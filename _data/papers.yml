@@ -1,9 +1,16 @@
+vitor2023:
+  year: 2023
+  authors: <b>Sudbrack, V.</b>, <b>Mullon, C.</b>
+  title: 'Tempo of hard and soft sweeps in subdivided populations'
+  journal: BioRxiv (preprint)
+  url: https://www.biorxiv.org/content/10.1101/2023.07.07.548167
+  preprint: "yes"
 thomas2023:
   year: 2023
   authors: <b>Lesaffre, T.</b>, Pannell, J.R., <b>Mullon, C.</b>
   title: 'On the origins of Y and W chromosomes as an outcome of sex allocation evolution'
   journal: BioRxiv (preprint)
-  url: https://www.biorxiv.org/content/10.1101/2023.03.24.534076v1
+  url: https://www.biorxiv.org/content/10.1101/2023.03.24.534076
   preprint: "yes"
 ewan2023:
   year: 2023
@@ -38,16 +45,14 @@ iris2022:
   year: 2022
   authors: <b>Prigent, I.</b>, <b>Mullon, C.</b>
   title: 'The moulding of intra-specific diversity by selection under ecological inheritance'
-  journal: BioRxiv (preprint)
-  url: https://www.biorxiv.org/content/10.1101/2022.12.26.521924v2
-  preprint: "yes"
+  journal: Evolution (in press)
+  url: https://www.biorxiv.org/content/10.1101/2022.12.26.521924
 max2022:
   year: 2022
   authors: <b>Schmid, M.</b>, Rueffler, C., Lehmann, L. <b>Mullon, C.</b>
   title: 'Foraging for locally and spatially varying resources: Where exploitation competition, local adaptation and kin selection meet'
-  journal: BioRxiv (preprint)
-  url: https://www.biorxiv.org/content/10.1101/2022.10.03.510600v1
-  preprint: "yes"
+  journal: The American Naturalist (in press)
+  url: https://www.biorxiv.org/content/10.1101/2022.10.03.510600
 charles2022a:
   year: 2022
   authors: <b>C. Mullon</b>, L. Lehmann
