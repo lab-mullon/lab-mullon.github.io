@@ -1,6 +1,6 @@
 ---
 layout: post
-title:  "Tempo of hard and soft sweeps under limited dispersal"
+title:  "Tempo of hard and soft sweeps in subdivided populations"
 image: frequency_trajectories.png
 author: "Vitor Sudbrack"
 permalink: /vitor
