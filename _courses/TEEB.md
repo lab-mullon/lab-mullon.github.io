@@ -32,7 +32,11 @@ Each new session is announced by e-mail. To join our mailing list, please contac
     {% endfor %}
 </div>
 
-<i class="fa-duotone fa-island-tropical fa-sm"></i> We are currently on a summer break, but we will be back soon with more exciting discussions. Stay tuned for updates!
+
+We are excited to announce the upcoming highlight of the next semester - **Theoretical BBQ**! Mark your calendars for *September 1st* as we gather for a delightful barbecue and chatting event. Stay tuned for further details, which will be shared with you closer to the date. In the meantime, if you have any questions or concerns, feel free to reach out to Vitor Sudbrack ([*vitor.sudbrack@unil.ch*](mailto:vitor.sudbrack@unil.ch)). 
+
+Otherwise, soon we will be back with more exciting discussion sessions. 
+
 
 <h3 class="font-weight-bold spanborder"><span>Guidelines for hosting a topic group session</span></h3>
 
