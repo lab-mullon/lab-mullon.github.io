@@ -10,8 +10,12 @@ We had the company a few members of Pannell and Lehmann groups.
 
 <img src="/assets/images/CreuxDuVan.jpeg"  width="50%" style="display:block;margin-left:auto;margin-right:auto;">
 
-Against the backdrop of awe-inspiring views, we engaged in relaxed discussions about evolutionary theory, in particular genetic architecture.
-The juxtaposition of the serene hike and the intellectually stimulating discussions created a unique experience. 
+Against the backdrop of awe-inspiring views, we engaged in relaxed discussions about evolutionary theory, in particular genetic architecture and the contribution of Orr to the Fisher's geometric model.
+Ewan also told us all about what he saw at the SMBE conference a few weeks ago.
+The movie Oppenheimer was also a headted debate *hahah*
+
+
+The juxtaposition of this beautiful landscape and the intellectually stimulating discussions created a unique experience. 
 
 <img src="/assets/images/CreuxDuVan_people.jpg"  width="50%" style="display:block;margin-left:auto;margin-right:auto;">
 
