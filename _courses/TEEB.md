@@ -33,8 +33,6 @@ Each new session is announced by e-mail. To join our mailing list, please contac
 </div>
 
 
-We are excited to announce the upcoming highlight of the next semester - **Theoretical BBQ**! Mark your calendars for *September 1st* as we gather for a delightful barbecue and chatting event. Stay tuned for further details, which will be shared with you closer to the date. In the meantime, if you have any questions or concerns, feel free to reach out to Vitor Sudbrack ([*vitor.sudbrack@unil.ch*](mailto:vitor.sudbrack@unil.ch)). 
-
 Otherwise, soon we will be back with more exciting discussion sessions. 
 
 
