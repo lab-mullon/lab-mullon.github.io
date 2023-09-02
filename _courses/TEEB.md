@@ -33,9 +33,6 @@ Each new session is announced by e-mail. To join our mailing list, please contac
 </div>
 
 
-Otherwise, soon we will be back with more exciting discussion sessions. 
-
-
 <h3 class="font-weight-bold spanborder"><span>Guidelines for hosting a topic group session</span></h3>
 
 
