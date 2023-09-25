@@ -12,4 +12,4 @@ I find for instance that two traits become associated when one trait affects the
 
 ### Publications
 
-* Iris Prigent, Charles Mullon. **The moulding of intra-specific diversity by selection under ecological inheritance**. *[Preprint on BioRxiv](https://www.biorxiv.org/content/10.1101/2022.12.26.521924v1)*. 2022.
+* Iris Prigent, Charles Mullon. **The moulding of intra-specific diversity by selection under ecological inheritance**. *[Evolution](https://doi.org/10.1093/evolut/qpad124)*. 2023.

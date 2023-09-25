@@ -10,4 +10,4 @@ In patch- or habitat-structured populations, different ecological processes lead
 
 ### Publications
 
-* Max Schmid, Claus Rueffler, Laurent Lehmann, Charles D L Mullon. **Foraging for locally and spatially varying resources: Where exploitation competition, local adaptation and kin selection meet**. *[Preprint on BioRxiv](https://www.biorxiv.org/content/10.1101/2022.10.03.510600v1)*. 2022.
+* Max Schmid, Claus Rueffler, Laurent Lehmann, Charles D L Mullon. **Foraging for locally and spatially varying resources: Where exploitation competition, local adaptation and kin selection meet**. *[American Naturalist](https://doi.org/10.1086/727483)*. 2023.
