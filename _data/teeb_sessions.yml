@@ -157,13 +157,16 @@
   paper_file: teeb13-2023.pdf
   extra_title: "Ehouarn's Master thesis"
   extra_file: teeb13-2023-extra.pdf
-  next: yes
 
 -
   date: 27/10/2023
   person: Thomas Lesaffre
   photo: thomas.jpg
   next: yes
+  paper_title: "Theories on the transition from hermaphroditism to dioecy" 
+  paper_author: Charlesworth and Charlesworth
+  paper_year: 1978
+  paper_file: teeb14-2023.pdf
 
 -
   date: 10/11/2023
