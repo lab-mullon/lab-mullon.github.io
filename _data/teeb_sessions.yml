@@ -171,7 +171,6 @@
   date: 10/11/2023
   person: Ludovic Maisonneuve
   photo: ludovic.jpeg
-  next: yes
   paper_title: "Theoretical perspective on the coevolution of teaching and learning strategies" 
   paper_author: Abstract
   paper_file: teeb15-2023.pdf
@@ -181,6 +180,10 @@
   person: Iris Prigent
   photo: iris.jpg
   next: yes
+  paper_title: "Constraints on the origin and maintenance of genetic kin recognition" 
+  paper_author: Rousset and Roze
+  paper_year: 2007
+  paper_file: teeb15-2023.pdf
 
 -
   date: 08/12/2023
