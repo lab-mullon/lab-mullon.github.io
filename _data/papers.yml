@@ -1,3 +1,11 @@
+thomas2023:
+  year: 2023
+  authors: <b>Thomas Lesaffre</b>, John Pannell and <b>Charles Mullon</b>
+  title: 'A model for the gradual evolution of dioecy and heterogametic sex determination'
+  journal: BioRxiv (preprint)
+  url: https://www.biorxiv.org/content/10.1101/2023.03.24.534076 
+  preprint: "yes"
+
 ewan2023b:
   year: 2023
   authors:   <b>Ewan Flintham</b>, Vincent Savolainen, Sarah Otto, Max Reuter and <b>Charles Mullon</b>
@@ -35,14 +43,6 @@ max2022:
   title: 'Foraging for locally and spatially varying resources: Where exploitation competition, local adaptation and kin selection meet'
   journal: The American Naturalist
   url: https://doi.org/10.1086/727483
-
-thomas2023:
-  year: 2023
-  authors: <b>Thomas Lesaffre</b>, John Pannell and <b>Charles Mullon</b>
-  title: 'On the origins of Y and W chromosomes as an outcome of sex allocation evolution'
-  journal: BioRxiv (preprint)
-  url: https://www.biorxiv.org/content/10.1101/2023.03.24.534076
-  preprint: "yes"
 
 ewan2023:
   year: 2023

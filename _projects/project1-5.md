@@ -12,4 +12,4 @@ The pictures at the top of the page show an example of sex allocation variation 
 
 ### Publications
 
-* Lesaffre, T., Pannell, J.R., Mullon, C. **On the origins of Y and W chromosomes as an outcome of sex allocation evolution**. *[BioRxiv (preprint)](https://www.biorxiv.org/content/10.1101/2023.03.24.534076v1)*. 2023.
+* Lesaffre, T., Pannell, J.R., Mullon, C. **A model for the gradual evolution of dioecy and heterogametic sex determination**. *[BioRxiv (preprint)](https://www.biorxiv.org/content/10.1101/2023.03.24.534076v1)*. 2023.
