@@ -179,7 +179,6 @@
   date: 24/11/2023
   person: Iris Prigent
   photo: iris.jpg
-  next: yes
   paper_title: "Constraints on the origin and maintenance of genetic kin recognition" 
   paper_author: Rousset and Roze
   paper_year: 2007
@@ -190,4 +189,7 @@
   person: Ewan Flintham
   photo: ewan.png
   next: yes
-
+  paper_title: "Sexual conflict and the evolution of female preferences for indicators of male quality" 
+  paper_author: van Doorn and Weissing
+  paper_year: 2006
+  paper_file: teeb17-2023.pdf
