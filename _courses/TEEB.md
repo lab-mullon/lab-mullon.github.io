@@ -24,6 +24,8 @@ Each new session is announced by e-mail. To join our mailing list, please contac
 
 <h3 class="font-weight-bold spanborder"><span>Next sessions </span></h3>
 
+<i class="fa fa-exclamation-circle" aria-hidden="true"></i> <b>WARNING:</b> the sessions occurring on March 1st, March 15th and April 12th will exceptionally take place from 13h30 to 15h00 instead of 10h30 to 12h00. Also, notice that there will be no session on March 29th, as it falls on the Good Friday holiday.
+
 <div class="row gap-y listrecent listrecent listauthor">
     {% for session in site.data.teeb_sessions %}
         {% if session.next %}

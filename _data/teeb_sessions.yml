@@ -201,22 +201,26 @@
   paper_author: Sander Van Doorn and Dieckmann 
   paper_year: 2006
   paper_file: teeb01-2024.pdf
-  next: yes
 
 -
-  date: 01/03/2024
+  date: "01/03/2024 at 13:30"
   person: Massimo Amicone
   photo: massimo.jpeg
+  paper_title: "Feasibility and coexistence of large ecological communities" 
+  paper_author: Grilli <i>et al.</i>
+  paper_year: 2017
+  paper_file: teeb02-2024.pdf
   next: yes
 
+
 -
-  date: 15/03/2024
+  date: "15/03/2024  at 13:30"
   person: Arthur Weyna
   photo: Arthur.png
   next: yes
 
 -
-  date: "by <b>Invited Speaker</b>, 12/04/2024"
+  date: "by <b>Invited Speaker</b>, 12/04/2024 at 14:00"
   person: Tim Connallon
   photo: connallon.jpg
   next: yes
