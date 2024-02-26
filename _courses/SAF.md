@@ -1,6 +1,6 @@
 ---
 layout: page
-title:  "Sex, Ageing and Foraging Theory - 2023"
+title:  "Sex, Ageing and Foraging Theory - 2024"
 permalink: /SAF
 ---
 
@@ -25,8 +25,9 @@ permalink: /SAF
     </div>
 </div>
 
-The course takes place on Fridays at 8:00am and Tuesdays at 12:15pm in room 334, on the main floor of the Amphipôle.
-Lectures are given by <b>Charles Mullon</b> (<a href="mailto:charles.mullon@unil.ch">charles.mullon@unil.ch</a>). For questions and discussions, Charles is available on Thursdays from 3:30 to 4:30pm in his office (room 4309 Biophore).
+The course takes place on Fridays at 10:15am and Wednesdays at 12:15pm in room POL/334, on the main floor of the Amphipôle.
+Lectures are given by <b>Charles Mullon</b> (<a href="mailto:charles.mullon@unil.ch">charles.mullon@unil.ch</a>). 
+For questions and discussions, Charles is available on Thursdays from 3:30 to 4:30pm in his office (room 4309 Biophore).
 Teaching assistants are <b>Thomas Lesaffre</b> (<a href="mailto:thomas.lesaffre@unil.ch">thomas.lesaffre@unil.ch</a>) and <b>Vítor Sudbrack</b> (<a href="mailto:vitor.sudbrack@unil.ch">vitor.sudbrack@unil.ch</a>).
 
 
@@ -34,22 +35,207 @@ Teaching assistants are <b>Thomas Lesaffre</b> (<a href="mailto:thomas.lesaffre@
 
 The content will be uploaded here as the semester progresses. 
 
-&nbsp;&nbsp;&nbsp;&nbsp;**Class 1**: <i class="fa fa-file-powerpoint-o" aria-hidden="true"></i>
- Lecture slides  \|  <i class="fa fa-file-text" aria-hidden="true"></i> Exercise sheet \|  <i class="fa fa-file-code-o" aria-hidden="true"></i> Simulation program
+<div class="col-lg-12 mb-2">
+    <div class="p-3 border rounded">
+        <div class="row" style="min-height:50px">
+            <div class="col-md-3 mb-3 mb-md-0">
+                <h4 class="text-dark mb-0" style="margin-top:0px;margin-bottom:0px;"> 
+                    Lecture 1 
+                </h4>
+                <small class="d-inline-block mt-1 mb-1 font-weight-normal" style="color:#006400;margin-bottom:0px;">
+                    Class on Friday, 01/03/2024 
+                </small>
+            </div>
+            <div class="col-md-9">
+                <div class="excerpt" style="text-align:left;margin-top:0px;margin-bottom:auto;">
+                    <p><i class="fa fa-file-powerpoint-o fa-lg" aria-hidden="true"></i> Lecture slides</p>
+                    <p><i class="fa fa-file-text fa-lg" aria-hidden="true"></i> Exercise sheet</p>
+                    <p><i class="fa fa-file-code-o fa-lg" aria-hidden="true"></i> Simulation program </p>
+                </div>
+            </div>
+        </div>
+    </div>
+</div>
 
-&nbsp;&nbsp;&nbsp;&nbsp;**Exercise session 1**: <span class="fa-stack fa-lg"><i class="fa fa-file-o fa-stack-1x"></i><i class="fa fa-check fa-stack-1x"></i></span>
- Answers 
+<div class="col-lg-12 mb-2">
+    <div class="p-3 border rounded">
+        <div class="row" style="min-height:50px">
+            <div class="col-md-3 mb-3 mb-md-0">
+                <h4 class="text-dark mb-0" style="margin-top:0px;margin-bottom:0px;"> 
+                    Exercise session 0 
+                </h4>
+                <small class="d-inline-block mt-1 mb-1 font-weight-normal" style="color:#006400;margin-bottom:0px;">
+                    Class on Wednesday, 06/03/2024 
+                </small>
+            </div>
+            <div class="col-md-9">
+                <div class="excerpt" style="text-align:left;margin-top:0px;margin-bottom:auto;">
+                    <p><i class="fa fa-file-powerpoint-o fa-lg" aria-hidden="true"></i> Activity slides</p>
+                    <a href="https://posit.co/download/rstudio-desktop/" target="_blank"><i class="fa fa-external-link fa-lg" aria-hidden="true"></i> RStudio Desktop installation</a>
+                </div>
+            </div>
+        </div>
+    </div>
+</div>
 
-&nbsp;&nbsp;&nbsp;&nbsp;**Class 2**:  <i class="fa fa-file-powerpoint-o" aria-hidden="true"></i> Lecture slides  \|  <i class="fa fa-file-text" aria-hidden="true"></i> Exercise sheet \|  <i class="fa fa-file-code-o" aria-hidden="true"></i> Simulation program Ex. 1.2  \|  <i class="fa fa-file-code-o" aria-hidden="true"></i> Simulation program Ex. 2.2 
+<div class="col-lg-12 mb-2">
+    <div class="p-3 border rounded">
+        <div class="row" style="min-height:50px">
+            <div class="col-md-3 mb-3 mb-md-0">
+                <h4 class="text-dark mb-0" style="margin-top:0px;margin-bottom:0px;"> 
+                    Exercise session 1
+                </h4>
+                <small class="d-inline-block mt-1 mb-1 font-weight-normal" style="color:#006400;margin-bottom:0px;">
+                    Class on Friday, 08/03/2024 
+                </small>
+            </div>
+            <div class="col-md-9">
+                <div class="excerpt" style="text-align:left;margin-top:0px;margin-bottom:auto;">
+                    <p><i class="fa fa-check fa-lg" aria-hidden="true"></i> Answers</p> 
+                </div>
+            </div>
+        </div>
+    </div>
+</div>
 
-&nbsp;&nbsp;&nbsp;&nbsp;**Exercise session 2**: <span class="fa-stack fa-lg"><i class="fa fa-file-o fa-stack-1x"></i><i class="fa fa-check fa-stack-1x"></i></span>  Answers
+<div class="col-lg-12 mb-2">
+    <div class="p-3 border rounded">
+        <div class="row" style="min-height:50px">
+            <div class="col-md-3 mb-3 mb-md-0">
+                <h4 class="text-dark mb-0" style="margin-top:0px;margin-bottom:0px;"> 
+                    Lecture 2
+                </h4>
+                <small class="d-inline-block mt-1 mb-1 font-weight-normal" style="color:#006400;margin-bottom:0px;">
+                    Class on Wednesday, 13/03/2024 
+                </small>
+            </div>
+            <div class="col-md-9">
+                <div class="excerpt" style="text-align:left;margin-top:0px;margin-bottom:auto;">
+                    <p><i class="fa fa-file-powerpoint-o fa-lg" aria-hidden="true"></i> Lecture slides</p>
+                    <p><i class="fa fa-file-text fa-lg" aria-hidden="true"></i> Exercise sheet</p>
+                    <p><i class="fa fa-file-code-o fa-lg" aria-hidden="true"></i> Simulation program Ex. 1.2</p>
+                    <p><i class="fa fa-file-code-o fa-lg" aria-hidden="true"></i> Simulation program Ex. 2.2</p>
+                </div>
+            </div>
+        </div>
+    </div>
+</div>
 
-&nbsp;&nbsp;&nbsp;&nbsp;**Class 3**: <i class="fa fa-file-powerpoint-o" aria-hidden="true"></i> Lecture slides  \|  <i class="fa fa-file-text" aria-hidden="true"></i> Exercise sheet \|  <i class="fa fa-file-code-o" aria-hidden="true"></i> Simulation program Ex. 2 \|  <i class="fa fa-file-code-o" aria-hidden="true"></i> Simulation program Ex. 3
+<div class="col-lg-12 mb-2">
+    <div class="p-3 border rounded">
+        <div class="row" style="min-height:50px">
+            <div class="col-md-3 mb-3 mb-md-0">
+                <h4 class="text-dark mb-0" style="margin-top:0px;margin-bottom:0px;"> 
+                    Exercise session 2
+                </h4>
+                <small class="d-inline-block mt-1 mb-1 font-weight-normal" style="color:#006400;margin-bottom:0px;">
+                    Class on Friday, 15/03/2024 
+                </small>
+            </div>
+            <div class="col-md-9">
+                <div class="excerpt" style="text-align:left;margin-top:0px;margin-bottom:auto;">
+                    <p><i class="fa fa-check fa-lg" aria-hidden="true"></i> Answers</p> 
+                </div>
+            </div>
+        </div>
+    </div>
+</div>
 
-&nbsp;&nbsp;&nbsp;&nbsp;**Exercise session 3**: <span class="fa-stack fa-lg"><i class="fa fa-file-o fa-stack-1x"></i><i class="fa fa-check fa-stack-1x"></i></span> Answers
+<div class="col-lg-12 mb-2">
+    <div class="p-3 border rounded">
+        <div class="row">
+            <div class="col-md-3 mb-3 mb-md-0">
+                <p style="margin-top:0px;margin-bottom:0px;"><i class="fa fa-calendar-times-o fa-lg" aria-hidden="true"></i> Break and Easter holidays</p>
+            </div>
+        </div>
+    </div>
+</div>
 
-&nbsp;&nbsp;&nbsp;&nbsp;**Class + Exercise session 4**: <i class="fa fa-file-powerpoint-o" aria-hidden="true"></i> Lecture slides  \|  <i class="fa fa-file-text" aria-hidden="true"></i> Exercise sheet \|  <i class="fa fa-file-code-o" aria-hidden="true"></i> Simulation program \| <span class="fa-stack fa-lg"><i class="fa fa-file-o fa-stack-1x"></i><i class="fa fa-check fa-stack-1x"></i></span> Answers
 
-&nbsp;&nbsp;&nbsp;&nbsp;**Exam**: <i class="fa fa-file-text" aria-hidden="true"></i> Practical exam \|  <i class="fa fa-file-code-o" aria-hidden="true"></i> Simulation program \|  <span class="fa-stack fa-lg"><i class="fa fa-file-o fa-stack-1x"></i><i class="fa fa-check fa-stack-1x"></i></span> Answers
+<div class="col-lg-12 mb-2">
+    <div class="p-3 border rounded">
+        <div class="row" style="min-height:50px">
+            <div class="col-md-3 mb-3 mb-md-0">
+                <h4 class="text-dark mb-0" style="margin-top:0px;margin-bottom:0px;"> 
+                    Lecture 3
+                </h4>
+                <small class="d-inline-block mt-1 mb-1 font-weight-normal" style="color:#006400;margin-bottom:0px;">
+                    Class on Wednesday, 10/04/2024 
+                </small>
+            </div>
+            <div class="col-md-9">
+                <div class="excerpt" style="text-align:left;margin-top:0px;margin-bottom:auto;">
+                    <p><i class="fa fa-file-powerpoint-o fa-lg" aria-hidden="true"></i> Lecture slides</p>
+                    <p><i class="fa fa-file-text fa-lg" aria-hidden="true"></i> Exercise sheet</p>
+                    <p><i class="fa fa-file-code-o fa-lg" aria-hidden="true"></i> Simulation program Ex. 2</p>
+                    <p><i class="fa fa-file-code-o fa-lg" aria-hidden="true"></i> Simulation program Ex. 3</p>
+                </div>
+            </div>
+        </div>
+    </div>
+</div>
 
+<div class="col-lg-12 mb-2">
+    <div class="p-3 border rounded">
+        <div class="row" style="min-height:50px">
+            <div class="col-md-3 mb-3 mb-md-0">
+                <h4 class="text-dark mb-0" style="margin-top:0px;margin-bottom:0px;"> 
+                    Exercise session 3
+                </h4>
+                <small class="d-inline-block mt-1 mb-1 font-weight-normal" style="color:#006400;margin-bottom:0px;">
+                    Class on Friday, 12/04/2024 
+                </small>
+            </div>
+            <div class="col-md-9">
+                <div class="excerpt" style="text-align:left;margin-top:0px;margin-bottom:auto;">
+                    <p><i class="fa fa-check fa-lg" aria-hidden="true"></i> Answers</p> 
+                </div>
+            </div>
+        </div>
+    </div>
+</div>
 
+<div class="col-lg-12 mb-2">
+    <div class="p-3 border rounded">
+        <div class="row" style="min-height:50px">
+            <div class="col-md-3 mb-3 mb-md-0">
+                <h4 class="text-dark mb-0" style="margin-top:0px;margin-bottom:0px;"> 
+                    Lecture & <br>Exercise session 4
+                </h4>
+                <small class="d-inline-block mt-1 mb-1 font-weight-normal" style="color:#006400;margin-bottom:0px;">
+                    Class on Wednesday, 17/04/2024 
+                </small>
+            </div>
+            <div class="col-md-9">
+                <div class="excerpt" style="text-align:left;margin-top:0px;margin-bottom:auto;">
+                    <p><i class="fa fa-file-powerpoint-o fa-lg" aria-hidden="true"></i> Lecture slides</p>
+                    <p><i class="fa fa-file-text fa-lg" aria-hidden="true"></i> Exercise sheet</p>
+                    <p><i class="fa fa-file-code-o fa-lg" aria-hidden="true"></i> Simulation program </p>
+                    <p><i class="fa fa-check fa-lg" aria-hidden="true"></i> Answers</p> 
+                </div>
+            </div>
+        </div>
+    </div>
+</div>
+
+<div class="col-lg-12 mb-2">
+    <div class="p-3 border rounded">
+        <div class="row" style="min-height:50px">
+            <div class="col-md-3 mb-3 mb-md-0">
+                <h4 class="text-dark mb-0" style="margin-top:0px;margin-bottom:0px;"> 
+                    Exam
+                </h4>
+                <small class="d-inline-block mt-1 mb-1 font-weight-normal" style="color:#006400;margin-bottom:0px;">
+                    Class on Friday, 19/04/2024 
+                </small>
+            </div>
+            <div class="col-md-9">
+                <div class="excerpt" style="text-align:left;margin-top:0px;margin-bottom:auto;">
+                    <p><i class="fa fa-file-text fa-lg" aria-hidden="true"></i> Practical Exam</p>
+                    <p><i class="fa fa-file-code-o fa-lg" aria-hidden="true"></i> Simulation program </p>
+                    <p><i class="fa fa-check fa-lg" aria-hidden="true"></i> Answers</p> 
+                </div>
+            </div>
+        </div>
+    </div>
+</div>
