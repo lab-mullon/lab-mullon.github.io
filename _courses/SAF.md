@@ -27,7 +27,7 @@ permalink: /SAF
 
 The course takes place on Fridays at 10:15am and Wednesdays at 12:15pm in room POL/334, on the main floor of the Amphipôle.
 Lectures are given by <b>Charles Mullon</b> (<a href="mailto:charles.mullon@unil.ch">charles.mullon@unil.ch</a>). 
-For questions and discussions, Charles is available on Thursdays from 3:30 to 4:30pm in his office (room 4309 Biophore).
+For questions and discussions, please contact Charles via e-mail.
 Teaching assistants are <b>Thomas Lesaffre</b> (<a href="mailto:thomas.lesaffre@unil.ch">thomas.lesaffre@unil.ch</a>) and <b>Vítor Sudbrack</b> (<a href="mailto:vitor.sudbrack@unil.ch">vitor.sudbrack@unil.ch</a>).
 
 
