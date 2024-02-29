@@ -48,7 +48,7 @@ The content will be uploaded here as the semester progresses.
             </div>
             <div class="col-md-9">
                 <div class="excerpt" style="text-align:left;margin-top:0px;margin-bottom:auto;">
-                    <p><i class="fa fa-file-powerpoint-o fa-lg" aria-hidden="true"></i> Lecture slides</p>
+                    <p><a href="/docs/SAF2024/slides1-2024.pdf"><i class="fa fa-file-powerpoint-o fa-lg" aria-hidden="true"></i> Lecture slides</a></p>
                     <p><i class="fa fa-file-text fa-lg" aria-hidden="true"></i> Exercise sheet</p>
                     <p><i class="fa fa-file-code-o fa-lg" aria-hidden="true"></i> Simulation program </p>
                 </div>
