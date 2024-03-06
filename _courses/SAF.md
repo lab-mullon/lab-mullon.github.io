@@ -49,8 +49,7 @@ The content will be uploaded here as the semester progresses.
             <div class="col-md-9">
                 <div class="excerpt" style="text-align:left;margin-top:0px;margin-bottom:auto;">
                     <p><a href="/docs/SAF2024/slides1-2024.pdf"><i class="fa fa-file-powerpoint-o fa-lg" aria-hidden="true"></i> Lecture slides</a></p>
-                    <p><i class="fa fa-file-text fa-lg" aria-hidden="true"></i> Exercise sheet</p>
-                    <p><i class="fa fa-file-code-o fa-lg" aria-hidden="true"></i> Simulation program </p>
+                    <p><a href="/docs/SAF2024/sheet1-2024.pdf"><i class="fa fa-file-text fa-lg" aria-hidden="true"></i> Exercise sheet</a></p>
                 </div>
             </div>
         </div>
@@ -70,8 +69,9 @@ The content will be uploaded here as the semester progresses.
             </div>
             <div class="col-md-9">
                 <div class="excerpt" style="text-align:left;margin-top:0px;margin-bottom:auto;">
-                    <p><i class="fa fa-file-powerpoint-o fa-lg" aria-hidden="true"></i> Activity slides</p>
-                    <a href="https://posit.co/download/rstudio-desktop/" target="_blank"><i class="fa fa-external-link fa-lg" aria-hidden="true"></i> RStudio Desktop installation</a>
+                    <p><a href="/docs/SAF2024/slidesIBS-2024.pdf"><i class="fa fa-file-powerpoint-o fa-lg" aria-hidden="true"></i> Activity slides</a></p>
+                    <p><a href="https://posit.co/download/rstudio-desktop/" target="_blank"><i class="fa fa-external-link fa-lg" aria-hidden="true"></i> RStudio Desktop installation</a></p>
+                    <p><a href="/docs/SAF2024/code1-2024.R"><i class="fa fa-file-code-o fa-lg" aria-hidden="true"></i> Baseline simulation program</a></p>
                 </div>
             </div>
         </div>
