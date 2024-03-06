@@ -210,7 +210,6 @@
   paper_author: Grilli <i>et al.</i>
   paper_year: 2017
   paper_file: teeb02-2024.pdf
-  next: yes
 
 
 -
@@ -218,6 +217,10 @@
   person: Arthur Weyna
   photo: Arthur.png
   next: yes
+  paper_title: "Allocation of energy between growth and reproduction: The Pontryagin Maximum Principle solution for the case of age- and season-dependent mortality" 
+  paper_author: Kozłowski and Teriokhin
+  paper_year: 1999
+  paper_file: teeb03-2024.pdf
 
 -
   date: "by <b>Invited Speaker</b>, 12/04/2024 at 14:00"
