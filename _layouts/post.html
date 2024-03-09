@@ -10,7 +10,8 @@ layout: default
 					<h1 class="display-4 mb-4 article-headline">{{ page.title }}</h1>
 					<div class="d-flex align-items-center">
                             			<small>
-							<span class="text-muted d-block mt-1">     {% if page.author %}{{ page.author }}{% endif %}{{ page.date | date: '%b %d, %Y' }} </span>
+							<span class="text-muted d-block mt-1">  {% if page.author %}{{ page.author }}{% endif %} </span>
+							<span class="text-muted d-block mt-1"> 	{{ page.date | date: '%b %d, %Y' }} </span>
 						</small>
 					</div>
 				</div>
@@ -33,7 +34,7 @@ layout: default
      		<div class="col-md-12 col-lg-8">
             
             <!-- Article -->
-			<article class="article-post">                
+			<article class="article-post" style="text-align: justify;">                
 			{{ content }}                
 			</article>
 			
