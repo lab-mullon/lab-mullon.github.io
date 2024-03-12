@@ -1,6 +1,6 @@
 ---
 layout: post
-title:  "The evolutionary ecology of sexual selection and sexual conflict"
+title:  "Evolutionary ecology of sexual selection and sexual conflict"
 image: reddeer.png
 author: "Ewan Flintham"
 permalink: /ewan

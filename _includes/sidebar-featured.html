@@ -4,10 +4,10 @@
         {% for paper in site.data.papers limit:5 %}                
             <li class="mb-4">
             <span>
-                <h6 class="font-weight-bold">
+                <h6 class="font-weight-bold" style="text-wrap: balance;">
                     <a href="{{ paper[1].url }}" class="text-dark" target="_blank">{{ paper[1].title }}</a>
                 </h6>
-                <span class="d-block text-muted">
+                <span class="d-block text-muted" style="text-wrap: balance;">
                     By {{ paper[1].authors }}
                 </span>
             </span>
