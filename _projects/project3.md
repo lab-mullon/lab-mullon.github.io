@@ -27,7 +27,7 @@ Overall, our goal in this ongoing project is to better understand how dispersal,
 
 ### Distribution of Tandem Repeat sequences (microsatellites)
 
-Tandem Repeat sequences (TRs) are repeated patterns of DNA that significantly contribute to genetic diversity as they exhibit variation both within and between populations. This variability makes them useful as genetic markers in biological and forensic analyses. For an example, see a picture of DNA profiling in the thumbnail image of this project (credits to *gopixa/Shutterstock.com*).
+Tandem Repeat sequences (TRs) are repeated patterns of DNA that significantly contribute to genetic diversity as they exhibit variation both within and between populations. This variability makes them useful as genetic markers in biological and forensic analyses.
 
 Not only TR variation is shaped by usual evolutionary processes, as selection and genetic drift, but also by processes that take place during DNA duplication: saltatory amplification, due to replication slippage, and unequal recombination between homologous TR sequences. Previous research focused on the outcome of these processes in large haploid populations that mate randomly, but many species can self-fertilize, leading to inbreeding and more similarity between individuals. I thus use mathematical analyses and individual-based simulations to study how inbreeding (due to partial selfing) shapes the polymorphism of TR sequences in diploid organisms. 
 
