@@ -38,6 +38,31 @@ layout: default
 			{{ content }}                
 			</article>
 			
+			{% if page.publications %}
+			<div class="sticky-top sticky-top-offset">
+				<h4 class="font-weight-bold" style="line-height: 2;">Publications on this project</h4>
+			<ol class="list-featured">				
+				{% for paper in site.data.papers %}
+				  {% if paper[1].project == page.publications %}                
+					  <li class="mb-4">
+					  <span>
+						  <h6 class="font-weight-bold">
+							  <a href="{{ paper[1].url }}" class="text-dark" target="_blank" >{{ paper[1].title }}</a>
+						  </h6>
+						  <span class="d-block text-muted">
+							  {{ paper[1].authors }}
+						  </span>
+						  <span class="d-block text-muted">
+							  <i>{{ paper[1].journal }}</i>, {{ paper[1].year }}.
+						  </span>
+					  </span>
+					  </li>   
+				  {% endif %}             
+				{% endfor %}   
+			</ol>
+			</div>
+			{% endif %}
+
 			<!-- Tags
 			<div class="mb-4">
 				<span class="taglist">
@@ -90,8 +115,6 @@ layout: default
                 {% endif %} -->
             
 		</div>
-        
-        
 	</div>
 </div>
 
