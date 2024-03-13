@@ -111,8 +111,8 @@ The content will be uploaded here as the semester progresses.
             </div>
             <div class="col-md-9">
                 <div class="excerpt" style="text-align:left;margin-top:0px;margin-bottom:auto;">
-                    <p><i class="fa fa-file-powerpoint-o fa-lg" aria-hidden="true"></i> Lecture slides</p>
-                    <p><i class="fa fa-file-text fa-lg" aria-hidden="true"></i> Exercise sheet</p>
+                    <p><a href="/docs/SAF2024/slides2-2024.pdf"><i class="fa fa-file-powerpoint-o fa-lg" aria-hidden="true"></i> Lecture slides</a></p>
+                    <p><a href="/docs/SAF2024/sheet2-2024.pdf"><i class="fa fa-file-text fa-lg" aria-hidden="true"></i> Exercise sheet</a></p>
                     <p><i class="fa fa-file-code-o fa-lg" aria-hidden="true"></i> Simulation program Ex. 1.2</p>
                     <p><i class="fa fa-file-code-o fa-lg" aria-hidden="true"></i> Simulation program Ex. 2.2</p>
                 </div>
