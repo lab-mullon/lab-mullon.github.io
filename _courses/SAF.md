@@ -133,7 +133,8 @@ The content will be uploaded here as the semester progresses.
             </div>
             <div class="col-md-9">
                 <div class="excerpt" style="text-align:left;margin-top:0px;margin-bottom:auto;">
-                    <p><i class="fa fa-check fa-lg" aria-hidden="true"></i> Answers</p> 
+                    <p><a href="/docs/SAF2024/answer2-2024.pdf"><i class="fa fa-check fa-lg" aria-hidden="true"></i> Answers</a></p> 
+                    <p><a href="/docs/SAF2024/code-answer2-2024.R"><i class="fa fa-file-code-o fa-lg" aria-hidden="true"></i> Simulation program Ex. 2.2</a></p> 
                 </div>
             </div>
         </div>
