@@ -216,7 +216,6 @@
   date: "15/03/2024  at 13:30"
   person: Arthur Weyna
   photo: Arthur.png
-  next: yes
   paper_title: "Allocation of energy between growth and reproduction: The Pontryagin Maximum Principle solution for the case of age- and season-dependent mortality" 
   paper_author: Kozłowski and Teriokhin
   paper_year: 1999
@@ -227,6 +226,7 @@
   person: Tim Connallon
   photo: connallon.jpg
   next: yes
+  paper_title: "Reconciling theories of dominance with the relative rates of adaptive substitution on sex chromosomes and autosomes" 
 
 -
   date: 26/04/2024
