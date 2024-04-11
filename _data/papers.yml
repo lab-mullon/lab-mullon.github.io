@@ -1,3 +1,10 @@
+charles2023c:
+  year: 2024
+  authors:  <b>Charles Mullon</b>, Jorge Pena and Laurent Lehmann
+  title: 'Evolution of environmentally mediated social interactions under isolation by distance'
+  journal: Plos Computational Biology (accepted)
+  url: https://www.biorxiv.org/content/10.1101/2023.09.22.558951
+
 vitor2023:
   year: 2024
   authors: <b>Vitor Sudbrack</b> & <b>Charles Mullon</b>
@@ -23,13 +30,6 @@ ewan2023b:
   url: https://www.biorxiv.org/content/10.1101/2023.10.10.561678
   preprint: "yes"
   project: ewan
-
-charles2023c:
-  year: 2023
-  authors:  <b>Charles Mullon</b>, Jorge Pena and Laurent Lehmann
-  title: 'Evolution of environmentally mediated social interactions under isolation by distance'
-  journal: Plos Computational Biology (accepted)
-  url: https://www.biorxiv.org/content/10.1101/2023.09.22.558951
   
 iris2022:
   year: 2023
