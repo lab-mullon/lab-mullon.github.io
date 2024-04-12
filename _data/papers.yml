@@ -15,7 +15,7 @@ charles2023c:
 
 vitor2023:
   year: 2024
-  authors: <b>Vitor Sudbrack</b> & <b>Charles Mullon</b>
+  authors: <b>Vitor Sudbrack</b> and <b>Charles Mullon</b>
   title: 'Fixation times of <i>de novo</i> and standing beneficial variants in subdivided populations'
   journal: Genetics
   url:  https://doi.org/10.1093/genetics/iyae043
@@ -41,7 +41,7 @@ ewan2023b:
   
 iris2022:
   year: 2023
-  authors: <b>Iris Prigent</b> & <b>Charles Mullon</b>
+  authors: <b>Iris Prigent</b> and <b>Charles Mullon</b>
   title: 'The moulding of intra-specific diversity by selection under ecological inheritance'
   journal: Evolution
   url: https://doi.org/10.1093/evolut/qpad124
@@ -90,7 +90,7 @@ charles2023b:
 
 charles2022a:
   year: 2022
-  authors: <b>Charles Mullon</b> & Laurent Lehmann
+  authors: <b>Charles Mullon</b> and Laurent Lehmann
   title: Evolution of warfare by resource raiding favors polymorphism in belligerence and bravery
   journal: Philosophical Transactions of the Royal Society B
   url: https://doi.org/10.1098/rstb.2021.0136
@@ -131,14 +131,14 @@ charles2020e:
 
 charles2019:
   year: 2019
-  authors: <b>Charles Mullon</b> & Laurent Lehmann 
+  authors: <b>Charles Mullon</b> and Laurent Lehmann 
   title: An evolutionary quantitative genetics model for phenotypic (co)variance under limited dispersal, with an application to socially synergistic traits
   journal: Evolution
   url: https://onlinelibrary.wiley.com/doi/full/10.1111/evo.13803
 
 charles2018d:
   year: 2018 
-  authors: <b>Charles Mullon</b> & Laurent Lehmann 
+  authors: <b>Charles Mullon</b> and Laurent Lehmann 
   title: Eco-evolutionary dynamics in metacommunities&#58 ecological inheritance, helping within- and harming between-species
   journal: The American Naturalist
   url: https://www.journals.uchicago.edu/doi/abs/10.1086/700094
@@ -159,14 +159,14 @@ charles2018b:
 
 charles2018a:
   year: 2018 
-  authors: Chr. Mullon & <b>Charles Mullon</b>
+  authors: Chr. Mullon and <b>Charles Mullon</b>
   title: A constraint-based framework to study competition and cooperation in fishing
   journal: Fisheries Research
   url: http://www.sciencedirect.com/science/article/pii/S0165783617302187
 
 charles2017:
   year: 2017 
-  authors: <b>Charles Mullon</b> & Laurent Lehmann
+  authors: <b>Charles Mullon</b> and Laurent Lehmann
   title: Invasion fitness for gene-culture co-evolution in family-structured populations with an application to cumulative culture under vertical transmission
   journal: Theoretical Population Biology
   url: http://www.sciencedirect.com/science/article/pii/S0040580917300096
@@ -194,7 +194,7 @@ charles2015:
 
 charles2014:
   year: 2014
-  authors: <b>Charles Mullon</b> & Laurent Lehmann
+  authors: <b>Charles Mullon</b> and Laurent Lehmann
   title: The robustness of the weak selection approximation for the evolution of altruism against strong selection
   journal: Journal of Evolutionary Biology
   url: http://onlinelibrary.wiley.com/doi/10.1111/jeb.12462/full
