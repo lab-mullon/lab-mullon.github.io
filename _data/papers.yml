@@ -1,3 +1,11 @@
+charles2024c:
+  year: 2024
+  authors: Camille Roux*, <b>Charles Mullon</b>*, S. Neuenschwander and John Pannell 
+  title: The evolution of sex allocation in metapopulations
+  journal: BioRxiv (preprint)
+  url: https://www.biorxiv.org/content/10.1101/2020.05.08.080929
+  preprint: "yes"
+
 charles2023c:
   year: 2024
   authors:  <b>Charles Mullon</b>, Jorge Pena and Laurent Lehmann
@@ -120,14 +128,6 @@ charles2020e:
   recommendationyear: 2020
   recommendationtitle: "Evolution and genetic architecture of disassortative mating at a locus under heterozygote advantage"
   recommendationurl: https://doi.org/10.1101/616409
-
-charles2020c:
-  year: 2020 
-  authors: Camille Roux, <b>Charles Mullon</b>, S. Neuenschwander and John Pannell 
-  title: Sex allocation, inbreeding, and measures of population differentiation in hermaphroditic metapopulations
-  journal: BioRxiv (preprint)
-  url: https://www.biorxiv.org/content/10.1101/2020.05.08.080929v1.abstract
-  preprint: "yes"
 
 charles2019:
   year: 2019
