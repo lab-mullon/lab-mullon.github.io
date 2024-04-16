@@ -225,7 +225,6 @@
   date: "by <b>Invited Speaker</b>, 12/04/2024 at 14:00"
   person: Tim Connallon
   photo: connallon.jpg
-  next: yes
   paper_title: "Reconciling theories of dominance with the relative rates of adaptive substitution on sex chromosomes and autosomes" 
 
 -
@@ -233,6 +232,10 @@
   person: Afra Salazar
   photo: afra.jpeg
   next: yes
+  paper_title: "Cheating and the evolutionary stability of mutualisms" 
+  paper_author: Ferriere <i>et al.</i>
+  paper_year: 2002
+  paper_file: teeb5-2024.pdf
 
 -
   date: 10/05/2024
