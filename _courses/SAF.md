@@ -208,9 +208,9 @@ The content will be uploaded here as the semester progresses.
             </div>
             <div class="col-md-9">
                 <div class="excerpt" style="text-align:left;margin-top:0px;margin-bottom:auto;">
-                    <p><i class="fa fa-file-powerpoint-o fa-lg" aria-hidden="true"></i> Lecture slides</p>
-                    <p><i class="fa fa-file-text fa-lg" aria-hidden="true"></i> Exercise sheet</p>
-                    <p><i class="fa fa-file-code-o fa-lg" aria-hidden="true"></i> Simulation program </p>
+                    <p><a href="/docs/SAF2024/slides4-2024.pdf"><i class="fa fa-file-powerpoint-o fa-lg" aria-hidden="true"></i> Lecture slides</a></p>
+                    <p><a href="/docs/SAF2024/sheet4-2024.pdf"><i class="fa fa-file-text fa-lg" aria-hidden="true"></i> Exercise sheet</a></p>
+                    <p><a href="/docs/SAF2024/code4-2024.R"><i class="fa fa-file-code-o fa-lg" aria-hidden="true"></i> Simulation program</a></p>
                     <p><i class="fa fa-check fa-lg" aria-hidden="true"></i> Answers</p> 
                 </div>
             </div>
@@ -231,8 +231,8 @@ The content will be uploaded here as the semester progresses.
             </div>
             <div class="col-md-9">
                 <div class="excerpt" style="text-align:left;margin-top:0px;margin-bottom:auto;">
-                    <p><i class="fa fa-file-text fa-lg" aria-hidden="true"></i> Practical Exam</p>
-                    <p><i class="fa fa-file-code-o fa-lg" aria-hidden="true"></i> Simulation program </p>
+                    <p><a href="/docs/SAF2024/exam-2024.pdf"><i class="fa fa-file-text fa-lg" aria-hidden="true"></i> Practical Exam</a></p>
+                    <p><a href="/docs/SAF2024/exam-code-2024.R"><i class="fa fa-file-code-o fa-lg" aria-hidden="true"></i> Simulation program</a></p>
                     <p><i class="fa fa-check fa-lg" aria-hidden="true"></i> Answers</p> 
                 </div>
             </div>
