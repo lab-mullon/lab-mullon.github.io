@@ -240,7 +240,6 @@
   date: 10/05/2024
   person: Mai Thu Nguyen
   photo: thu.jpeg
-  next: yes
   paper_title: "Gene flow and genetic drift in a species subject to frequent local extinctions" 
   paper_author: Slatkin
   paper_year: 1977
@@ -251,6 +250,8 @@
   person: Cédric Perret
   photo: cedric.jpg
   next: yes
+  paper_title: "Reconciling theories of dominance with the relative rates of adaptive substitution on sex chromosomes and autosomes" 
+
 
 -
   date: 07/06/2024
