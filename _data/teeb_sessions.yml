@@ -249,7 +249,6 @@
   date: 24/05/2024
   person: Cédric Perret
   photo: cedric.jpg
-  next: yes
   paper_title: "An introduction to the general equilibrium theory from economics and an application to biology" 
 
 
@@ -258,6 +257,10 @@
   person: Ehouarn Le Faou
   photo: ehouarn.jpeg
   next: yes
+  paper_title: "The effect of cryptic female choice on sex allocation in simultaneous hermaphrodites" 
+  paper_author: van Velzen <i>et al.</i>
+  paper_year: 2009
+  paper_file: teeb7-2024.pdf
 
 -
   date: 21/06/2024
