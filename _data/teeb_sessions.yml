@@ -256,7 +256,6 @@
   date: 07/06/2024
   person: Ehouarn Le Faou
   photo: ehouarn.jpeg
-  next: yes
   paper_title: "The effect of cryptic female choice on sex allocation in simultaneous hermaphrodites" 
   paper_author: van Velzen <i>et al.</i>
   paper_year: 2009
@@ -267,3 +266,7 @@
   person: Vitor Sudbrack
   photo: vitor.jpg
   next: yes
+  paper_title: "Recombination and hitchhiking of deleterious alleles" 
+  paper_author: Hartfield and Otto
+  paper_year: 2011
+  paper_file: teeb8-2024.pdf
