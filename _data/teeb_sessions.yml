@@ -269,3 +269,34 @@
   paper_author: Hartfield and Otto
   paper_year: 2011
   paper_file: teeb8-2024.pdf
+
+-
+  date: 27/09/2024
+  person: Arthur Weyna
+  photo: Arthur.png
+  next: yes
+-
+  date: 11/10/2024
+  person: Prajwal Padmanabha
+  photo: no.jpg
+  next: yes
+-
+  date: 25/10/2024
+  person: Ludovic Maisonneuve
+  photo: ludovic.jpeg
+  next: yes  
+-
+  date: 08/11/2024
+  person: Ewan Flintham
+  photo: ewan.png
+  next: yes   
+-
+  date: 22/11/2024
+  person: Thomas Lesaffre
+  photo: thomas.jpg
+  next: yes   
+-
+  date: 06/12/2024
+  person: Iris Prigent
+  photo: iris.jpg
+  next: yes       
