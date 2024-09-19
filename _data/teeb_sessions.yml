@@ -275,15 +275,20 @@
   person: Arthur Weyna
   photo: Arthur.png
   next: yes
+  paper_title: "Assembly theory explains and quantifies selection and evolution" 
+  paper_author: Sharma <i>et al.</i>
+  paper_year: 2023
+  paper_file: teeb9-2024.pdf
+
 -
   date: 11/10/2024
-  person: Prajwal Padmanabha
-  photo: prajwal.jpeg
+  person: Ludovic Maisonneuve
+  photo: ludovic.jpeg
   next: yes
 -
   date: 25/10/2024
-  person: Ludovic Maisonneuve
-  photo: ludovic.jpeg
+  person: Prajwal Padmanabha
+  photo: prajwal.jpeg
   next: yes  
 -
   date: 08/11/2024
