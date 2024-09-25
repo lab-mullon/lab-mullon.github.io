@@ -1,3 +1,11 @@
+thomas2023:
+  year: 2024
+  authors: <b>Thomas Lesaffre</b>, John Pannell and <b>Charles Mullon</b>
+  title: 'An explanation for the prevalence of XY over ZW sex determination in species derived from hermaphroditism'
+  journal: PNAS
+  url: https://doi.org/10.1073/pnas.2406305121
+  project: thomas
+
 loraine2024:
   year: 2024
   authors: <b>Loraine Hablützel</b>, <b>Charles Mullon</b> and <b>Max Schmid</b>
@@ -44,15 +52,6 @@ vitor2023:
   journal: Genetics
   url:  https://doi.org/10.1093/genetics/iyae043
   project: vitor
-
-thomas2023:
-  year: 2023
-  authors: <b>Thomas Lesaffre</b>, John Pannell and <b>Charles Mullon</b>
-  title: 'A model for the gradual evolution of dioecy and heterogametic sex determination'
-  journal: BioRxiv (preprint)
-  url: https://www.biorxiv.org/content/10.1101/2023.03.24.534076 
-  preprint: "yes"
-  project: thomas
 
 ewan2023b:
   year: 2023
