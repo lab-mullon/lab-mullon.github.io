@@ -47,13 +47,26 @@ authors:
       site:           
       avatar:         ewan.png
       bio:            "Ewan completed an undergraduate degree in Biology at the University of Oxford before moving to Imperial College London to do a master's in Computational Biology and a PhD in theoretical evolutionary biology supervised by Vincent Savolainen and Charles Mullon. He joined the lab full-time in Autumn 2022 as a post-doc. Ewan uses mathematical models and computer simulations to study eco-evolutionary dynamics in sexual systems. In particular, he is interested in the ecological drivers of selection in males and females, and the consequence of this for demography and patterns of genetic variation."
-      email:          e.flintham17@imperial.ac.uk
+      email:          ewan.flintham@unil.ch
       twitter:        https://twitter.com/EwanFlintham
       github:         
       googlescholar:  https://scholar.google.com/citations?user=IRxOMq4AAAAJ
       researchgate:   
       orcid:         
    
+    miguel:
+      name:           Miguel dos Santos
+      title:          Post-doc
+      site:           
+      avatar:         miguel.jpg
+      bio:            "Miguel obtained both his master and PhD in evolutionary biology at the University of Lausanne with Claus Wedekind, investigating the evolution of punishment to promote cooperation in humans. He then joined Stu West’s group at the University of Oxford to focus on social evolution theory. After a postdoc on cooperation and punishment in social psychology with Daria Knoch at the University of Bern, he worked again for Stu West in Oxford, to study the evolution of social behaviours in variable environments. He then joined Charles Mullon’s lab in September 2024. Using theory, he now investigates how the intergenerational effects of reputation shape cooperation in social dilemmas."
+      email:          miguel.dossantos@unil.ch
+      twitter:        
+      github:         
+      googlescholar:  https://scholar.google.ch/citations?user=HVDBogwAAAAJ
+      researchgate:   
+      orcid:  
+
     iris:
       name:           Iris Prigent
       title:          PhD student
