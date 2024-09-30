@@ -57,7 +57,7 @@ authors:
       avatar:         miguel.jpg
       bio:            "Miguel obtained both his master and PhD in evolutionary biology at the University of Lausanne with Claus Wedekind, investigating the evolution of punishment to promote cooperation in humans. He then joined Stu West’s group at the University of Oxford to focus on social evolution theory. After a postdoc on cooperation and punishment in social psychology with Daria Knoch at the University of Bern, he worked again for Stu West in Oxford, to study the evolution of social behaviours in variable environments. He then joined Charles Mullon’s lab in September 2024. Using theory, he now investigates how the intergenerational effects of reputation shape cooperation in social dilemmas."
       email:          miguel.dossantos@unil.ch
-      twitter:        
+      twitter:        https://twitter.com/Mig_mds
       github:         
       googlescholar:  https://scholar.google.ch/citations?user=HVDBogwAAAAJ
       researchgate:   
@@ -88,6 +88,15 @@ authors:
       googlescholar:  https://scholar.google.com/citations?user=fQ4x-1LZ-nEC
       researchgate:   https://www.researchgate.net/profile/Vitor-Sudbrack
       orcid:          https://orcid.org/0000-0002-4815-2092
+
+    ritam:
+      name:           Ritam Das
+      title:          PhD student
+      avatar:         ritam.jpg
+      bio:            "Ritam completed his BS-MS in Physics at the Indian Institute of Science Education and Research Mohali. For his master’s thesis, he worked in the CoCoMo Group at the Max Planck Institute of Animal Behaviour in Konstanz, where he developed an event detector for animal calls using machine learning techniques. In September 2024, he joined the TEE Lab as a PhD student."
+      email:          ritam.das@unil.ch
+      twitter: https://x.com/_ritamdas
+
 
 alumni:  
     franz:
