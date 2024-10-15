@@ -283,7 +283,6 @@
   date: 11/10/2024
   person: Ludovic Maisonneuve
   photo: ludovic.jpeg
-  next: yes
   paper_title: "Evolution of Mutation Rates in Rapidly Adapting Asexual Populations" 
   paper_author: Good and Desai 
   paper_year: 2016
@@ -294,6 +293,11 @@
   person: Prajwal Padmanabha
   photo: prajwal.jpeg
   next: yes  
+  paper_title: "Life and death near a windy oasis" 
+  paper_author: Dahmen <i>et al.</i>
+  paper_year: 2000
+  paper_file: teeb11-2024.pdf
+
 -
   date: 08/11/2024
   person: Ewan Flintham
