@@ -22,11 +22,10 @@ authors:
       avatar:         charles.jpg
       bio:            "After undergraduate studies in Mathematics, Charles did his PhD in evolutionary biology on the evolution of sexual dimorphism at University College London. He then moved to the University of Lausanne for a post-doc investigating the emergence of social polymorphism in structured populations. He then went to Japan for a brief time as an invited lecturer. Starting January 2020, he is an Eccellenza assistant professor at the University of Lausanne."
       email:          charles.mullon@unil.ch
-      twitter:        https://twitter.com/MullonDlm
       github:         
-      googlescholar:  https://scholar.google.ch/citations?user=3m8FuuMAAAAJ
       researchgate:   https://www.researchgate.net/profile/Charles-Mullon
       orcid:          https://orcid.org/0000-0002-9875-4227
+      bluesky:        "charlesmullon.bsky.social"
   
     thomas:
       name:           Thomas Lesaffre
@@ -35,7 +34,7 @@ authors:
       avatar:         thomas.jpeg
       bio:            "Thomas obtained his Master's degree in evolutionary ecology at the University of Lille (France), followed by a PhD in theoretical population genetics with Sylvain Billiard in the same institution. During his PhD, he used mathematical models and individual-centred simulations to study the link between life-history, mating system and mutation load in flowering plants. After defending his thesis in March 2021, he joined the lab in October 2021 as a post-doc. He currently works on the evolution of plant sexual systems, with a particular focus on the transition from hermaphroditism, where individuals express male and female sexual functions, to dioecy, where individuals are unisexual."
       email:          thomas.lesaffre@unil.ch
-      site: https://thomas-lesaffre.github.io/
+      site:           https://thomas-lesaffre.github.io/
  
     ewan:
       name:           Ewan Flintham
@@ -62,6 +61,7 @@ authors:
       googlescholar:  https://scholar.google.ch/citations?user=HVDBogwAAAAJ
       researchgate:   
       orcid:  
+      bluesky:        "drmigo.bsky.social"
 
     malvika:
       name:           Malvika Srivastava

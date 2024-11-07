@@ -1,6 +1,6 @@
  <div class="col-lg-6 mb-2">
  	<div class="p-4 border rounded">
-        	<div class="row" style="min-height:{{ include.alt }}">	
+        	<div class="row" style="min-height:{{ include.alt }};">	
 			<div class="col-md-3 mb-3 mb-md-0"><img alt="{{ author[1].name }}" src="/assets/images/people/{{ author[1].avatar }}" class="rounded-circle" height="80" width="80"></div>
 			<div class="col-md-9">
 				<h4 class="text-dark mb-0"> {{ author[1].name }} </h4>
@@ -17,7 +17,7 @@
 					    {% endif %}
 
 					    {% if author[1].twitter %}
-					    <a target="_blank" href="{{ author[1].twitter }}"><i class="fa fa-twitter text-muted" aria-hidden="true"></i></a>  &nbsp;
+					    <a target="_blank" href="{{ author[1].twitter }}"><i class="fa fa-twitter text-muted" aria-hidden="true"></i></a> &nbsp;
 					    {% endif %}
 
 					    {% if author[1].github %}
@@ -34,6 +34,10 @@
 
 					    {% if author[1].orcid %}
 					    <a target="_blank" href="{{ author[1].orcid }}"><i class="ai ai-orcid text-muted" aria-hidden="true"></i></a> &nbsp;
+					    {% endif %}
+
+						{% if author[1].bluesky %}
+					    <a target="_blank" href="https://bsky.app/profile/{{ author[1].bluesky }}"><img src="/assets/images/bluesky_logo.svg" alt="Bluesky Logo" width="14"></a> &nbsp;
 					    {% endif %}
 					</div>
 				</div>
