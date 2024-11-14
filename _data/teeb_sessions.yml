@@ -301,7 +301,6 @@
   date: 08/11/2024
   person: Ewan Flintham
   photo: ewan.png
-  next: yes   
   paper_title: "Sex roles and the evolution of parental care specialization" 
   paper_author: Henshaw <i>et al.</i>
   paper_year: 2019
@@ -312,6 +311,11 @@
   person: Thomas Lesaffre
   photo: thomas.jpg
   next: yes   
+  paper_title: "Pollination fluctuations drive evolutionary syndromes linking dispersal and mating system" 
+  paper_author: Cheptou and Massol
+  paper_year: 2009
+  paper_file: teeb13-2024.pdf
+  
 -
   date: 06/12/2024
   person: Iris Prigent
