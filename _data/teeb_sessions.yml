@@ -310,7 +310,6 @@
   date: 22/11/2024
   person: Thomas Lesaffre
   photo: thomas.jpg
-  next: yes   
   paper_title: "Pollination fluctuations drive evolutionary syndromes linking dispersal and mating system" 
   paper_author: Cheptou and Massol
   paper_year: 2009
@@ -320,4 +319,5 @@
   date: 06/12/2024
   person: Iris Prigent
   photo: iris.jpg
+  paper_title: "Overlapping generations can promote altruistic behaviors" 
   next: yes       
