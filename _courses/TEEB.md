@@ -9,7 +9,7 @@ permalink: /TEEB
         <div class="row justify-content-between">
             <div class="col-md-6 pr-0 pr-md-4 pt-4 pb-4 align-self-center">
                 <div class="page-content" style="text-align:justify">
-                    The topic group takes place every other Friday from 10:30 to 12:00 in room 1929, on the first floor of the Biophore. During our sessions, we discuss a theoretical question by either going through a paper or listening to someone talk about their own work (or a mixture of the two). Each session is hosted by a different member of the topic group. The host is free to choose the topic of the day, the only requirement being that it must be theory in ecology and evolutionary biology. Our schedule is given below along with guidelines on how to host a session. Discussed papers are uploaded on this page a week before the session, it is important to read them before coming. 
+                    The topic group takes place every other Friday from <b>14:00 to 15:30 in room 1929</b>, on the first floor of the Biophore. During our sessions, we discuss a theoretical question by either going through a paper or listening to someone talk about their own work (or a mixture of the two). Each session is hosted by a different member of the topic group. The host is free to choose the topic of the day, the only requirement being that it must be theory in ecology and evolutionary biology. Our schedule is given below along with guidelines on how to host a session. Discussed papers are uploaded on this page a week before the session, it is important to read them before coming. 
                 </div>
             </div>
             <div class="col-md-6 pr-0 align-self-center">
@@ -29,11 +29,12 @@ Each new session is announced by e-mail. To join our mailing list, please contac
 <div class="row gap-y listrecent listrecent listauthor">
     {% for session in site.data.teeb_sessions %}
         {% if session.next %}
-            {% include session-template.html alt="160px" grey="false" %}
+            {% include session-template.html alt="120px" grey="false" %}
         {% endif %}
     {% endfor %}
 </div>
 
+The schedule for May/June has not yet been communicated because there is still some uncertainty. 
 
 <h3 class="font-weight-bold spanborder"><span>Guidelines for hosting a topic group session</span></h3>
 

@@ -320,3 +320,50 @@
   person: Iris Prigent
   photo: iris.jpg
   paper_title: "Overlapping generations can promote altruistic behaviors" 
+
+-
+    date: 31/01/2025
+    person: Vitor Sudbrack
+    photo: vitor.jpg
+    paper_title: "The genetic architecture of polygenic local adaptation and its role in shaping barriers to gene flow"
+    paper_author: Zwaenepoel <i>et al.</i>
+    paper_year: 2024
+    paper_file: teeb1-2025.pdf
+    next: "yes"
+
+-
+    date: 14/02/2025
+    person: Biology25
+    photo: biology25.jpg
+    paper_title: "No session due to <a href='https://wp.unil.ch/biology25/'>Biology25</a>" 
+    next: "yes"
+
+-
+    date: 28/02/2025
+    person: Miguel dos Santos
+    photo: miguel.jpg
+    next: "yes"
+
+-
+  date: "by <b>Invited Speaker</b>, 14/03/2025"
+  person: Roman Stetsenko
+  photo: roman.jpeg
+  next: "yes"
+
+-
+    date: 28/03/2025
+    person: Malvika Srivastava
+    photo: malvika.jpg
+    next: "yes"
+
+-
+    date: 11/04/2025
+    person: Cédric Perret
+    photo: cedric.jpg
+    next: "yes"
+
+-
+    date: 25/04/2025
+    person: Ritam Das
+    photo: ritam.jpg
+    next: "yes"
