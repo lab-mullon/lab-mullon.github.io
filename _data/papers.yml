@@ -1,3 +1,25 @@
+loraine2024:
+  year: 2025
+  authors: <b>Loraine Hablützel</b>, <b>Charles Mullon</b> and <b>Max Schmid</b>
+  title: The evolution of local adaptation in long-lived species
+  journal: Evolution (in press)
+  url: https://www.biorxiv.org/content/10.1101/2024.07.17.603878
+
+ludo2024:
+  year: 2025
+  authors: Ludovic Maisonneuve, Laurent Lehmann and <b>Charles Mullon</b>
+  title: The coevolution of learning schedules and teaching enhances cumulative knowledge and drives a teacher-innovator syndrome
+  journal: Proceedings B
+  url: https://doi.org/10.1098/rspb.2024.2470
+
+ewan2023b:
+  year: 2024
+  authors:   <b>Ewan Flintham</b>, Vincent Savolainen, Sarah Otto, Max Reuter and <b>Charles Mullon</b>
+  title: 'The maintenance of genetic polymorphism underlying sexually antagonistic traits'
+  journal: Evolution Letters
+  url: https://doi.org/10.1093/evlett/qrae059
+  project: ewan
+
 thomas2024:
   year: 2024
   authors: <b>Thomas Lesaffre</b>, John Pannell and <b>Charles Mullon</b>
@@ -14,22 +36,6 @@ thomas2023:
   url: https://doi.org/10.1073/pnas.2406305121
   project: thomas
 
-loraine2024:
-  year: 2024
-  authors: <b>Loraine Hablützel</b>, <b>Charles Mullon</b> and <b>Max Schmid</b>
-  title: The evolution of local adaptation in long-lived species
-  journal: BioRxiv (preprint)
-  url: https://www.biorxiv.org/content/10.1101/2024.07.17.603878
-  preprint: "yes"
-  
-ludo2024:
-  year: 2024
-  authors: Ludovic Maisonneuve, Laurent Lehmann and <b>Charles Mullon</b>
-  title: The coevolution of learning schedules and teaching enhances cumulative knowledge and drives a teacher-innovator syndrome
-  journal: BioRxiv (preprint)
-  url: https://www.biorxiv.org/content/10.1101/2024.06.28.601211
-  preprint: "yes"
-  
 charles2024c:
   year: 2024
   authors: Camille Roux*, <b>Charles Mullon</b>* and John Pannell 
@@ -53,14 +59,6 @@ vitor2023:
   url:  https://doi.org/10.1093/genetics/iyae043
   project: vitor
 
-ewan2023b:
-  year: 2023
-  authors:   <b>Ewan Flintham</b>, Vincent Savolainen, Sarah Otto, Max Reuter and <b>Charles Mullon</b>
-  title: 'The maintenance of genetic polymorphism in sexually antagonistic traits'
-  journal: BioRxiv (preprint)
-  url: https://www.biorxiv.org/content/10.1101/2023.10.10.561678
-  preprint: "yes"
-  project: ewan
   
 iris2022:
   year: 2023
