@@ -335,6 +335,10 @@
     person: Miguel dos Santos
     photo: miguel.jpg
     next: "yes"
+    paper_title: "A mechanistic model of gossip, reputations, and cooperation"
+    paper_author: Kawakatsu <i>et al.</i>
+    paper_year: 2024
+    paper_file: teeb2-2025.pdf
 
 -
   date: "by <b>Invited Speaker</b>, 14/03/2025"
