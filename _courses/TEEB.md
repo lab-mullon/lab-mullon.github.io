@@ -24,7 +24,7 @@ Each new session is announced by e-mail. To join our mailing list, please contac
 
 <h3 class="font-weight-bold spanborder"><span>Next sessions </span></h3>
 
-<i class="fa fa-clock-o fa-lg" aria-hidden="true"></i> <b>NEW SCHEDULE:</b> Next sessions from 10:00 to 11:30. 
+<i class="fa fa-clock-o fa-lg" aria-hidden="true"></i> <b>NEW SCHEDULE FROM MARCH 14TH:</b> Next sessions from 10:00 to 11:30. 
 
 <div class="row gap-y listrecent listrecent listauthor">
     {% for session in site.data.teeb_sessions %}
