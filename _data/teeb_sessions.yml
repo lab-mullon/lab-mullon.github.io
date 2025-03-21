@@ -343,7 +343,6 @@
   date: "by <b>Invited Speaker</b>, 14/03/2025"
   person: Roman Stetsenko
   photo: roman.jpeg
-  next: "yes"
   paper_title: "Effect of selfing on the deleterious load around regions under balancing selection" 
 
 
@@ -352,6 +351,10 @@
     person: Malvika Srivastava
     photo: malvika.jpg
     next: "yes"
+    paper_title: "A unified model of Hymenopteran preadaptations that trigger the evolutionary transition to eusociality"
+    paper_author: Quiñones and Pen
+    paper_year: 2017
+    paper_file: teeb3-2025.pdf
 
 -
     date: 11/04/2025
