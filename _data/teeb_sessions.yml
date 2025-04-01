@@ -367,3 +367,27 @@
     person: Ritam Das
     photo: ritam.jpg
     next: "yes"
+
+-
+  date: 09/05/2025
+  person: Ehouarn Le Faou
+  photo: ehouarn.jpeg
+  next: "yes"
+
+-
+  date: 23/05/2025
+  person: Carl Mackintosh
+  photo: no.jpg
+  next: "yes"
+
+-
+  date: 06/06/2025
+  person: Mai Thu Nguyen
+  photo: thu.jpeg
+  next: "yes"
+
+-
+  date: 20/06/2025
+  person: Afra Salazar
+  photo: afra.jpeg
+  next: "yes"

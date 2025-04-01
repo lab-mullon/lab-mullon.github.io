@@ -34,7 +34,6 @@ Each new session is announced by e-mail. To join our mailing list, please contac
     {% endfor %}
 </div>
 
-The schedule for May/June has not yet been communicated because there is still some uncertainty. 
 
 <h3 class="font-weight-bold spanborder"><span>Guidelines for hosting a topic group session</span></h3>
 
