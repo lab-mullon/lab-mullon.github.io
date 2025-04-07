@@ -378,15 +378,15 @@
   next: "yes"
 
 -
-  date: 06/06/2025
-  person: Ehouarn Le Faou
-  photo: ehouarn.jpeg
-  next: "yes"
-
--
   date: 23/05/2025
   person: Carl Mackintosh
   photo: mackintosh.jpg
+  next: "yes"
+
+-
+  date: 06/06/2025
+  person: Ehouarn Le Faou
+  photo: ehouarn.jpeg
   next: "yes"
 
 -
