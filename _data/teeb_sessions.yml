@@ -366,13 +366,19 @@
     paper_file: teeb4-2025.pdf
 
 -
-    date: 25/04/2025
-    person: Ritam Das
-    photo: ritam.jpg
-    next: "yes"
+  date: 25/04/2025
+  person: Mai Thu Nguyen
+  photo: thu.jpeg
+  next: "yes"
 
 -
   date: 09/05/2025
+  person: Ritam Das
+  photo: ritam.jpg
+  next: "yes"
+
+-
+  date: 06/06/2025
   person: Ehouarn Le Faou
   photo: ehouarn.jpeg
   next: "yes"
@@ -381,12 +387,6 @@
   date: 23/05/2025
   person: Carl Mackintosh
   photo: mackintosh.jpg
-  next: "yes"
-
--
-  date: 06/06/2025
-  person: Mai Thu Nguyen
-  photo: thu.jpeg
   next: "yes"
 
 -
