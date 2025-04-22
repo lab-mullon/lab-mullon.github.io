@@ -359,7 +359,6 @@
     date: 11/04/2025
     person: Cédric Perret
     photo: cedric.jpg
-    next: "yes"
     paper_title: "Survival of the weakest in n-person duels and the maintenance of variation under constant selection"
     paper_author: Archetti
     paper_year: 2011
@@ -370,6 +369,10 @@
   person: Mai Thu Nguyen
   photo: thu.jpeg
   next: "yes"
+  paper_title: "The evolution of self-fertilization and inbreeding depression in plants"
+  paper_author: Lande and Schemske
+  paper_year: 1985
+  paper_file: teeb5-2025.pdf
 
 -
   date: 09/05/2025
