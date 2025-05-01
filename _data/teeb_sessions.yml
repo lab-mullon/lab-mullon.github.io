@@ -368,7 +368,6 @@
   date: 25/04/2025
   person: Mai Thu Nguyen
   photo: thu.jpeg
-  next: "yes"
   paper_title: "The evolution of self-fertilization and inbreeding depression in plants"
   paper_author: Lande and Schemske
   paper_year: 1985
@@ -379,6 +378,10 @@
   person: Ritam Das
   photo: ritam.jpg
   next: "yes"
+  paper_title: "Innovation and robustness in complex regulatory gene networks"
+  paper_author: Ciliberti <i>et al.</i>
+  paper_year: 2007
+  paper_file: teeb6-2025.pdf
 
 -
   date: 23/05/2025
