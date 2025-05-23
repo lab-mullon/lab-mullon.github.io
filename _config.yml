@@ -41,7 +41,7 @@ authors:
       title:          Post-doc
       site:           
       avatar:         ewan.png
-      bio:            "Ewan completed an undergraduate degree in Biology at the University of Oxford before moving to Imperial College London to do a master's in Computational Biology and a PhD in theoretical evolutionary biology supervised by Vincent Savolainen and Charles Mullon. He joined the lab full-time in Autumn 2022 as a post-doc. Ewan uses mathematical models and computer simulations to study eco-evolutionary dynamics in sexual systems. In particular, he is interested in the ecological drivers of selection in males and females, and the consequence of this for demography and patterns of genetic variation."
+      bio:            "Ewan completed an undergraduate degree in Biology at the University of Oxford before moving to Imperial College London to do a Master's in Computational Biology and a PhD in theoretical evolutionary biology supervised by Vincent Savolainen and Charles Mullon. He joined the lab full-time in Autumn 2022 as a post-doc. Ewan uses mathematical models and computer simulations to study eco-evolutionary dynamics in sexual systems. In particular, he is interested in the ecological drivers of selection in males and females, and the consequence of this for demography and patterns of genetic variation."
       email:          ewan.flintham@unil.ch
       twitter:        https://twitter.com/EwanFlintham
       github:         
@@ -95,7 +95,7 @@ authors:
       title:          PhD student
       site:           http://sudbrack.me
       avatar:         vitor.jpg
-      bio:            "Coming from physics, Vitor's Master thesis with Roberto Kraenkel at the Institute for Theoretical Physics (IFT/Unesp, Brazil) focused on modeling the effects of habitat fragmentation into single species dynamics in artificial landscapes. During a scientific stay at the Institute for Interdisciplinary Physics and Complex Systems (IFISC/CSIC/UiB, Spain), Vitor studied competition release between two competing species in fragmented landscapes. In his PhD, he will investigate the effects of population structure on the segregation of social and competitive alleles to better understand the pace and underlying genetic signatures of adaptation in non-randomly mixing populations."
+      bio:            "Coming from physics, Vitor's Master's thesis with Roberto Kraenkel at the Institute for Theoretical Physics (IFT/Unesp, Brazil) focused on modeling the effects of habitat fragmentation into single species dynamics in artificial landscapes. During a scientific stay at the Institute for Interdisciplinary Physics and Complex Systems (IFISC/CSIC/UiB, Spain), Vitor studied competition release between two competing species in fragmented landscapes. In his PhD, he will investigate the effects of population structure on the segregation of social and competitive alleles to better understand the pace and underlying genetic signatures of adaptation in non-randomly mixing populations."
       email:          vitor.sudbrack@unil.ch
       twitter:        https://twitter.com/vitorsudbrack
       github:         https://github.com/vsudbrack
@@ -107,7 +107,7 @@ authors:
       name:           Ritam Das
       title:          PhD student
       avatar:         ritam.jpg
-      bio:            "Ritam completed his BS-MS in Physics at the Indian Institute of Science Education and Research Mohali. For his master’s thesis, he worked in the CoCoMo Group at the Max Planck Institute of Animal Behaviour in Konstanz, where he developed an event detector for animal calls using machine learning techniques. In September 2024, he joined the TEE Lab as a PhD student."
+      bio:            "Ritam completed his BS-MS in Physics at the Indian Institute of Science Education and Research Mohali. For his Master’s thesis, he worked in the CoCoMo Group at the Max Planck Institute of Animal Behaviour in Konstanz, where he developed an event detector for animal calls using machine learning techniques. In September 2024, he joined the TEE Lab as a PhD student."
       email:          ritam.das@unil.ch
       twitter: https://x.com/_ritamdas
 
@@ -118,11 +118,24 @@ authors:
       bio:            "Julie completed her Master’s degree in Evolutionary Biology at the Université de Montpellier. During her Master’s studies, she developed an eco-evolutionary model for gynodioecious species under the supervision of Patrice David (Centre d'Écologie Fonctionnelle et Évolutive, Montpellier). She also conducted a meta-analysis on the strength of sexual selection on song diversity in Oscines, supervised by Erwan Harscouët and Claire Doutrelant (CEFE, Montpellier). In December 2024, she joined the TEE as a PhD student. Her PhD research focuses on developing a sexual selection model to study the joint dynamics of condition and condition-dependent traits."
       email:          julie.roux@unil.ch
 
+    ayoub:
+      name:           Ayoub Hartaoui
+      title:          Master's student
+      site:           
+      avatar:         ayoub.jpg
+      bio:            "Ayoub Hartaoui obtained his Bachelor's degree in evolutionary biology from the University of Neuchâtel with a <i>cum laude</i> distinction. He is currently a Master's student in the specialization Computational Ecology and Evolution of the Behaviour, Evolution and Conservation (BEC) program at the University of Lausanne. In the lab, he works with Miguel to investigate the evolution of intergroup cooperation and conflict using agent-based models grounded in climate variability and trait diversity."
+      email:           ayoub.hartaoui@unil.ch
+      twitter:        
+      github:         https://github.com/ayoubhartaoui
+      googlescholar:  
+      researchgate:   
+      orcid: 
+      
         
 alumni:  
     franz:
       name:           Franz Chai
-      title:          Master student
+      title:          Master's student
       site:           
       avatar:         franz.jpeg
       bio:            "Franz worked on the project <i>The effect of encounter rate on sexual discrimination</i> under the supervision of Ewan."
@@ -148,7 +161,7 @@ alumni:
 
     marco:
       name:           Marco Fele
-      title:          Master student
+      title:          Master's student
       site:           
       avatar:         marco.jpg
       bio:            "After investigating whether leadership favors colony performance in the decision-making process with simulations, Marco is currently a PhD student at Swansea University, UK."
@@ -161,7 +174,7 @@ alumni:
 
     manuel:
       name:           Manuel Grubb
-      title:          Master student
+      title:          Master's student
       site:           
       avatar:         no.jpg
       bio:            "Manuel developed the project <i>The effect of ecological inheritance on the evolution of resource consumption</i> under the supervision of Iris."
@@ -174,10 +187,10 @@ alumni:
       
     loraine:
       name:           Loraine Hablützel
-      title:          Master student
+      title:          Master's student
       site:           https://banklab.github.io/people/
       avatar:         loraine.jpeg
-      bio:            "After her Master project supervised by Max, Loraine is now a PhD student at the University of Bern. "
+      bio:            "After her Master's project supervised by Max, Loraine is now a PhD student at the University of Bern."
       email:          loraine.habluetzel@unibe.ch
       twitter:        
       github:         
@@ -187,7 +200,7 @@ alumni:
 
     marie:
       name:           Marie Kolsh
-      title:          Master student
+      title:          Master's student
       site:           
       avatar:         marie.png
       bio:            "Marie studied the effects of social structure and dispersion on the culture of vervet monkeys, supervised by Charles Mullon and Erica van de Waal."
