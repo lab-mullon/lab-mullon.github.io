@@ -1,9 +1,25 @@
+iris2025:
+  year: 2025
+  authors:  <b>Iris Prigent</b> and <b>Charles Mullon</b>
+  title: Ecological inheritance facilitates the coexistence of environmental helpers and free-riders
+  journal: BioRxiv (preprint)
+  url: https://www.biorxiv.org/content/10.1101/2025.06.30.662428
+  preprint: "yes"
+
+laurent2025:
+  year: 2025
+  authors:  Laurent Lehmann and <b>Charles Mullon</b>
+  title: "Evolution of quantitative traits: exploring the ecological, social and genetic bases of adaptive polymorphism"
+  journal: BioRxiv (preprint)
+  url: https://www.biorxiv.org/content/10.1101/2025.06.23.661088
+  preprint: "yes"
+
 ewan2025:
   year: 2025
   authors:  <b>Ewan Flintham</b> and <b>Charles Mullon</b>
   title: Sexual antagonism, mating systems, and recombination suppression on sex chromosomes
   journal: BioRxiv (preprint)
-  url: https://www.biorxiv.org/content/10.1101/2025.05.15.654257v1
+  url: https://www.biorxiv.org/content/10.1101/2025.05.15.654257
   preprint: "yes"
 
 loraine2024:
