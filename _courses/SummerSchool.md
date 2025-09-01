@@ -70,8 +70,8 @@ The program is available <a href="/docs/MEB2025/schedule_MEB2025.pdf">here</a> a
             </div>
             <div class="col-md-9">
                 <div class="excerpt" style="text-align:left;margin-top:0px;margin-bottom:auto;">
-                    <!-- <p><a href="/docs/MEB2025/slides2-2025.pdf"><i class="fa fa-file-powerpoint-o fa-lg" aria-hidden="true"></i> Slides</a></p>
-                    <p><a href="/docs/MEB2025/sheet2-2025.pdf"><i class="fa fa-file-text fa-lg" aria-hidden="true"></i> Exercises</a></p> -->
+                    <p><a href="/docs/MEB2025/slides2-2025.pdf"><i class="fa fa-file-powerpoint-o fa-lg" aria-hidden="true"></i> Slides</a></p>
+                    <p><a href="/docs/MEB2025/exercise2-2025.pdf"><i class="fa fa-file-text fa-lg" aria-hidden="true"></i> Exercises</a></p> 
                 </div>
             </div>
         </div>
