@@ -48,6 +48,8 @@ The program is available <a href="/docs/MEB2025/schedule_MEB2025.pdf">here</a> a
                 <div class="excerpt" style="text-align:left;margin-top:0px;margin-bottom:auto;">
                     <p><a href="/docs/MEB2025/slides1-2025.pdf"><i class="fa fa-file-powerpoint-o fa-lg" aria-hidden="true"></i> Slides</a></p>
                     <p><a href="/docs/MEB2025/exercise1-2025.pdf"><i class="fa fa-file-text fa-lg" aria-hidden="true"></i> Exercises</a></p> 
+                    <p><a href="/docs/MEB2025/examples1-2025.nb"><i class="fa fa-check fa-lg" aria-hidden="true"></i> Examples</a></p> 
+                    <p><a href="/docs/MEB2025/solutions1-2025.nb"><i class="fa fa-check fa-lg" aria-hidden="true"></i> Solutions</a></p> 
                 </div>
             </div>
         </div>
