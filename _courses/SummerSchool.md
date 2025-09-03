@@ -95,6 +95,9 @@ The program is available <a href="/docs/MEB2025/schedule_MEB2025.pdf">here</a> a
                 <div class="excerpt" style="text-align:left;margin-top:0px;margin-bottom:auto;">
                     <p><a href="/docs/MEB2025/slides3-2025.pdf"><i class="fa fa-file-powerpoint-o fa-lg" aria-hidden="true"></i> Slides</a></p>
                     <p><a href="/docs/MEB2025/exercise3-2025.pdf"><i class="fa fa-file-text fa-lg" aria-hidden="true"></i> Exercises</a></p> 
+                    <p>Workshop on Best Practices:</p>
+                    <p>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;<a href="/docs/MEB2025/advice1-2025.pdf"><i class="fa fa-file-word-o fa-lg" aria-hidden="true"></i> Notes</a></p>
+                    <p>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;<a href="/docs/MEB2025/paper1-2025.pdf"><i class="fa fa-file-text-o fa-lg" aria-hidden="true"></i> Edwards and Auger-Méthé (2018)</a></p> 
                 </div>
             </div>
         </div>
