@@ -95,6 +95,8 @@ The program is available <a href="/docs/MEB2025/schedule_MEB2025.pdf">here</a> a
                 <div class="excerpt" style="text-align:left;margin-top:0px;margin-bottom:auto;">
                     <p><a href="/docs/MEB2025/slides3-2025.pdf"><i class="fa fa-file-powerpoint-o fa-lg" aria-hidden="true"></i> Slides</a></p>
                     <p><a href="/docs/MEB2025/exercise3-2025.pdf"><i class="fa fa-file-text fa-lg" aria-hidden="true"></i> Exercises</a></p> 
+                    <p><a href="/docs/MEB2025/examples3-2025.nb"><i class="fa fa-check fa-lg" aria-hidden="true"></i> Examples</a></p> 
+                    <p><a href="/docs/MEB2025/solutions3-2025.nb"><i class="fa fa-check fa-lg" aria-hidden="true"></i> Solutions</a></p> 
                     <p style="margin-bottom: 0.5rem;">Workshop on Best Practices</p>
                     <div style="border-left: 3px solid #c0dec8; margin-left: 25px; padding-left: 10px;">
                         <p><a href="/docs/MEB2025/advice1-2025.pdf"><i class="fa fa-file-word-o fa-lg" aria-hidden="true"></i> Notes</a></p>
@@ -119,7 +121,7 @@ The program is available <a href="/docs/MEB2025/schedule_MEB2025.pdf">here</a> a
             </div>
             <div class="col-md-9">
                 <div class="excerpt" style="text-align:left;margin-top:0px;margin-bottom:auto;">
-                    <!-- <p><a href="/docs/MEB2025/group1-2025.pdf"><i class="fa fa-check fa-lg" aria-hidden="true"></i> Project descriptions </a></p> -->
+                    <p><a href="/docs/MEB2025/projects1-2025.pdf"><i class="fa fa-file-powerpoint-o fa-lg" aria-hidden="true"></i> Project descriptions </a></p>
                  </div>
             </div>
         </div>
