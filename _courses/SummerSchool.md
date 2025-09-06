@@ -128,3 +128,22 @@ The program is available <a href="/docs/MEB2025/schedule_MEB2025.pdf">here</a> a
     </div>
 </div>
 
+<div class="col-lg-12 mb-2">
+    <div class="p-3 border rounded">
+        <div class="row" style="min-height:50px">
+            <div class="col-md-3 mb-3 mb-md-0">
+                <h4 class="text-dark mb-0" style="margin-top:0px;margin-bottom:0px;"> 
+                    Research seminar
+                </h4>
+                <small class="d-inline-block mt-1 mb-1 font-weight-normal" style="color:#006400;margin-bottom:0px;">
+                    6/9/2025 
+                </small>
+            </div>
+            <div class="col-md-9">
+                <div class="excerpt" style="text-align:left;margin-top:0px;margin-bottom:auto;">
+                    <p><a href="/docs/MEB2025/slides4-2025.pdf"><i class="fa fa-file-powerpoint-o fa-lg" aria-hidden="true"></i> Laurent's slides</a></p>
+                </div>
+            </div>
+        </div>
+    </div>
+</div>
