@@ -1,5 +1,6 @@
 # Site
 name: 'TEE.Lab'
+title: 'TEE.Lab'
 description: 'Homepage of Theoretical Evolutionary Ecology Lab at the University of Lausanne'
 logo: 'assets/images/front.jpg'
 favicon: 'assets/images/favicon.ico'

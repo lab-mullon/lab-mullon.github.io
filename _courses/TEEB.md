@@ -24,7 +24,9 @@ Each new session is announced by e-mail. To join our mailing list, please contac
 
 <h3 class="font-weight-bold spanborder"><span>Next sessions </span></h3>
 
+<!---
 <i class="fa fa-info-circle fa-lg" aria-hidden="true"></i> We’re currently on summer break. More information about upcoming sessions will be available soon. 
+--->
 
 <div class="row gap-y listrecent listrecent listauthor">
     {% for session in site.data.teeb_sessions %}
