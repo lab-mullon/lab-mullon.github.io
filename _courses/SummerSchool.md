@@ -1,6 +1,6 @@
 ---
 layout: page
-title:  "Modelling for Evolutionary Biology - Summer School 2025"
+title:  "Modelling for Evolutionary Biology - Summer School"
 permalink: /MEB
 ---
 
@@ -27,10 +27,11 @@ permalink: /MEB
     </div>
 </div>
 
-The **Summer School 2025** will be held from 1 to 6 September in the main conference room of the <a href="https://maps.app.goo.gl/Sb6AgSUYSLAj7Srk6">Château de Dorigny</a> at the University of Lausanne. Lectures will be given by Prof. Charles Mullon (<a href="mailto:charles.mullon@unil.ch">charles.mullon@unil.ch</a>) who is also the main contact person for any questions or discussions. The course will be supported by teaching assistants Ewan Flintham, Iris Prigent, Thomas Lesaffre, and Vítor Sudbrack. In addition, research seminars will be delivered by Prof. Sara Mitri and Prof. Laurent Lehmann. 
+The **Summer School 2025** took place from 1–6 September at the University of Lausanne, bringing together 25 international students. Lectures were given by Prof. Charles Mullon, with support from teaching assistants Ewan Flintham, Iris Prigent, Thomas Lesaffre, and Vítor Sudbrack. Research seminars were also delivered by Prof. Sara Mitri and Prof. Laurent Lehmann.
 
-The program is available <a href="/docs/MEB2025/schedule_MEB2025.pdf">here</a> as a pdf.
+We look forward to welcoming the next cohort in 2026: dates and programme details will be announced in March–April 2026.
 
+<!---
 <h3 class="font-weight-bold spanborder"><span>Content </span></h3>
 
 <div class="col-lg-12 mb-2">
@@ -144,4 +145,23 @@ The program is available <a href="/docs/MEB2025/schedule_MEB2025.pdf">here</a> a
             </div>
         </div>
     </div>
+</div>
+--->
+
+<h3 class="font-weight-bold spanborder"><span>2025 Edition </span></h3>
+
+<div style="display:flex; justify-content:center; flex-direction:column; align-items:center;">
+  <img src="/assets/images/MEB2025_photo2.jpg" alt="Photo 2" style="width:80%; margin-bottom: 10px">
+  
+  <div style="display:flex; gap:10px; width:80%;">
+    <div style="flex:1;">
+      <img src="/assets/images/MEB2025_photo1.jpg" alt="Photo 1" style="width:100%; aspect-ratio:1/1; object-fit:cover;">
+    </div>
+    <div style="flex:1;">
+      <img src="/assets/images/MEB2025_photo4.jpg" alt="Photo 4" style="width:100%; aspect-ratio:1/1; object-fit:cover;">
+    </div>
+    <div style="flex:1;">
+      <img src="/assets/images/MEB2025_photo3.jpg" alt="Photo 3" style="width:100%; aspect-ratio:1/1; object-fit:cover;">
+    </div>
+  </div>
 </div>

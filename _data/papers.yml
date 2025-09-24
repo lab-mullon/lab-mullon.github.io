@@ -1,3 +1,18 @@
+max2025:
+  year: 2025
+  authors: Max Schmid, Katja Tielbörger, Amaël Daval and <b>Charles Mullon</b>
+  title: Plastic germination, temporal niche partitioning, and emergent assortative mating in annual plants
+  journal: BioRxiv (preprint)
+  url: https://www.biorxiv.org/content/10.1101/2025.08.15.670279
+  preprint: "yes"
+
+loraine2024:
+  year: 2025
+  authors: <b>Loraine Hablützel</b>, <b>Charles Mullon</b> and Max Schmid
+  title: The evolution of local adaptation in long-lived species
+  journal: Evolution
+  url: https://doi.org/10.1093/evolut/qpaf031
+
 vitor2025:
   year: 2025
   authors:  <b>Vitor Sudbrack</b> and <b>Charles Mullon</b>
@@ -29,13 +44,6 @@ ewan2025:
   journal: BioRxiv (preprint)
   url: https://www.biorxiv.org/content/10.1101/2025.05.15.654257
   preprint: "yes"
-
-loraine2024:
-  year: 2025
-  authors: <b>Loraine Hablützel</b>, <b>Charles Mullon</b> and <b>Max Schmid</b>
-  title: The evolution of local adaptation in long-lived species
-  journal: Evolution (in press)
-  url: https://www.biorxiv.org/content/10.1101/2024.07.17.603878
 
 ludo2024:
   year: 2025
