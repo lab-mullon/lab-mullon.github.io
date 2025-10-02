@@ -416,13 +416,14 @@
   paper_author: Ishii <i>et al.</i>
   paper_year: 1989
   paper_file: teeb9-2025.pdf
-  next: yes
 
 -
-  date: 10/10/2025
+  date: "by <b>Invited Speaker</b>, 10/10/2025"
   person: Louise Fouqueau
-  photo: no.jpg
+  photo: louise.jpg
   next: yes
+  paper_title: "From Parthenogenesis to Range Limits: Insights from the Stepping-Stone Model"
+  paper_file: teeb10-2025.pdf
 
 -
   date: 24/10/2025
