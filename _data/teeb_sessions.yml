@@ -442,13 +442,12 @@
 
 -
   date: 21/11/2025
-  person: Julie Roux 
-  photo: julie.jpg 
-  next: yes
-
--
-  date: 05/12/2025
   person: Ewan Flintham
   photo: ewan.png
   next: yes
 
+-
+  date: 05/12/2025
+  person: Julie Roux 
+  photo: julie.jpg 
+  next: yes
