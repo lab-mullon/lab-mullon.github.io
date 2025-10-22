@@ -145,7 +145,18 @@ authors:
       researchgate:   
       orcid: 
 
-
+    samuel:
+      name:           Samuel Michel
+      title:          Master's student
+      site:           
+      avatar:         samuel.jpeg
+      bio:            "Samuel is a Master student in Behavior, Evolution and Conservation at the University of Lausanne and works with Thomas on a theoretical model of sex allocation in hermaphrodites."
+      email:           samuel.michel@unil.ch
+      twitter:        
+      github:         
+      googlescholar:  
+      researchgate:   
+      orcid: 
         
 alumni:  
     franz:
