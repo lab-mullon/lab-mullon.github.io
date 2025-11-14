@@ -437,7 +437,6 @@
   date: 07/11/2025
   person: Prajwal Padmanabha
   photo: prajwal.jpeg
-  next: yes
   paper_title: "Phenotypic Diversity, Population Growth, and Information in Fluctuating Environments"
   paper_author: Kussell and Leibler
   paper_year: 2005
@@ -450,6 +449,10 @@
   person: Ewan Flintham
   photo: ewan.png
   next: yes
+  paper_title: "Effects of deleterious mutations on the fixation of chromosomal inversions on autosomes and sex chromosomes"
+  paper_author: Lenormand and Roze
+  paper_year: 2025
+  paper_file: teeb13-2025.pdf
 
 -
   date: 05/12/2025
