@@ -448,7 +448,6 @@
   date: 21/11/2025
   person: Ewan Flintham
   photo: ewan.png
-  next: yes
   paper_title: "Effects of deleterious mutations on the fixation of chromosomal inversions on autosomes and sex chromosomes"
   paper_author: Lenormand and Roze
   paper_year: 2025
@@ -458,4 +457,14 @@
   date: 05/12/2025
   person: Julie Roux 
   photo: julie.jpg 
+  next: yes
+  paper_title: "The evolution of mating preferences for genetic attractiveness and quality in the presence of sensory bias"
+  paper_author: Henshaw <i>et al.</i>
+  paper_year: 2022
+  paper_file: teeb14-2025.pdf
+
+-
+  date: "by <b>Invited Speaker</b>, 06/02/2026"
+  person: Denis Roze 
+  photo: roze.jpeg
   next: yes
