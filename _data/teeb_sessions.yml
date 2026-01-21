@@ -468,3 +468,51 @@
   photo: roze.jpeg
   next: yes
   
+-
+  date: 20/02/2026
+  person: Miguel dos Santos 
+  photo: miguel.jpg
+  next: yes
+  
+-
+  date: "20/03/2026"
+  person: Laurent Lehmann<br>Charles Mullon 
+  photo: laurent.jpeg
+  next: yes
+
+-
+  date: "17/04/2026"
+  person: Ekaterine Kikodze 
+  photo: ekaterine.jpg
+  next: yes
+
+-
+  date: "1st/05/2026"
+  person: Cédric Perret 
+  photo: cedric.jpg
+  next: yes
+  
+-
+  date: 15/05/2026
+  person: Thomas Lesaffre 
+  photo: thomas.jpg
+  next: yes
+  
+-
+  date: "29/05/2026"
+  person: Malvika Srivastava
+  photo: malvika.jpg
+  next: yes
+  
+-
+  date: "12/06/2026"
+  person: Ritam Das
+  photo: ritam.jpg
+  next: yes
+  
+-
+  date: "27/06/2026"
+  person: Ehouarn Le Faou
+  photo: ehouarn.jpeg
+  next: yes
+  
