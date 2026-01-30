@@ -9,7 +9,7 @@ permalink: /TEEB
         <div class="row justify-content-between">
             <div class="col-md-6 pr-0 pr-md-4 pt-4 pb-4 align-self-center">
                 <div class="page-content" style="text-align:justify">
-                    The topic group takes place every other Friday from <b>10:00 to 11:30 in room 1929</b>, on the first floor of the Biophore. During our sessions, we discuss a theoretical question by either going through a paper or listening to someone talk about their own work (or a mixture of the two). Each session is hosted by a different member of the topic group. The host is free to choose the topic of the day, the only requirement being that it must be theory in ecology and evolutionary biology. Our schedule is given below along with guidelines on how to host a session. Discussed papers are uploaded on this page a week before the session, it is important to read them before coming. 
+                    The topic group takes place every other Friday from <b>10:00 to 11:30 in room 2205</b>, on the first floor of the Biophore. During our sessions, we discuss a theoretical question by either going through a paper or listening to someone talk about their own work (or a mixture of the two). Each session is hosted by a different member of the topic group. The host is free to choose the topic of the day, the only requirement being that it must be theory in ecology and evolutionary biology. Our schedule is given below along with guidelines on how to host a session. Discussed papers are uploaded on this page a week before the session, it is important to read them before coming. 
                 </div>
             </div>
             <div class="col-md-6 pr-0 align-self-center">
@@ -19,7 +19,7 @@ permalink: /TEEB
     </div>
 </div>
 
-Each new session is announced by e-mail. To join our mailing list, please contact Thomas Lesaffre ([*thomas.lesaffre@unil.ch*](mailto:thomas.lesaffre@unil.ch)). 
+Each new session is announced by e-mail. To join our mailing list, please contact Thomas Lesaffre ([*thomas.lesaffre@unil.ch*](mailto:thomas.lesaffre@unil.ch)) and Malvika Srivastava ([*malvika.srivastava@unil.ch*](malvika.srivastava@unil.ch)). 
 
 
 <h3 class="font-weight-bold spanborder"><span>Next sessions </span></h3>
