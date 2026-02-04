@@ -1,3 +1,11 @@
+  
+vitor2026:
+  year: 2026
+  authors:  <b>Vitor Sudbrack</b> and <b>Charles Mullon</b>
+  title: The evolution of tandem repeat sequences under partial selfing and different modes of selection
+  journal: Heredity
+  url: https://www.nature.com/articles/s41437-026-00820-1
+
 arthur2025:
   year: 2025
   authors: Arthur Weyna, <b>Charles Mullon</b> and Laurent Lehmann 
@@ -20,14 +28,6 @@ loraine2024:
   title: The evolution of local adaptation in long-lived species
   journal: Evolution
   url: https://doi.org/10.1093/evolut/qpaf031
-
-vitor2025:
-  year: 2025
-  authors:  <b>Vitor Sudbrack</b> and <b>Charles Mullon</b>
-  title: The evolution of tandem repeat sequences under partial selfing and different modes of selection
-  journal: BioRxiv (preprint)
-  url: https://www.biorxiv.org/content/10.1101/2025.07.04.663195
-  preprint: "yes"
 
 iris2025:
   year: 2025
