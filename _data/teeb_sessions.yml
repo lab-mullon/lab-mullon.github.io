@@ -467,14 +467,16 @@
   person: Denis Roze 
   paper_title: "Differential selection between sexes and the evolution of recombination in haplodiploids"
   photo: roze.jpeg
-  next: yes
   
 -
   date: 20/02/2026
   person: Miguel dos Santos 
   photo: miguel.jpg
   next: yes
-  
+  paper_title: "The evolution of private reputations in information-abundant landscapes"
+  paper_author: Michel-Mata <i>et al.</i>
+  paper_year: 2024
+  paper_file: teeb1-2026.pdf
 -
   date: "20/03/2026"
   person: Laurent Lehmann<br>Charles Mullon 
