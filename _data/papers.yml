@@ -1,3 +1,30 @@
+arthur2025:
+  year: 2026
+  authors: Arthur Weyna, <b>Charles Mullon</b> and Laurent Lehmann 
+  title: Directional and disruptive selection in populations structured by class and continuous ontogeny under incomplete plasticity
+  journal: PLOS Computational Biology
+  url: https://doi.org/10.1371/journal.pcbi.1013591
+
+max2025:
+  year: 2026
+  authors: Max Schmid, Katja Tielbörger, Amaël Daval and <b>Charles Mullon</b>
+  title: Plastic germination, temporal niche partitioning, and emergent assortative mating in annual plants
+  journal: Ecology Letters
+  url: https://doi.org/10.1111/ele.70346
+
+iris2025:
+  year: 2026
+  authors:  <b>Iris Prigent</b> and <b>Charles Mullon</b>
+  title: Ecological inheritance facilitates the coexistence of environmental helpers and free-riders
+  journal: PNAS
+  url: https://doi.org/10.1073/pnas.2527016123
+  recommended: "yes"
+  recommendedauthor: Olof, L. 
+  recommendedyear: 2026
+  recommendedtitle: "Helper–exploiter polymorphism with ecological inheritance"
+  recommendedurl: https://doi.org/10.1073/pnas.2604884123
+
+
 thomas2026:
   year: 2026
   authors: <b>Thomas Lesaffre</b>, John Pannell and <b>Charles Mullon</b>
@@ -13,21 +40,6 @@ vitor2026:
   journal: Heredity
   url: https://www.nature.com/articles/s41437-026-00820-1
 
-arthur2025:
-  year: 2025
-  authors: Arthur Weyna, <b>Charles Mullon</b> and Laurent Lehmann 
-  title: Directional and disruptive selection in populations structured by class and continuous ontogeny under incomplete plasticity
-  journal: BioRxiv (preprint)
-  url: https://www.biorxiv.org/content/10.1101/2025.10.07.680867
-  preprint: "yes"
-
-max2025:
-  year: 2025
-  authors: Max Schmid, Katja Tielbörger, Amaël Daval and <b>Charles Mullon</b>
-  title: Plastic germination, temporal niche partitioning, and emergent assortative mating in annual plants
-  journal: BioRxiv (preprint)
-  url: https://www.biorxiv.org/content/10.1101/2025.08.15.670279
-  preprint: "yes"
 
 loraine2024:
   year: 2025
@@ -35,14 +47,6 @@ loraine2024:
   title: The evolution of local adaptation in long-lived species
   journal: Evolution
   url: https://doi.org/10.1093/evolut/qpaf031
-
-iris2025:
-  year: 2025
-  authors:  <b>Iris Prigent</b> and <b>Charles Mullon</b>
-  title: Ecological inheritance facilitates the coexistence of environmental helpers and free-riders
-  journal: BioRxiv (preprint)
-  url: https://www.biorxiv.org/content/10.1101/2025.06.30.662428
-  preprint: "yes"
 
 laurent2025:
   year: 2025
