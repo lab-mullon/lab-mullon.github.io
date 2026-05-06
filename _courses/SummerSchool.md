@@ -27,8 +27,6 @@ permalink: /MEB
     </div>
 </div>
 
-The **Summer School 2025** took place from 1–6 September at the University of Lausanne, bringing together 25 international students. Lectures were given by Prof. Charles Mullon, with support from teaching assistants Ewan Flintham, Iris Prigent, Thomas Lesaffre, and Vítor Sudbrack. Research seminars were also delivered by Prof. Sara Mitri and Prof. Laurent Lehmann.
-
 <!---
 <h3 class="font-weight-bold spanborder"><span>Content </span></h3>
 
@@ -152,7 +150,10 @@ We look forward to welcoming the next cohort in 2026!
 
 Registration is now open for the 2026 edition, taking place from **31 August to 5 September 2026**. Applications are open until **27 June 2026**, with scholarships available for eligible students from OECD DAC ODA recipient countries, for which the application deadline is **15 May 2026**.
 
+
 <h3 class="font-weight-bold spanborder"><span>2025 Edition </span></h3>
+
+The **Summer School 2025** took place from 1–6 September at the University of Lausanne, bringing together 25 international students. Lectures were given by Prof. Charles Mullon, with support from teaching assistants Ewan Flintham, Iris Prigent, Thomas Lesaffre, and Vítor Sudbrack. Research seminars were also delivered by Prof. Sara Mitri and Prof. Laurent Lehmann.
 
 <div style="display:flex; justify-content:center; flex-direction:column; align-items:center;">
   <img src="/assets/images/MEB2025_photo2.jpg" alt="Photo 2" style="width:80%; margin-bottom: 10px">
