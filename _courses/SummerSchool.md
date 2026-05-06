@@ -148,7 +148,13 @@ permalink: /MEB
 
 We look forward to welcoming the next cohort in 2026!
 
-Registration is now open for the 2026 edition, taking place from **31 August to 5 September 2026**. Applications are open until **27 June 2026**, with scholarships available for eligible students from OECD DAC ODA recipient countries, for which the application deadline is **15 May 2026**.
+Registration is now open for the **Summer School 2026**, taking place from 31 August to 5 September 2026. Applications are open until **27 June 2026**, with scholarships available for eligible students from OECD DAC ODA recipient countries, for which the application deadline is **15 May 2026**.
+
+<div style="text-align: center;">
+  <a href="https://www.unil.ch/unil/en/home/menuinst/etudier/programmes-courts/summer-winter-schools/modelisation-pour-la-biologie-de-l-evolution-1.html" class="btn btn-dark">
+    More information
+  </a>
+</div>
 
 
 <h3 class="font-weight-bold spanborder"><span>2025 Edition </span></h3>
