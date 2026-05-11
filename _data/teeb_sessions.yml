@@ -495,13 +495,7 @@
   paper_author: Bowles and Choi
   paper_year: 2019
   paper_file: teeb3-2026.pdf
-  
--
-  date: 15/05/2026
-  person: Thomas Lesaffre 
-  photo: thomas.jpg
-  next: yes
-  
+
 -
   date: "29/05/2026"
   person: Malvika Srivastava
@@ -511,12 +505,18 @@
 -
   date: "12/06/2026"
   person: Ritam Das
-  photo: ritam.jpg
+  photo: ritam2.png
   next: yes
   
 -
-  date: "27/06/2026"
+  date: "26/06/2026"
   person: Ehouarn Le Faou
   photo: ehouarn.jpeg
+  next: yes
+  
+-
+  date: 03/07/2026
+  person: Thomas Lesaffre 
+  photo: thomas.jpg
   next: yes
   
