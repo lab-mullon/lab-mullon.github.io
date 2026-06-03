@@ -84,7 +84,7 @@ authors:
       site:           
       avatar:         iris.jpg
       bio:            "Iris holds a Msc in evolutionary biology from the Université de Montpellier with a background in mathematics. She previously worked with Fabien Condamine (Institut des Sciences de l’Evolution de Montpellier) on the phylogeny of cycads, and with Amaury Lambert and Julie Marin (College de France) on modelling the effect of gene flow on gene trees. Iris is now a PhD student modelling evolution in metapopulations. Using mathematical modelling, she wants to understand the emergence of polymorphism for functional traits that influence a species’ ecology with long term effects, such as resource use strategies or habitat maintenance."
-      email:          iris.prigent@unil.ch
+      email:          iris.prigent1@gmail.com
       twitter:        https://twitter.com/iris_prigent
       github:         https://github.com/iris-prigent
       googlescholar:  
@@ -97,7 +97,7 @@ authors:
       site:           http://sudbrack.me
       avatar:         vitor.jpg
       bio:            "Coming from physics, Vitor's Master's thesis with Roberto Kraenkel at the Institute for Theoretical Physics (IFT/Unesp, Brazil) focused on modeling the effects of habitat fragmentation into single species dynamics in artificial landscapes. During a scientific stay at the Institute for Interdisciplinary Physics and Complex Systems (IFISC/CSIC/UiB, Spain), Vitor studied competition release between two competing species in fragmented landscapes. In his PhD, he will investigate the effects of population structure on the segregation of social and competitive alleles to better understand the pace and underlying genetic signatures of adaptation in non-randomly mixing populations."
-      email:          vitor.sudbrack@unil.ch
+      email:          vitorsudbrack@gmail.com
       twitter:        https://twitter.com/vitorsudbrack
       github:         https://github.com/vsudbrack
       googlescholar:  https://scholar.google.com/citations?user=fQ4x-1LZ-nEC
@@ -107,10 +107,10 @@ authors:
     ritam:
       name:           Ritam Das
       title:          PhD student
-      avatar:         ritam.jpg
-      bio:            "Ritam completed his BS-MS in Physics at the Indian Institute of Science Education and Research Mohali. For his Master’s thesis, he worked in the CoCoMo Group at the Max Planck Institute of Animal Behaviour in Konstanz, where he developed an event detector for animal calls using machine learning techniques. In September 2024, he joined the TEE Lab as a PhD student."
+      avatar:         ritam2.png
+      bio:            "Ritam completed his BS-MS in Physics at the Indian Institute of Science Education and Research Mohali. He joined the lab as a PhD student in September 2024. Ritam is interested in the evolution of Gene Regulatory Networks (GRNs). He uses a mix of theory and simulations to understand how polymorphisms in population can be maintained through evolution of regulatory interactions."
       email:          ritam.das@unil.ch
-      twitter: https://x.com/_ritamdas
+      site:           https://dasritam.github.io/
 
     julie:
       name:           Julie Roux
@@ -119,28 +119,19 @@ authors:
       bio:            "Julie completed her Master’s degree in Evolutionary Biology at the Université de Montpellier. During her Master’s studies, she developed an eco-evolutionary model for gynodioecious species under the supervision of Patrice David (Centre d'Écologie Fonctionnelle et Évolutive, Montpellier). She also conducted a meta-analysis on the strength of sexual selection on song diversity in Oscines, supervised by Erwan Harscouët and Claire Doutrelant (CEFE, Montpellier). In December 2024, she joined the TEE as a PhD student. Her PhD research focuses on developing a sexual selection model to study the joint dynamics of condition and condition-dependent traits."
       email:          julie.roux@unil.ch
 
+
+        
+alumni:  
+
     ayoub:
       name:           Ayoub Hartaoui
       title:          Master's student
       site:           
       avatar:         ayoub.jpg
-      bio:            "Ayoub Hartaoui obtained his Bachelor's degree in biology from the University of Neuchâtel with a <i>cum laude</i> distinction. He is currently a Master's student in the specialization Computational Ecology and Evolution of the Behaviour, Evolution and Conservation (BEC) program at the University of Lausanne. In the lab, he works with Miguel to investigate the evolution of intergroup cooperation and conflict using agent-based models grounded in climate variability and trait diversity."
+      bio:            "Ayoub worked with Miguel to investigate the evolution of intergroup cooperation and conflict using agent-based models grounded in climate variability and trait diversity."
       email:           ayoub.hartaoui@unil.ch
       twitter:        
       github:         https://github.com/ayoubhartaoui
-      googlescholar:  
-      researchgate:   
-      orcid: 
-    
-    alexis:
-      name:           Alexis Fornallaz
-      title:          Master's student
-      site:           
-      avatar:         alexis.png
-      bio:            "Alexis is a Master’s student in the BEC (Behaviour, Evolution and Conservation) program at the University of Lausanne. He is working with Malvika on a project modelling caste antagonism in ants. He holds a Bachelor’s degree in Biology from UNIL."
-      email:           alexis.fornallaz@unil.ch
-      twitter:        
-      github:         
       googlescholar:  
       researchgate:   
       orcid: 
@@ -150,15 +141,27 @@ authors:
       title:          Master's student
       site:           
       avatar:         samuel.jpeg
-      bio:            "Samuel is a Master student in Behavior, Evolution and Conservation at the University of Lausanne and works with Thomas on a theoretical model of sex allocation in hermaphrodites."
+      bio:            "Samuel worked with Thomas on a theoretical model of sex allocation in hermaphrodites."
       email:           samuel.michel@unil.ch
       twitter:        
       github:         
       googlescholar:  
       researchgate:   
       orcid: 
-        
-alumni:  
+
+    alexis:
+      name:           Alexis Fornallaz
+      title:          Master's student
+      site:           
+      avatar:         alexis.png
+      bio:            "Alexis worked with Malvika on a project modelling caste antagonism in ants."
+      email:           alexis.fornallaz@unil.ch
+      twitter:        
+      github:         
+      googlescholar:  
+      researchgate:   
+      orcid: 
+
     franz:
       name:           Franz Chai
       title:          Master's student
