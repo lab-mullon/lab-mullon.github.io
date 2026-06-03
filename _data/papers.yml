@@ -1,3 +1,19 @@
+ewan2026:
+  year: 2026
+  authors: <b>Ewan Flintham</b>, <b>Thomas Lesaffre</b>, Sarah Otto and <b>Charles Mullon</b>
+  title: "Sexually antagonistic selection&#x3a a review of the theory and its implications"
+  journal: EcoEvoRxiv (preprint)
+  url: https://ecoevorxiv.org/repository/view/12957/
+  preprint: "yes"
+
+
+ewan2025:
+  year: 2026
+  authors:  <b>Ewan Flintham</b> and <b>Charles Mullon</b>
+  title: Sexual antagonism, mating systems, and recombination suppression on sex chromosomes
+  journal: Evolution Letters
+  url: https://academic.oup.com/evlett/advance-article/doi/10.1093/evlett/qrag021/8685641
+  
 arthur2025:
   year: 2026
   authors: Arthur Weyna, <b>Charles Mullon</b> and Laurent Lehmann 
@@ -56,13 +72,6 @@ laurent2025:
   url: https://www.biorxiv.org/content/10.1101/2025.06.23.661088
   preprint: "yes"
 
-ewan2025:
-  year: 2025
-  authors:  <b>Ewan Flintham</b> and <b>Charles Mullon</b>
-  title: Sexual antagonism, mating systems, and recombination suppression on sex chromosomes
-  journal: BioRxiv (preprint)
-  url: https://www.biorxiv.org/content/10.1101/2025.05.15.654257
-  preprint: "yes"
 
 ludo2024:
   year: 2025
