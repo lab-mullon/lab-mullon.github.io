@@ -525,6 +525,12 @@
   next: yes
   
 -
+  date: "by <b>Invited Speaker</b>, 03/07/2026"
+  person: Julien Bouvet
+  photo: bouvet.jpeg
+  next: yes
+
+-
   date: 10/07/2026
   person: Thomas Lesaffre 
   photo: thomas.jpg
