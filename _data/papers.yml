@@ -1,3 +1,12 @@
+
+charles2026a:
+  year: 2026
+  authors: <b>Charles Mullon</b> , <b>Vitor Sudbrack</b> , Camille Roux , John R Pannell
+  title: Sex allocation of hermaphrodites in metapopulations with frequent population extinction and recolonization
+  journal: Evolution
+  url: https://doi.org/10.1093/evolut/qpag109
+
+
 iris2026:
   year: 2026
   authors: <b>Iris Prigent</b> and <b>Charles Mullon</b>
@@ -112,13 +121,14 @@ thomas2023:
   url: https://doi.org/10.1073/pnas.2406305121
   project: thomas
 
-charles2024c:
-  year: 2024
-  authors: Camille Roux*, <b>Charles Mullon</b>* and John Pannell 
-  title: The evolution of sex allocation in metapopulations
-  journal: BioRxiv (preprint)
-  url: https://www.biorxiv.org/content/10.1101/2020.05.08.080929
-  preprint: "yes"
+# charles2024c:
+#   year: 2024
+#   authors: Camille Roux*, <b>Charles Mullon</b>* and John Pannell 
+#   title: The evolution of sex allocation in metapopulations
+#   journal: BioRxiv (preprint)
+#   url: https://www.biorxiv.org/content/10.1101/2020.05.08.080929
+#   preprint: "yes"
+
 
 charles2023c:
   year: 2024
