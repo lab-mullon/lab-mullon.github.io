@@ -541,10 +541,10 @@
 
 
 
--
-  person: End of Season Barbecue!
-  photo: ../vidy.jpg
-  special_date: 16/07/2026 from 18:00
-  special_title: "Wrap up the season with hot grills and cool drinks by the water at the TEEBBQ!"
-  extra_title: "Location: <a href='https://maps.app.goo.gl/Gf8kUkcsLgbkyw1dA' target='_blank'>Vidy, Lausanne </a>"
-  next: yes
+# -
+#   person: End of Season Barbecue!
+#   photo: ../vidy.jpg
+#   special_date: 16/07/2026 from 18:00
+#   special_title: "Wrap up the season with hot grills and cool drinks by the water at the TEEBBQ!"
+#   extra_title: "Location: <a href='https://maps.app.goo.gl/Gf8kUkcsLgbkyw1dA' target='_blank'>Vidy, Lausanne </a>"
+  
