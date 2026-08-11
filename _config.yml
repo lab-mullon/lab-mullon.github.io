@@ -78,31 +78,9 @@ authors:
       orcid:          https://orcid.org/0000-0003-0757-4990
 
 
-    iris:
-      name:           Iris Prigent
-      title:          PhD student
-      site:           
-      avatar:         iris.jpg
-      bio:            "Iris holds a Msc in evolutionary biology from the Université de Montpellier with a background in mathematics. She previously worked with Fabien Condamine (Institut des Sciences de l’Evolution de Montpellier) on the phylogeny of cycads, and with Amaury Lambert and Julie Marin (College de France) on modelling the effect of gene flow on gene trees. Iris is now a PhD student modelling evolution in metapopulations. Using mathematical modelling, she wants to understand the emergence of polymorphism for functional traits that influence a species’ ecology with long term effects, such as resource use strategies or habitat maintenance."
-      email:          iris.prigent1@gmail.com
-      twitter:        https://twitter.com/iris_prigent
-      github:         https://github.com/iris-prigent
-      googlescholar:  
-      researchgate:   
-      orcid:          
+             
  
-    vitor:
-      name:           Vitor Sudbrack
-      title:          PhD student
-      site:           http://sudbrack.me
-      avatar:         vitor.jpg
-      bio:            "Coming from physics, Vitor's Master's thesis with Roberto Kraenkel at the Institute for Theoretical Physics (IFT/Unesp, Brazil) focused on modeling the effects of habitat fragmentation into single species dynamics in artificial landscapes. During a scientific stay at the Institute for Interdisciplinary Physics and Complex Systems (IFISC/CSIC/UiB, Spain), Vitor studied competition release between two competing species in fragmented landscapes. In his PhD, he will investigate the effects of population structure on the segregation of social and competitive alleles to better understand the pace and underlying genetic signatures of adaptation in non-randomly mixing populations."
-      email:          vitorsudbrack@gmail.com
-      twitter:        https://twitter.com/vitorsudbrack
-      github:         https://github.com/vsudbrack
-      googlescholar:  https://scholar.google.com/citations?user=fQ4x-1LZ-nEC
-      researchgate:   https://www.researchgate.net/profile/Vitor-Sudbrack
-      orcid:          https://orcid.org/0000-0002-4815-2092
+    
 
     ritam:
       name:           Ritam Das
@@ -123,6 +101,37 @@ authors:
         
 alumni:  
 
+
+    vitor:
+      name:           Vitor Sudbrack
+      title:          PhD student
+      site:           http://sudbrack.me
+      avatar:         vitor.jpg
+      bio:            "After completing his PhD in our lab in 2026, Vitor is now a postdoctoral researcher in the Sachdeva lab at the University of Vienna, using mathematical modeling to study the genetic basis of polygenic trait variation and divergence."
+      # bio:            "Coming from physics, Vitor's Master's thesis with Roberto Kraenkel at the Institute for Theoretical Physics (IFT/Unesp, Brazil) focused on modeling the effects of habitat fragmentation into single species dynamics in artificial landscapes. During a scientific stay at the Institute for Interdisciplinary Physics and Complex Systems (IFISC/CSIC/UiB, Spain), Vitor studied competition release between two competing species in fragmented landscapes. In his PhD, he will investigate the effects of population structure on the segregation of social and competitive alleles to better understand the pace and underlying genetic signatures of adaptation in non-randomly mixing populations."
+      email:          vitorsudbrack@gmail.com
+      twitter:        https://twitter.com/vitorsudbrack
+      github:         https://github.com/vsudbrack
+      googlescholar:  https://scholar.google.com/citations?user=fQ4x-1LZ-nEC
+      researchgate:   https://www.researchgate.net/profile/Vitor-Sudbrack
+      orcid:          https://orcid.org/0000-0002-4815-2092
+
+    
+    iris:
+      name:           Iris Prigent
+      title:          PhD student
+      site:           
+      avatar:         iris.jpg
+      bio:            "Iris finished her PhD in our lab in 2025. She is now a postdoctoral researcher."
+      #bio:            "Iris holds a Msc in evolutionary biology from the Université de Montpellier with a background in mathematics. She previously worked with Fabien Condamine (Institut des Sciences de l’Evolution de Montpellier) on the phylogeny of cycads, and with Amaury Lambert and Julie Marin (College de France) on modelling the effect of gene flow on gene trees. Iris is now a PhD student modelling evolution in metapopulations. Using mathematical modelling, she wants to understand the emergence of polymorphism for functional traits that influence a species’ ecology with long term effects, such as resource use strategies or habitat maintenance."
+      email:          iris.prigent1@gmail.com
+      twitter:        https://twitter.com/iris_prigent
+      github:         https://github.com/iris-prigent
+      googlescholar:  
+      researchgate:   
+      orcid: 
+    
+    
     ayoub:
       name:           Ayoub Hartaoui
       title:          Master's student
