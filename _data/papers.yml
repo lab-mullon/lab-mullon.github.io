@@ -15,12 +15,20 @@ iris2026:
   url: https://ecoevorxiv.org/repository/view/13285/
   preprint: "yes"
 
+# ewan2026:
+#   year: 2026
+#   authors: <b>Ewan Flintham</b>*, <b>Thomas Lesaffre</b>*, Sarah Otto and <b>Charles Mullon</b>
+#   title: "Sexually antagonistic selection&#x3a a review of the theory and its implications"
+#   journal: EcoEvoRxiv (preprint)
+#   url: https://ecoevorxiv.org/repository/view/12957/
+#   preprint: "yes"
+
 ewan2026:
   year: 2026
   authors: <b>Ewan Flintham</b>*, <b>Thomas Lesaffre</b>*, Sarah Otto and <b>Charles Mullon</b>
   title: "Sexually antagonistic selection&#x3a a review of the theory and its implications"
-  journal: EcoEvoRxiv (preprint)
-  url: https://ecoevorxiv.org/repository/view/12957/
+  journal: In press at Philosophical Transactions of the Royal Society B
+  url: docs/papers/ewan2026.pdf
   preprint: "yes"
 
 
