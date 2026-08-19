@@ -1,7 +1,21 @@
 
+ewan2026:
+  year: 2026
+  authors: <b>Ewan Flintham</b>*, <b>Thomas Lesaffre</b>*, Sarah Otto and <b>Charles Mullon</b>
+  title: "Sexually antagonistic selection&#x3a a review of the theory and its implications"
+  journal: In press at Philosophical Transactions of the Royal Society B
+  url: docs/papers/ewan2026.pdf
+
+laurent2026:
+  year: 2026
+  authors:  Laurent Lehmann and <b>Charles Mullon</b>
+  title: "Evolution of quantitative traits: Exploring the ecological, social and genetic bases of adaptive polymorphism"
+  journal: Journal of Theoretical Biology
+  url: https://doi.org/10.1016/j.jtbi.2026.112545
+
 charles2026a:
   year: 2026
-  authors: <b>Charles Mullon</b> , <b>Vitor Sudbrack</b> , Camille Roux , John R Pannell
+  authors: <b>Charles Mullon</b>, <b>Vitor Sudbrack</b>, Camille Roux, John R Pannell
   title: Sex allocation of hermaphrodites in metapopulations with frequent population extinction and recolonization
   journal: Evolution
   url: https://doi.org/10.1093/evolut/qpag109
@@ -14,23 +28,6 @@ iris2026:
   journal: EcoEvoRxiv (preprint)
   url: https://ecoevorxiv.org/repository/view/13285/
   preprint: "yes"
-
-# ewan2026:
-#   year: 2026
-#   authors: <b>Ewan Flintham</b>*, <b>Thomas Lesaffre</b>*, Sarah Otto and <b>Charles Mullon</b>
-#   title: "Sexually antagonistic selection&#x3a a review of the theory and its implications"
-#   journal: EcoEvoRxiv (preprint)
-#   url: https://ecoevorxiv.org/repository/view/12957/
-#   preprint: "yes"
-
-ewan2026:
-  year: 2026
-  authors: <b>Ewan Flintham</b>*, <b>Thomas Lesaffre</b>*, Sarah Otto and <b>Charles Mullon</b>
-  title: "Sexually antagonistic selection&#x3a a review of the theory and its implications"
-  journal: In press at Philosophical Transactions of the Royal Society B
-  url: docs/papers/ewan2026.pdf
-  preprint: "yes"
-
 
 ewan2025:
   year: 2026
@@ -89,13 +86,9 @@ loraine2024:
   journal: Evolution
   url: https://doi.org/10.1093/evolut/qpaf031
 
-laurent2025:
-  year: 2025
-  authors:  Laurent Lehmann and <b>Charles Mullon</b>
-  title: "Evolution of quantitative traits: exploring the ecological, social and genetic bases of adaptive polymorphism"
-  journal: BioRxiv (preprint)
-  url: https://www.biorxiv.org/content/10.1101/2025.06.23.661088
-  preprint: "yes"
+
+
+
 
 
 ludo2024:
