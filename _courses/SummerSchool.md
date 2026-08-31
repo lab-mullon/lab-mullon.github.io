@@ -21,14 +21,21 @@ permalink: /MEB
                 </div>
             </div>
             <div class="col-md-4 pr-0 align-self-center" style="padding-bottom:0px;">
-                <img class="rounded" src="/assets/images/Logo_MEB_vector.png" alt="Summer School in Modelling for Evolutionary Biology">
+                <img class="rounded" src="/assets/images/logo_SummerSchool.jpeg" alt="Summer School in Modelling for Evolutionary Biology">
             </div>
         </div>
     </div>
 </div>
 
-<!---
-<h3 class="font-weight-bold spanborder"><span>Content </span></h3>
+
+<h3 class="font-weight-bold spanborder"><span>2026 Edition </span></h3>
+
+The **Summer School 2026** runs from 31 August to 5 September. All course material will be available on this page.
+
+
+
+-
+<!-- <h3 class="font-weight-bold spanborder"><span>Content </span></h3> -->
 
 <div class="col-lg-12 mb-2">
     <div class="p-3 border rounded">
@@ -38,15 +45,17 @@ permalink: /MEB
                     Day 1 
                 </h4>
                 <small class="d-inline-block mt-1 mb-1 font-weight-normal" style="color:#006400;margin-bottom:0px;">
-                    1/9/2025 
+                    31/08/2026 
                 </small>
             </div>
             <div class="col-md-9">
                 <div class="excerpt" style="text-align:left;margin-top:0px;margin-bottom:auto;">
-                    <p><a href="/docs/MEB2025/slides1-2025.pdf"><i class="fa fa-file-powerpoint-o fa-lg" aria-hidden="true"></i> Slides</a></p>
-                    <p><a href="/docs/MEB2025/exercise1-2025.pdf"><i class="fa fa-file-text fa-lg" aria-hidden="true"></i> Exercises</a></p> 
-                    <p><a href="/docs/MEB2025/examples1-2025.nb"><i class="fa fa-check fa-lg" aria-hidden="true"></i> Examples</a></p> 
-                    <p><a href="/docs/MEB2025/solutions1-2025.nb"><i class="fa fa-check fa-lg" aria-hidden="true"></i> Solutions</a></p> 
+                    <p><a href="/docs/MEB2026/Day_1_morning_Lecture.pdf"><i class="fa fa-file-powerpoint-o fa-lg" aria-hidden="true"></i> Morning Session Lecture Slides</a></p>
+                    <p><a href="/docs/MEB2026/Day_1_morning_Ex.pdf"><i class="fa fa-file-text fa-lg" aria-hidden="true"></i> Morning Session Exercises</a></p> 
+                    <p><a href="/docs/MEB2026/Day_1_afternoon_Lecture.pdf"><i class="fa fa-file-powerpoint-o fa-lg" aria-hidden="true"></i>  Afternoon Session Lecture Slides</a></p>
+                    <p><a href="/docs/MEB2026/Day_1_afternoon_Ex.pdf"><i class="fa fa-file-text fa-lg" aria-hidden="true"></i> Afternoon Session Exercises</a></p> 
+                    <!-- <p><a href="/docs/MEB2025/examples1-2025.nb"><i class="fa fa-check fa-lg" aria-hidden="true"></i> Examples</a></p> 
+                    <p><a href="/docs/MEB2025/solutions1-2025.nb"><i class="fa fa-check fa-lg" aria-hidden="true"></i> Solutions</a></p>  -->
                 </div>
             </div>
         </div>
@@ -54,7 +63,7 @@ permalink: /MEB
 </div>
 
 
-<div class="col-lg-12 mb-2">
+<!-- <div class="col-lg-12 mb-2">
     <div class="p-3 border rounded">
         <div class="row" style="min-height:50px">
             <div class="col-md-3 mb-3 mb-md-0">
@@ -75,9 +84,9 @@ permalink: /MEB
             </div>
         </div>
     </div>
-</div>
+</div> -->
 
-<div class="col-lg-12 mb-2">
+<!-- <div class="col-lg-12 mb-2">
     <div class="p-3 border rounded">
         <div class="row" style="min-height:50px">
             <div class="col-md-3 mb-3 mb-md-0">
@@ -103,9 +112,9 @@ permalink: /MEB
             </div>
         </div>
     </div>
-</div>
+</div> -->
 
-<div class="col-lg-12 mb-2">
+<!-- <div class="col-lg-12 mb-2">
     <div class="p-3 border rounded">
         <div class="row" style="min-height:50px">
             <div class="col-md-3 mb-3 mb-md-0">
@@ -123,9 +132,9 @@ permalink: /MEB
             </div>
         </div>
     </div>
-</div>
+</div> -->
 
-<div class="col-lg-12 mb-2">
+<!-- <div class="col-lg-12 mb-2">
     <div class="p-3 border rounded">
         <div class="row" style="min-height:50px">
             <div class="col-md-3 mb-3 mb-md-0">
@@ -141,20 +150,9 @@ permalink: /MEB
             </div>
         </div>
     </div>
-</div>
---->
+</div> -->
+-
 
-<h3 class="font-weight-bold spanborder"><span>2026 Edition </span></h3>
-
-The **Summer School 2026** will take place between 31 August to 5 September. We look forward to welcoming the next cohort in 2026!
-
-<!-- Registration is now open for the **Summer School 2026**, taking place from 31 August to 5 September 2026. Applications are open until **27 June 2026**, with scholarships available for eligible students from OECD DAC ODA recipient countries, for which the application deadline is **15 May 2026**. -->
-
-<div style="text-align: center;">
-  <a href="https://www.unil.ch/unil/en/home/menuinst/etudier/programmes-courts/summer-winter-schools/modelisation-pour-la-biologie-de-l-evolution-1.html" class="btn btn-dark">
-    More information
-  </a>
-</div>
 
 
 <h3 class="font-weight-bold spanborder"><span>2025 Edition </span></h3>
