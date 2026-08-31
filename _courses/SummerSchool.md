@@ -51,9 +51,10 @@ The **Summer School 2026** runs from 31 August to 5 September. All course materi
             <div class="col-md-9">
                 <div class="excerpt" style="text-align:left;margin-top:0px;margin-bottom:auto;">
                     <p><a href="/docs/MEB2026/Day_1_morning_Lecture.pdf"><i class="fa fa-file-powerpoint-o fa-lg" aria-hidden="true"></i> Morning Session Lecture Slides</a></p>
-                    <p><a href="/docs/MEB2026/Day_1_morning_Ex.pdf"><i class="fa fa-file-text fa-lg" aria-hidden="true"></i> Morning Session Exercises</a></p> 
+                    <p><a href="/docs/MEB2026/Day_1_morning_Ex.pdf"><i class="fa fa-file-text fa-lg" aria-hidden="true"></i> Morning Session Exercises</a> | <a href="/docs/MEB2026/Day_1_morning_Corrections.nb"><i class="fa fa-check fa-lg" aria-hidden="true"></i> Solutions</a></p> 
+                    <!-- <p><a href="/docs/MEB2026/Day_1_morning_Corrections.nb"><i class="fa fa-check fa-lg" aria-hidden="true"></i> Solutions</a></p> -->
                     <p><a href="/docs/MEB2026/Day_1_afternoon_Lecture.pdf"><i class="fa fa-file-powerpoint-o fa-lg" aria-hidden="true"></i>  Afternoon Session Lecture Slides</a></p>
-                    <p><a href="/docs/MEB2026/Day_1_afternoon_Ex.pdf"><i class="fa fa-file-text fa-lg" aria-hidden="true"></i> Afternoon Session Exercises</a></p> 
+                    <p><a href="/docs/MEB2026/Day_1_afternoon_Ex.pdf"><i class="fa fa-file-text fa-lg" aria-hidden="true"></i> Afternoon Session Exercises</a>  | <a href="/docs/MEB2026/Day_1_afternoon_Corrections.nb"><i class="fa fa-check fa-lg" aria-hidden="true"></i> Solutions</a> </p> 
                     <!-- <p><a href="/docs/MEB2025/examples1-2025.nb"><i class="fa fa-check fa-lg" aria-hidden="true"></i> Examples</a></p> 
                     <p><a href="/docs/MEB2025/solutions1-2025.nb"><i class="fa fa-check fa-lg" aria-hidden="true"></i> Solutions</a></p>  -->
                 </div>
@@ -62,6 +63,31 @@ The **Summer School 2026** runs from 31 August to 5 September. All course materi
     </div>
 </div>
 
+<div class="col-lg-12 mb-2">
+    <div class="p-3 border rounded">
+        <div class="row" style="min-height:50px">
+            <div class="col-md-3 mb-3 mb-md-0">
+                <h4 class="text-dark mb-0" style="margin-top:0px;margin-bottom:0px;"> 
+                    Day 2 
+                </h4>
+                <small class="d-inline-block mt-1 mb-1 font-weight-normal" style="color:#006400;margin-bottom:0px;">
+                    01/09/2026 
+                </small>
+            </div>
+            <div class="col-md-9">
+                <div class="excerpt" style="text-align:left;margin-top:0px;margin-bottom:auto;">
+                    <p><a href="/docs/MEB2026/Day_2_morning_Lecture.pdf"><i class="fa fa-file-powerpoint-o fa-lg" aria-hidden="true"></i> Morning Session Lecture Slides</a></p>
+                    <p><a href="/docs/MEB2026/Day_2_morning_Ex.pdf"><i class="fa fa-file-text fa-lg" aria-hidden="true"></i> Morning Session Exercises</a></p> 
+                    <!-- <p><a href="/docs/MEB2026/Day_1_morning_Corrections.nb"><i class="fa fa-check fa-lg" aria-hidden="true"></i> Solutions</a></p> -->
+                    <p><a href="/docs/MEB2026/Day_2_afternoon_Lecture.pdf"><i class="fa fa-file-powerpoint-o fa-lg" aria-hidden="true"></i>  Afternoon Session Lecture Slides</a></p>
+                    <p><a href="/docs/MEB2026/Day_2_afternoon_Ex.pdf"><i class="fa fa-file-text fa-lg" aria-hidden="true"></i> Afternoon Session Exercises</a></p> 
+                    <!-- <p><a href="/docs/MEB2025/examples1-2025.nb"><i class="fa fa-check fa-lg" aria-hidden="true"></i> Examples</a></p> 
+                    <p><a href="/docs/MEB2025/solutions1-2025.nb"><i class="fa fa-check fa-lg" aria-hidden="true"></i> Solutions</a></p>  -->
+                </div>
+            </div>
+        </div>
+    </div>
+</div>
 
 <!-- <div class="col-lg-12 mb-2">
     <div class="p-3 border rounded">
