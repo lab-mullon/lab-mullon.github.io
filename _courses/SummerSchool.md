@@ -109,6 +109,26 @@ The **Summer School 2026** runs from 31 August to 5 September. All course materi
         </div>
     </div>
 </div>
+
+<div class="col-lg-12 mb-2">
+    <div class="p-3 border rounded">
+        <div class="row" style="min-height:50px">
+            <div class="col-md-3 mb-3 mb-md-0">
+                <h4 class="text-dark mb-0" style="margin-top:0px;margin-bottom:0px;"> 
+                    Day 4 
+                </h4>
+                <small class="d-inline-block mt-1 mb-1 font-weight-normal" style="color:#006400;margin-bottom:0px;">
+                    03/09/2026 
+                </small>
+            </div>
+            <div class="col-md-9">
+                <div class="excerpt" style="text-align:left;margin-top:0px;margin-bottom:auto;">
+                    <p><a href="/docs/MEB2026/Day4.pdf"><i class="fa fa-file-powerpoint-o fa-lg" aria-hidden="true"></i> Projects</a></p>
+                </div>
+            </div>
+        </div>
+    </div>
+</div>
 <!-- <div class="col-lg-12 mb-2">
     <div class="p-3 border rounded">
         <div class="row" style="min-height:50px">
