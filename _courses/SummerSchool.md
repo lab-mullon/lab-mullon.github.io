@@ -103,7 +103,7 @@ The **Summer School 2026** runs from 31 August to 5 September. All course materi
             <div class="col-md-9">
                 <div class="excerpt" style="text-align:left;margin-top:0px;margin-bottom:auto;">
                     <p><a href="/docs/MEB2026/Day_3_morning_Lecture.pdf"><i class="fa fa-file-powerpoint-o fa-lg" aria-hidden="true"></i> Morning Session Lecture Slides</a></p>
-                    <p><a href="/docs/MEB2026/Day_3_morning_Ex.pdf"><i class="fa fa-file-text fa-lg" aria-hidden="true"></i> Morning Session Exercises</a></p>
+                    <p><a href="/docs/MEB2026/Day_3_morning_Ex.pdf"><i class="fa fa-file-text fa-lg" aria-hidden="true"></i> Morning Session Exercises</a> | <a href="/docs/MEB2026/Day_3_morning_Corrections.nb"><i class="fa fa-check fa-lg" aria-hidden="true"></i> Solutions</a></p>
                 </div>
             </div>
         </div>
