@@ -28,14 +28,7 @@ authors:
       orcid:          https://orcid.org/0000-0002-9875-4227
       bluesky:        "charlesmullon.bsky.social"
   
-    thomas:
-      name:           Thomas Lesaffre
-      title:          Post-doc
-      site:           
-      avatar:         thomas.jpeg
-      bio:            "Thomas obtained his Master's degree in evolutionary ecology at the University of Lille (France), followed by a PhD in theoretical population genetics with Sylvain Billiard in the same institution. During his PhD, he used mathematical models and individual-centred simulations to study the link between life-history, mating system and mutation load in flowering plants. After defending his thesis in March 2021, he joined the lab in October 2021 as a post-doc. He currently works on the evolution of plant sexual systems, with a particular focus on the transition from hermaphroditism, where individuals express male and female sexual functions, to dioecy, where individuals are unisexual."
-      email:          thomas.lesaffre@unil.ch
-      site:           https://thomas-lesaffre.github.io/
+    
  
     ewan:
       name:           Ewan Flintham
@@ -100,6 +93,16 @@ authors:
 
         
 alumni:  
+
+
+    thomas:
+      name:           Thomas Lesaffre
+      title:          Post-doc
+      avatar:         thomas.jpeg
+      # bio:          "Thomas obtained his Master's degree in evolutionary ecology at the University of Lille (France), followed by a PhD in theoretical population genetics with Sylvain Billiard in the same institution. During his PhD, he used mathematical models and individual-centred simulations to study the link between life-history, mating system and mutation load in flowering plants. After defending his thesis in March 2021, he joined the lab in October 2021 as a post-doc. He currently works on the evolution of plant sexual systems, with a particular focus on the transition from hermaphroditism, where individuals express male and female sexual functions, to dioecy, where individuals are unisexual."
+      bio:            "After a post-doc at UNIL working jointly with Charles Mullon and John Pannel, Thomas started as an Ambizione fellow at the University of Fribourg in 2026."
+      email:          thomas.lesaffre@unil.ch
+      site:           https://thomas-lesaffre.github.io/
 
 
     vitor:
