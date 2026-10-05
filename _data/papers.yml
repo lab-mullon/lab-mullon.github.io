@@ -1,3 +1,11 @@
+thomas2026b:
+  year: 2026
+  authors: <b>Thomas Lesaffre</b>, John Pannell and <b>Charles Mullon</b>
+  title: The evolutionary interplay between self-fertilisation and sex allocation in flowering plants
+  journal: BioRxiv (preprint)
+  url: https://doi.org/10.64898/2026.10.01.755674
+  preprint: "yes"
+
 vitor2026b:
   year: 2026
   authors: <b>Vitor Sudbrack</b> and <b>Charles Mullon</b>
@@ -15,6 +23,12 @@ miguel2026:
   url: https://www.biorxiv.org/content/10.64898/2026.08.27.747476v1
   preprint: "yes"
 
+thomas2026a:
+  year: 2026
+  authors: <b>Thomas Lesaffre</b>, John Pannell and <b>Charles Mullon</b>
+  title: The evolution of condition-dependent self-fertilisation
+  journal: The American Naturalist
+  url:  https://doi.org/10.1086/744167
 
 ewan2026:
   year: 2026
@@ -80,13 +94,7 @@ iris2025:
   recommendedurl: https://doi.org/10.1073/pnas.2604884123
 
 
-thomas2026:
-  year: 2026
-  authors: <b>Thomas Lesaffre</b>, John Pannell and <b>Charles Mullon</b>
-  title: The evolution of condition-dependent self-fertilisation
-  journal: BioRxiv (preprint)
-  url:  https://doi.org/10.64898/2026.02.15.705963
-  preprint: "yes"
+
 
 vitor2026:
   year: 2026
