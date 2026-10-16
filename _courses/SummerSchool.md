@@ -30,14 +30,30 @@ permalink: /MEB
 
 <h3 class="font-weight-bold spanborder"><span>2026 Edition </span></h3>
 
-The **Summer School 2026** runs from 31 August to 5 September. All course material will be available on this page.
+The **Summer School 2026** took place between 31 August and 5 September 2026. Held at the University of Lausanne, it was attended by 29 students from across universities. The school was conducted by Prof. Charles Mullon and assisted by Ewan Flintham, Malvika Srivastava and Vitor Sudbrack. Guest lectures were also delivered by Prof. Laurent Lehmann, Prof. Sara Mitri and Prof. Sonja Lehtinen.
+
+<div style="display:flex; justify-content:center; flex-direction:column; align-items:center; margin-bottom: 2rem;">
+  <img src="/assets/images/MEB26_group.jpg" alt="Photo 2" style="width:80%; margin-bottom: 10px">
+  
+  <div style="display:flex; gap:10px; width:80%;">
+    <div style="flex:1;">
+      <img src="/assets/images/MEB26_3.jpg" alt="Photo 1" style="width:100%; aspect-ratio:1/1; object-fit:cover;">
+    </div>
+    <div style="flex:1;">
+      <img src="/assets/images/MEB26_2.jpg" alt="Photo 4" style="width:100%; aspect-ratio:1/1; object-fit:cover;">
+    </div>
+    <div style="flex:1;">
+      <img src="/assets/images/MEB26_1.jpg" alt="Photo 3" style="width:100%; aspect-ratio:1/1; object-fit:cover;">
+    </div>
+  </div>
+</div>
 
 
 
--
+
 <!-- <h3 class="font-weight-bold spanborder"><span>Content </span></h3> -->
 
-<div class="col-lg-12 mb-2">
+<!-- <div class="col-lg-12 mb-2">
     <div class="p-3 border rounded">
         <div class="row" style="min-height:50px">
             <div class="col-md-3 mb-3 mb-md-0">
@@ -52,18 +68,15 @@ The **Summer School 2026** runs from 31 August to 5 September. All course materi
                 <div class="excerpt" style="text-align:left;margin-top:0px;margin-bottom:auto;">
                     <p><a href="/docs/MEB2026/Day_1_morning_Lecture.pdf"><i class="fa fa-file-powerpoint-o fa-lg" aria-hidden="true"></i> Morning Session Lecture Slides</a></p>
                     <p><a href="/docs/MEB2026/Day_1_morning_Ex.pdf"><i class="fa fa-file-text fa-lg" aria-hidden="true"></i> Morning Session Exercises</a> | <a href="/docs/MEB2026/Day_1_morning_Corrections.nb"><i class="fa fa-check fa-lg" aria-hidden="true"></i> Solutions</a></p> 
-                    <!-- <p><a href="/docs/MEB2026/Day_1_morning_Corrections.nb"><i class="fa fa-check fa-lg" aria-hidden="true"></i> Solutions</a></p> -->
                     <p><a href="/docs/MEB2026/Day_1_afternoon_Lecture.pdf"><i class="fa fa-file-powerpoint-o fa-lg" aria-hidden="true"></i>  Afternoon Session Lecture Slides</a></p>
                     <p><a href="/docs/MEB2026/Day_1_afternoon_Ex.pdf"><i class="fa fa-file-text fa-lg" aria-hidden="true"></i> Afternoon Session Exercises</a>  | <a href="/docs/MEB2026/Day_1_afternoon_Corrections.nb"><i class="fa fa-check fa-lg" aria-hidden="true"></i> Solutions</a> </p> 
-                    <!-- <p><a href="/docs/MEB2025/examples1-2025.nb"><i class="fa fa-check fa-lg" aria-hidden="true"></i> Examples</a></p> 
-                    <p><a href="/docs/MEB2025/solutions1-2025.nb"><i class="fa fa-check fa-lg" aria-hidden="true"></i> Solutions</a></p>  -->
                 </div>
             </div>
         </div>
     </div>
-</div>
+</div> -->
 
-<div class="col-lg-12 mb-2">
+<!-- <div class="col-lg-12 mb-2">
     <div class="p-3 border rounded">
         <div class="row" style="min-height:50px">
             <div class="col-md-3 mb-3 mb-md-0">
@@ -78,18 +91,15 @@ The **Summer School 2026** runs from 31 August to 5 September. All course materi
                 <div class="excerpt" style="text-align:left;margin-top:0px;margin-bottom:auto;">
                     <p><a href="/docs/MEB2026/Day_2_morning_Lecture.pdf"><i class="fa fa-file-powerpoint-o fa-lg" aria-hidden="true"></i> Morning Session Lecture Slides</a></p>
                     <p><a href="/docs/MEB2026/Day_2_morning_Ex.pdf"><i class="fa fa-file-text fa-lg" aria-hidden="true"></i> Morning Session Exercises</a> | <a href="/docs/MEB2026/Day_2_morning_Corrections.nb"><i class="fa fa-check fa-lg" aria-hidden="true"></i> Solutions</a></p> 
-                    <!-- <p><a href="/docs/MEB2026/Day_1_morning_Corrections.nb"><i class="fa fa-check fa-lg" aria-hidden="true"></i> Solutions</a></p> -->
                     <p><a href="/docs/MEB2026/Day_2_afternoon_Lecture.pdf"><i class="fa fa-file-powerpoint-o fa-lg" aria-hidden="true"></i>  Afternoon Session Lecture Slides</a></p>
                     <p><a href="/docs/MEB2026/Day_2_afternoon_Ex.pdf"><i class="fa fa-file-text fa-lg" aria-hidden="true"></i> Afternoon Session Exercises</a> | <a href="/docs/MEB2026/Day_2_afternoon_Corrections.nb"><i class="fa fa-check fa-lg" aria-hidden="true"></i> Solutions</a></p> 
-                    <!-- <p><a href="/docs/MEB2025/examples1-2025.nb"><i class="fa fa-check fa-lg" aria-hidden="true"></i> Examples</a></p> 
-                    <p><a href="/docs/MEB2025/solutions1-2025.nb"><i class="fa fa-check fa-lg" aria-hidden="true"></i> Solutions</a></p>  -->
                 </div>
             </div>
         </div>
     </div>
-</div>
+</div> -->
 
-<div class="col-lg-12 mb-2">
+<!-- <div class="col-lg-12 mb-2">
     <div class="p-3 border rounded">
         <div class="row" style="min-height:50px">
             <div class="col-md-3 mb-3 mb-md-0">
@@ -108,9 +118,9 @@ The **Summer School 2026** runs from 31 August to 5 September. All course materi
             </div>
         </div>
     </div>
-</div>
+</div> -->
 
-<div class="col-lg-12 mb-2">
+<!-- <div class="col-lg-12 mb-2">
     <div class="p-3 border rounded">
         <div class="row" style="min-height:50px">
             <div class="col-md-3 mb-3 mb-md-0">
@@ -128,7 +138,7 @@ The **Summer School 2026** runs from 31 August to 5 September. All course materi
             </div>
         </div>
     </div>
-</div>
+</div> -->
 <!-- <div class="col-lg-12 mb-2">
     <div class="p-3 border rounded">
         <div class="row" style="min-height:50px">
@@ -217,7 +227,6 @@ The **Summer School 2026** runs from 31 August to 5 September. All course materi
         </div>
     </div>
 </div> -->
--
 
 
 
@@ -225,7 +234,7 @@ The **Summer School 2026** runs from 31 August to 5 September. All course materi
 
 The **Summer School 2025** took place from 1–6 September at the University of Lausanne, bringing together 25 international students. Lectures were given by Prof. Charles Mullon, with support from teaching assistants Ewan Flintham, Iris Prigent, Thomas Lesaffre, and Vítor Sudbrack. Research seminars were also delivered by Prof. Sara Mitri and Prof. Laurent Lehmann.
 
-<div style="display:flex; justify-content:center; flex-direction:column; align-items:center;">
+<div style="display:flex; justify-content:center; flex-direction:column; align-items:center; margin-bottom: 2rem;">
   <img src="/assets/images/MEB2025_photo2.jpg" alt="Photo 2" style="width:80%; margin-bottom: 10px">
   
   <div style="display:flex; gap:10px; width:80%;">
