@@ -594,7 +594,6 @@
   paper_author: Cui <i>et al.</i>
   paper_year: 2026
   paper_file: teeb11-2026.pdf
-  next: yes
 
 -
   date: 27/11/2026
@@ -606,7 +605,11 @@
   date: "by <b>Guest Speaker</b>, 04/12/2026"
   person: Jorge Peña 
   photo: jorge.jpeg
+  paper_title: "Cooperation thrives when moral judgment matches moral conduct"
+  paper_author: Peña <i>et al.</i>
+  paper_year: 2026
   next: yes
+  paper_file: teeb12-2026.pdf
 
 -
   date: "by <b>Guest Speaker</b>, 11/12/2026"
