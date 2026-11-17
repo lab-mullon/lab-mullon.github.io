@@ -603,6 +603,12 @@
   next: yes
 
 -
+  date: "by <b>Guest Speaker</b>, 04/12/2026"
+  person: Jorge Peña 
+  photo: jorge.jpeg
+  next: yes
+
+-
   date: "by <b>Guest Speaker</b>, 11/12/2026"
   person: Ella Rees-Baylis 
   photo: ella.jpg
